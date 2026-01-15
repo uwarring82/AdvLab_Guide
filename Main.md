@@ -2,7 +2,7 @@
 
 ## Unified Documentation
 
-Version 1.0
+Version 1.0–RC
 
 -----
 
@@ -38,6 +38,17 @@ This laboratory is undergoing slow, deliberate modernisation. This document refl
 -----
 
 ## Quick Reference
+
+**Your protections (Part I principles):**
+
+| Principle | What it means for you |
+|-----------|----------------------|
+| Known Criteria | You can only be assessed on criteria you knew beforehand |
+| Proportional Authority | You're only responsible for what you could influence |
+| Traceable Decisions | Every decision affecting you must have a name and reason |
+| Separation of Layers | Rules can't hide whether they're about purpose, procedure, or authority |
+| Symmetric Visibility | If you can't see a rule, it can't be used against you |
+| Correctable Error | One mistake doesn't end your participation |
 
 **Key deadlines:**
 
@@ -716,9 +727,19 @@ The overall grade is the weighted average of all partial grades from labs and se
 
 The entrance procedure (15-minute conversation) is part of the learning phase. If preparation is insufficient, the tutor teaches and the conversation may be repeated.
 
-**Grade implications:** If the entrance procedure must be repeated due to insufficient preparation, this is documented. Repeated difficulties with preparation across multiple experiments may be considered when assessing overall engagement, but a single repeated entrance does not automatically cap your grade. The goal is learning, not punishment.
+**Definitions:**
 
-**Hard limit:** If more than two entrance procedures are failed across all experiments, the entire course is failed. This threshold exists because the preparation phase is essential for safe and productive lab work.
+| Status | What happened | Recorded as | Consequence |
+|--------|---------------|-------------|-------------|
+| **Passed** | Student demonstrated sufficient understanding | ☑ Passed | Proceed to measurements |
+| **Repeated** | Gaps identified; tutor taught; student then demonstrated understanding | ☑ Repeated (gaps addressed) | Proceed to measurements; documented but no grade impact |
+| **Failed** | Student could not demonstrate understanding even after teaching; sent home to prepare | ☑ Failed (reschedule required) | Must return another day; counts toward hard limit |
+
+The tutor records the outcome on the feedback form. "Repeated" means the conversation took longer or required teaching, but the student succeeded in the same session. "Failed" means the student was sent home and must reschedule.
+
+**Grade implications:** A single "Repeated" status does not affect your grade. Repeated difficulties across multiple experiments may be noted when assessing overall engagement. The goal is learning, not punishment.
+
+**Hard limit:** If more than two entrance procedures are marked "Failed" across all experiments, the entire course is failed. This threshold exists because the preparation phase is essential for safe and productive lab work.
 
 -----
 
@@ -739,6 +760,16 @@ This template is mandatory for all graded work. All four quality markers require
 ## Part 1: Learning Phase Feedback
 
 *This section documents teaching and learning during preparation and lab work. It is formative feedback, not part of the final grade.*
+
+### Entrance Procedure Outcome
+
+**This checkbox is mandatory.** It determines whether a "failed" entrance counts toward the hard limit (see Appendix A).
+
+| | Passed | Repeated (gaps addressed) | Failed (reschedule required) |
+|--|:-:|:-:|:-:|
+| Outcome | ☐ | ☐ | ☐ |
+
+*Passed: sufficient understanding demonstrated. Repeated: gaps identified, tutor taught, student succeeded same session. Failed: student sent home to prepare, must reschedule.*
 
 ### Preparation
 
@@ -871,7 +902,7 @@ _______________________________________________________________________________
 
 |Field            |Value                       |
 |-----------------|----------------------------|
-|Version          |1.0                         |
+|Version          |1.0–RC                      |
 |Status           |Draft                       |
 |Created          |2026-01-15                  |
 |Structure        |Framework + Essay + Handbook|
