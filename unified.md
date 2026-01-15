@@ -2,7 +2,7 @@
 
 ## Unified Documentation
 
-Version 1.0–RC
+Version 1.0
 
 -----
 
@@ -28,6 +28,7 @@ This laboratory is undergoing slow, deliberate modernisation. This document refl
 
 **How to read this:**
 
+- If you're new to the lab → Read the **Welcome Introduction** first (separate document, ~10 min)
 - If you need deadlines and escalation paths quickly → Quick Reference (next page)
 - If you need to know what you must do → Part III (Handbook)
 - If you need to know what cannot be violated → Part I (Framework)
@@ -902,7 +903,7 @@ _______________________________________________________________________________
 
 |Field            |Value                       |
 |-----------------|----------------------------|
-|Version          |1.0–RC                      |
+|Version          |1.0                         |
 |Status           |Draft                       |
 |Created          |2026-01-15                  |
 |Structure        |Framework + Essay + Handbook|
