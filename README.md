@@ -45,7 +45,7 @@ The six principles are:
 5. **Symmetric Visibility** — If a rule applies to you, you can see it. Everyone can see everyone's obligations.
 6. **Correctable Error** — One mistake does not end your participation if you acknowledge it and correct it.
 
-This document changes rarely. It is meant to last for many years.
+This document changes rarely. It is meant to last for many years. It does not inspire, instruct, or persuade. It defines what must hold.
 
 ### Unified Essay
 
@@ -202,8 +202,3 @@ Physikalisches Institut
 Universität Freiburg
 
 For questions about specific courses, check ILIAS.
-
----
-
-*"It does not inspire, instruct, or persuade. It defines what must hold."*  
-— Invariant Framework
