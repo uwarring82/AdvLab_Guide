@@ -1,6 +1,6 @@
 # Welcome to the Advanced Physics Laboratory
 
-A 10-minute read before your first day.
+A 10-minute briefing note.
 
 -----
 
