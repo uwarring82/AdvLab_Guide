@@ -1,8 +1,8 @@
-# Advanced Physics Laboratory
+# Advanced Master Laboratory
 
 ## Unified Documentation
 
-Version 1.0
+Version 1.0 (release candidate)
 
 -----
 
@@ -77,11 +77,11 @@ Everyone in the laboratory is accountable to someone. The chain is complete.
 
 ### How Accountability Differs by Role
 
-|Role      |Accountable to |Type of consequence                             |Speed    |Visibility|
-|----------|---------------|------------------------------------------------|---------|----------|
-|Students  |Tutors         |Grade consequences: marks, failure, exclusion   |Immediate|High      |
-|Tutors    |Organisers     |Employment consequences: documentation, removal |Slower   |Lower     |
-|Organisers|Dean of Studies|Institutional consequences: review, intervention|Slowest  |Lowest    |
+|Role     |Accountable to   |Type of consequence                              |Speed    |Visibility|
+|---------|-----------------|-------------------------------------------------|---------|----------|
+|Students |Tutors           |Grade consequences: marks, failure, exclusion    |Immediate|High      |
+|Tutors   |Organisers       |Employment consequences: documentation, removal  |Slower   |Lower     |
+|Organisers|Dean of Studies |Institutional consequences: review, intervention |Slowest  |Lowest    |
 
 The types of consequences differ. That is honest. But accountability exists at every level.
 
@@ -151,7 +151,7 @@ We are teachers, and we are still learning. We have more experience than student
 We commit to:
 
 - Being present and prepared to teach
-- Answering honestly, even when the answer is “I don’t know”
+- Answering honestly, even when the answer is "I don't know"
 - Using authority carefully
 - Giving feedback that helps, not feedback that impresses or discourages
 - Asking for help when something is beyond us
@@ -194,23 +194,23 @@ This section contains enforceable rules. Every rule has a specific action, deadl
 
 ## Navigation
 
-|Role     |Key chapters |
-|---------|-------------|
-|Student  |2, 3, 6, 7   |
-|Tutor    |2, 3, 4, 6, 7|
-|Organiser|All          |
+|Role     |Key chapters          |
+|---------|----------------------|
+|Student  |2, 3, 6, 7            |
+|Tutor    |2, 3, 4, 6, 7         |
+|Organiser|All                   |
 
 -----
 
 ## Chapter 1: Where Information Lives
 
-|Information                                |Location           |
-|-------------------------------------------|-------------------|
-|Rules and procedures                       |This section       |
-|Principles                                 |Part I (Framework) |
-|Commitments                                |Part II (Essay)    |
-|Experiment instructions                    |experiments/ folder|
-|Schedules, contacts, grades, safety records|ILIAS              |
+|Information            |Location           |
+|-----------------------|-------------------|
+|Rules and procedures   |This section       |
+|Principles             |Part I (Framework) |
+|Commitments            |Part II (Essay)    |
+|Experiment instructions|experiments/ folder|
+|Schedules, contacts, grades, safety records|ILIAS|
 
 **Note on experiment instructions:** Lab instructions vary in structure. This laboratory is undergoing slow, deliberate modernization. Legacy and new formats coexist and both are valid. Consistency will emerge gradually; forcing uniformity would compromise quality.
 
@@ -248,8 +248,8 @@ Before entering the laboratory, complete these modules on ILIAS:
 These always apply:
 
 1. **Know before you touch.** If you do not understand equipment, ask before using it.
-1. **Report problems immediately.** If something breaks, sparks, leaks, or behaves unexpectedly, tell someone at once.
-1. **Never work alone with hazardous equipment.** Check the experiment guide for when a second person is required.
+2. **Report problems immediately.** If something breaks, sparks, leaks, or behaves unexpectedly, tell someone at once.
+3. **Never work alone with hazardous equipment.** Check the experiment guide for when a second person is required.
 
 **Consequence of violation:** Immediate removal from the laboratory for that session. Repeated violations result in exclusion from the course (students) or removal from the role (tutors).
 
@@ -263,17 +263,17 @@ These always apply:
 
 You should:
 
-|Action                                |Why                                |
-|--------------------------------------|-----------------------------------|
-|Complete safety training              |Required to enter laboratory       |
-|Read the experiment guide             |So your tutor can teach effectively|
-|Prepare for the 15-minute conversation|So your lab time is productive     |
+|Action                                      |Why                                              |
+|--------------------------------------------|-------------------------------------------------|
+|Complete safety training                    |Required to enter laboratory                     |
+|Read the experiment guide                   |So your tutor can teach effectively              |
+|Prepare for the 15-minute conversation      |So your lab time is productive                   |
 
 If you arrive unprepared, your tutor will teach you—but your limited lab time may not be enough to complete the experiment well. Preparation protects your own learning.
 
 ### 3.2 The 15-Minute Conversation
 
-Before measurements, you have a 15-minute conversation with your tutor. **This is part of the learning phase—not graded.**
+Before measurements, you have a 15-minute conversation with your tutor. You are expected to lead the conversation. **This is part of the learning phase—not graded.**
 
 **What you should be able to discuss:**
 
@@ -294,11 +294,15 @@ You must:
 
 ### 3.4 After the Lab Session
 
-|Deliverable          |Deadline          |Consequence of missing deadline        |
-|---------------------|------------------|---------------------------------------|
-|Lab notebook complete|End of session    |Noted; affects final grade             |
-|Written report       |See ILIAS for date|Grade penalty per day late             |
-|Presentation         |See ILIAS for date|Grade penalty; may require rescheduling|
+|Deliverable     |Default deadline              |
+|----------------|------------------------------|
+|Lab notebook    |End of session                |
+|Written report  |One week after last lab day   |
+|Oral report     |Accompanies written submission|
+
+**The oral report:** When you submit your written report, you give a 15-minute oral presentation of your main findings. Tutors attend; organisers may attend. This is part of the assessment phase.
+
+**How grading works:** Tutors assess the written report and factor in the oral presentation. Tutors and organisers may deliberate on performance level and final grade. You will receive clear, careful feedback that explains your grade.
 
 ### 3.5 Consequences
 
@@ -316,7 +320,18 @@ The rules in Chapter 2 apply to you.
 
 **Additional rule:** You may not supervise if your safety training has expired.
 
-### 4.2 Attendance and Preparation
+### 4.2 Before Course Start
+
+Before each lab course, you must:
+
+- Test equipment for each experiment you will supervise
+- Take measurements and analyse data to verify proper function
+- Confirm you understand the experiment well enough to teach it
+- Report problems to team members and organisers immediately
+
+Equipment issues discovered early can be resolved. Issues discovered during student sessions waste everyone's time. Organisers assist with purchasing new equipment and consumables.
+
+### 4.3 Attendance and Preparation
 
 |Requirement                          |Consequence of failure                                                                                      |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -325,7 +340,7 @@ The rules in Chapter 2 apply to you.
 
 **You are still learning too.** Being prepared means understanding the experiment well enough to teach it, not knowing everything. If you encounter limits, acknowledge them honestly and seek help.
 
-### 4.3 The 15-Minute Presentation
+### 4.4 The 15-Minute Conversation
 
 **Your role:** You are teaching, not examining.
 
@@ -335,19 +350,25 @@ The rules in Chapter 2 apply to you.
 - If a student is significantly unprepared, you may ask them to prepare further. Document this and the reason.
 - If you encounter something you cannot explain, say so honestly and find help together
 
-### 4.4 Feedback Deadlines
+### 4.5 Feedback Deadlines
 
 |Deliverable                  |Your deadline                                    |Consequence of missing deadline           |
 |-----------------------------|-------------------------------------------------|------------------------------------------|
-|Pre-lab presentation feedback|Immediate (before measurements)                  |Student cannot proceed; document the delay|
+|Pre-lab conversation feedback|Immediate (before measurements)                  |Student cannot proceed; document the delay|
 |Notebook check               |Same session or next session                     |Documented                                |
 |Written report feedback      |14 calendar days after submission                |Student may escalate; documented          |
-|Presentation feedback        |Verbal: immediate. Written (if requested): 7 days|Documented                                |
+|Oral report feedback         |Verbal: immediate. Written (if requested): 7 days|Documented                                |
 |Resubmission feedback        |10 calendar days after resubmission              |Student may escalate; documented          |
 
 **If you cannot meet a deadline:** Notify the student and an organiser before the deadline. State when you will deliver.
 
-### 4.5 Grading
+### 4.6 Grading
+
+**The oral report:** You attend the student's 15-minute oral presentation when they submit their written report. Factor the oral presentation into the final report grade.
+
+**Deliberation:** You may consult with organisers on performance level and final grade. This is normal, not a sign of uncertainty.
+
+**Feedback:** Give clear, careful feedback that explains the grade. Critical feedback is expected—it helps students learn. Be honest and constructive.
 
 |Requirement                                                     |Consequence of failure                  |
 |----------------------------------------------------------------|----------------------------------------|
@@ -356,17 +377,17 @@ The rules in Chapter 2 apply to you.
 |Document any grade that differs significantly from typical range|Organiser review                        |
 |Store grades only on ILIAS                                      |Security review                         |
 
-### 4.6 What You May Not Do
+### 4.7 What You May Not Do
 
-|Action                                                |Why                           |
-|------------------------------------------------------|------------------------------|
-|Invent new assessment criteria after work is submitted|Violates Framework Principle 1|
-|Grant extensions beyond course policy                 |Refer to organiser            |
-|Exclude a student from the laboratory                 |Requires organiser decision   |
-|Waive safety requirements                             |Never permitted               |
-|Supervise with expired safety training                |Never permitted               |
+|Action                                                |Why                                  |
+|------------------------------------------------------|-------------------------------------|
+|Invent new assessment criteria after work is submitted|Violates Framework Principle 1      |
+|Grant extensions beyond course policy                 |Refer to organiser                   |
+|Exclude a student from the laboratory                 |Requires organiser decision          |
+|Waive safety requirements                             |Never permitted                      |
+|Supervise with expired safety training                |Never permitted                      |
 
-### 4.7 Consequences
+### 4.8 Consequences
 
 |Failure                   |Consequence             |
 |--------------------------|------------------------|
@@ -389,49 +410,53 @@ The rules in Chapter 2 apply to you.
 
 ### 5.2 Before Course Start
 
-|Action                                      |Consequence of failure                              |
-|--------------------------------------------|----------------------------------------------------|
-|Verify all tutors have valid safety training|Tutors cannot supervise; documented                 |
-|Verify equipment is functional              |Experiments cannot run; documented                  |
-|Publish assessment criteria                 |Grades may be challenged under Framework Principle 1|
-|Update ILIAS with schedules and contacts    |Students cannot prepare; documented                 |
+|Action                                      |Consequence of failure                                |
+|--------------------------------------------|------------------------------------------------------|
+|Verify all tutors have valid safety training|Tutors cannot supervise; documented                   |
+|Verify equipment is functional              |Experiments cannot run; documented                    |
+|Publish assessment criteria                 |Grades may be challenged under Framework Principle 1  |
+|Update ILIAS with schedules and contacts    |Students cannot prepare; documented                   |
+
+**Equipment support:** Assist tutors with purchasing new equipment and consumables when issues are identified during pre-course testing.
 
 ### 5.3 During the Course
 
-|Action                                            |Deadline                                                         |Consequence of failure                           |
-|--------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------|
-|Respond to escalations                            |Acknowledge within 2 working days; resolve within 10 working days|Student or tutor may escalate to dean; documented|
-|Monitor tutor feedback compliance                 |Ongoing                                                          |Tutors may miss deadlines without consequence    |
-|Keep equipment functional or marked out of service|Ongoing                                                          |Students cannot complete experiments; documented |
+|Action                                            |Deadline                                                         |Consequence of failure                                 |
+|--------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|
+|Respond to escalations                            |Acknowledge within 2 working days; resolve within 10 working days|Student or tutor may escalate to dean; documented      |
+|Monitor tutor feedback compliance                 |Ongoing                                                          |Tutors may miss deadlines without consequence          |
+|Keep equipment functional or marked out of service|Ongoing                                                          |Students cannot complete experiments; documented       |
+
+**Grading support:** You may attend oral reports and deliberate with tutors on performance levels and final grades.
 
 ### 5.4 Escalation Resolution
 
 When someone escalates an issue to you:
 
 1. Acknowledge receipt within 2 working days.
-1. Gather information from all parties.
-1. Decide based on documented criteria.
-1. Communicate the decision in writing.
-1. Document the decision and the reason.
+2. Gather information from all parties.
+3. Decide based on documented criteria.
+4. Communicate the decision in writing.
+5. Document the decision and the reason.
 
 If you need more than 10 working days, tell the affected parties and give a new deadline.
 
 ### 5.5 What You May Not Do
 
-|Action                                     |Why                           |
-|-------------------------------------------|------------------------------|
-|Overrule a tutor’s grade without discussion|Undermines tutor authority    |
-|Ignore an escalation                       |Violates this handbook        |
-|Fail to document decisions                 |Violates Framework Principle 3|
+|Action                                     |Why                                  |
+|-------------------------------------------|-------------------------------------|
+|Overrule a tutor's grade without discussion|Undermines tutor authority           |
+|Ignore an escalation                       |Violates this handbook               |
+|Fail to document decisions                 |Violates Framework Principle 3       |
 
 ### 5.6 Consequences
 
-|Failure                         |Consequence             |
-|--------------------------------|------------------------|
-|Missing escalation deadline     |May be escalated to dean|
-|Failing to verify tutor training|Documented              |
-|Failing to publish criteria     |Grades may be challenged|
-|Pattern of failures             |Reported to dean        |
+|Failure                        |Consequence             |
+|-------------------------------|------------------------|
+|Missing escalation deadline    |May be escalated to dean|
+|Failing to verify tutor training|Documented             |
+|Failing to publish criteria    |Grades may be challenged|
+|Pattern of failures            |Reported to dean        |
 
 **Recourse:** If an organiser fails to respond, escalate to the dean of studies (Chapter 6).
 
@@ -443,44 +468,44 @@ Escalation is how you move a problem to someone with more authority. The account
 
 ### 6.1 Escalation Paths
 
-|Problem                       |First step             |If unresolved        |Final authority             |
-|------------------------------|-----------------------|---------------------|----------------------------|
-|Feedback not received         |Ask tutor              |Tell organiser       |Organiser decides           |
-|Disagree with grade           |Ask tutor              |Tell organiser       |Organiser decides           |
-|Unclear expectations          |Ask tutor              |Tell organiser       |Organiser clarifies         |
-|Equipment not working         |Tell tutor             |Tell organiser       |Organiser resolves          |
-|Safety concern                |Tell tutor or organiser|Tell organiser       |Institutional safety officer|
-|Tutor not available           |Tell organiser         |—                    |Organiser resolves          |
-|Problem with tutor conduct    |Tell organiser         |Tell dean of studies |Institution decides         |
-|Problem with student conduct  |Tutor tells organiser  |Institutional process|Institution decides         |
-|Problem with organiser conduct|Tell dean of studies   |—                    |Institution decides         |
-|Organiser not responding      |Tell dean of studies   |—                    |Dean decides                |
+|Problem                       |First step             |If unresolved          |Final authority             |
+|------------------------------|-----------------------|-----------------------|----------------------------|
+|Feedback not received         |Ask tutor              |Tell organiser         |Organiser decides           |
+|Disagree with grade           |Ask tutor              |Tell organiser         |Organiser decides           |
+|Unclear expectations          |Ask tutor              |Tell organiser         |Organiser clarifies         |
+|Equipment not working         |Tell tutor             |Tell organiser         |Organiser resolves          |
+|Safety concern                |Tell tutor or organiser|Tell organiser         |Institutional safety officer|
+|Tutor not available           |Tell organiser         |—                      |Organiser resolves          |
+|Problem with tutor conduct    |Tell organiser         |Tell dean of studies   |Institution decides         |
+|Problem with student conduct  |Tutor tells organiser  |Institutional process  |Institution decides         |
+|Problem with organiser conduct|Tell dean of studies   |—                      |Institution decides         |
+|Organiser not responding      |Tell dean of studies   |—                      |Dean decides                |
 
 ### 6.2 How to Escalate (Students)
 
 1. Try to resolve with your tutor first (unless the problem is the tutor).
-1. If unresolved within 7 days, email the organiser (address on ILIAS).
-1. Include: what happened, what you tried, what you want.
-1. Keep copies of all communication.
-1. If the organiser does not respond within deadlines, or if the problem is the organiser, email the dean of studies.
+2. If unresolved within 7 days, email the organiser (address on ILIAS).
+3. Include: what happened, what you tried, what you want.
+4. Keep copies of all communication.
+5. If the organiser does not respond within deadlines, or if the problem is the organiser, email the dean of studies.
 
 You will not be punished for escalating a real problem.
 
 ### 6.3 How to Escalate (Tutors)
 
 1. Try to resolve within your authority first.
-1. If you cannot, email the organiser.
-1. Include: what happened, what you did, what decision you need.
-1. If the organiser does not respond within deadlines, escalate to the dean of studies.
+2. If you cannot, email the organiser.
+3. Include: what happened, what you did, what decision you need.
+4. If the organiser does not respond within deadlines, escalate to the dean of studies.
 
 ### 6.4 Response Deadlines
 
-|Escalation          |Acknowledgement         |Resolution              |
-|--------------------|------------------------|------------------------|
-|Student to tutor    |Same or next session    |7 days                  |
-|Student to organiser|2 working days          |10 working days         |
-|Tutor to organiser  |2 working days          |10 working days         |
-|Anyone to dean      |Per institutional policy|Per institutional policy|
+|Escalation           |Acknowledgement         |Resolution              |
+|---------------------|------------------------|------------------------|
+|Student to tutor     |Same or next session    |7 days                  |
+|Student to organiser |2 working days          |10 working days         |
+|Tutor to organiser   |2 working days          |10 working days         |
+|Anyone to dean       |Per institutional policy|Per institutional policy|
 
 If resolution takes longer, the responsible person must say so and give a new deadline.
 
@@ -490,11 +515,11 @@ If resolution takes longer, the responsible person must say so and give a new de
 
 Consequences are detailed in role-specific chapters (3, 4, 5). Summary:
 
-|Role      |Consequence type|Speed    |Accountable to |
-|----------|----------------|---------|---------------|
-|Students  |Grade           |Immediate|Tutor          |
-|Tutors    |Employment      |Slower   |Organiser      |
-|Organisers|Institutional   |Slowest  |Dean of Studies|
+|Role     |Consequence type|Speed    |Accountable to  |
+|---------|----------------|---------|----------------|
+|Students |Grade           |Immediate|Tutor           |
+|Tutors   |Employment      |Slower   |Organiser       |
+|Organisers|Institutional  |Slowest  |Dean of Studies |
 
 The types differ. The chain is complete. Details: see Part I (Framework) and role chapters above.
 
@@ -502,13 +527,13 @@ The types differ. The chain is complete. Details: see Part I (Framework) and rol
 
 ## Chapter 8: References
 
-|For this              |See                                   |
-|----------------------|--------------------------------------|
-|Principles            |Part I (Framework)                    |
-|Commitments           |Part II (Essay)                       |
-|Uncertainty estimation|GUM (JCGM 100:2008)                   |
-|Error propagation     |Taylor, Introduction to Error Analysis|
-|Physical constants    |CODATA                                |
+|For this                    |See                                   |
+|----------------------------|--------------------------------------|
+|Principles                  |Part I (Framework)                    |
+|Commitments                 |Part II (Essay)                       |
+|Uncertainty estimation      |GUM (JCGM 100:2008)                   |
+|Error propagation           |Taylor, Introduction to Error Analysis|
+|Physical constants          |CODATA                                |
 
 University examination regulations override this handbook where they apply.
 
@@ -518,12 +543,12 @@ University examination regulations override this handbook where they apply.
 
 Anyone can propose a change. Submit to an organiser in writing.
 
-|Section                                    |Review needed                                    |
-|-------------------------------------------|-------------------------------------------------|
-|Handbook Chapters 3, 4, 5 (role-specific)  |Organiser approval; must not contradict Framework|
-|Handbook Chapters 2, 6 (safety, escalation)|Two organisers must agree                        |
-|Essay (Part II)                            |Organiser approval; must not contradict Framework|
-|Framework (Part I)                         |Two organisers; see Framework change process     |
+|Section                                     |Review needed                                      |
+|--------------------------------------------|---------------------------------------------------|
+|Handbook Chapters 3, 4, 5 (role-specific)   |Organiser approval; must not contradict Framework  |
+|Handbook Chapters 2, 6 (safety, escalation) |Two organisers must agree                          |
+|Essay (Part II)                             |Organiser approval; must not contradict Framework  |
+|Framework (Part I)                          |Two organisers; see Framework change process       |
 
 Changes do not apply until published with a new version number.
 
@@ -531,12 +556,12 @@ Changes do not apply until published with a new version number.
 
 # Appendix: Document Metadata
 
-|Field    |Value                       |
-|---------|----------------------------|
-|Version  |1.0                         |
-|Status   |Active                      |
-|Created  |2026-01-15                  |
-|Structure|Framework + Essay + Handbook|
+|Field       |Value                       |
+|------------|----------------------------|
+|Version     |1.0                         |
+|Status      |Draft                       |
+|Created     |2026-01-15                  |
+|Structure   |Framework + Essay + Handbook|
 
 -----
 
