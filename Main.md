@@ -2,7 +2,7 @@
 
 ## Unified Documentation
 
-Version 1.0–RC
+Version 1.0-RC
 
 -----
 
@@ -222,11 +222,11 @@ This section contains enforceable rules. Every rule has a specific action, deadl
 
 ## Navigation
 
-|Role     |Key chapters          |
-|---------|----------------------|
-|Student  |2, 3, 6, 7            |
-|Tutor    |2, 3, 4, 6, 7         |
-|Organiser|All                   |
+|Role     |Key chapters              |
+|---------|--------------------------|
+|Student  |2, 3, 6, 7, 8             |
+|Tutor    |2, 3, 4, 6, 7, 8, Appendix B|
+|Organiser|All                       |
 
 -----
 
@@ -545,17 +545,53 @@ If resolution takes longer, the responsible person must say so and give a new de
 
 Consequences are detailed in role-specific chapters (3, 4, 5). Summary:
 
-|Role     |Consequence type|Speed    |Accountable to  |
-|---------|----------------|---------|----------------|
-|Students |Grade           |Immediate|Tutor           |
-|Tutors   |Employment      |Slower   |Organiser       |
-|Organisers|Institutional  |Slowest  |Dean of Studies |
+|Role      |Consequence type|Speed    |Accountable to  |
+|----------|----------------|---------|----------------|
+|Students  |Grade           |Immediate|Tutor           |
+|Tutors    |Role            |Slower   |Organiser       |
+|Organisers|Institutional   |Slowest  |Dean of Studies |
 
 The types differ. The chain is complete. Details: see Part I (Framework) and role chapters above.
 
 -----
 
-## Chapter 8: References
+## Chapter 8: Scientific Honesty
+
+Scientific honesty is an indispensable prerequisite for all scientific work.
+
+### Core Principles
+
+- **Do not fabricate data.** Record what you observe, not what you expect.
+- **Do not falsify data.** Do not alter, omit, or misrepresent results.
+- **Do not plagiarise.** Acknowledge all sources. Use your own words.
+- **Document everything.** Your lab notebook must allow others to verify your work.
+
+### What This Means in Practice
+
+- Record anomalies and unexpected results—they are often the most valuable data.
+- If you make a mistake, cross it out (do not erase) and note what happened.
+- Distinguish clearly between your measurements and values from literature.
+- Cite all sources, including experiment instructions, textbooks, and discussions with others.
+
+### Institutional Framework
+
+The University of Freiburg's regulations on safeguarding academic integrity apply at all times. Violations are taken seriously and can result in failing the entire course.
+
+**Resources:**
+
+- [University of Freiburg: Academic Integrity](https://uni-freiburg.de/research/academic-integrity/)
+- [Institute of Physics: Scientific Honesty](https://www.physik.uni-freiburg.de/redlichkeit-en)
+- [DFG Code of Conduct: Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/)
+
+**Contacts for concerns:**
+
+- Teaching matters: Studiendekan (Dean of Studies for Physics)
+- Research matters: Institutsdirektor (Institute Director)
+- Confidential advice: University Representative for Academic Self-Regulation
+
+-----
+
+## Chapter 9: References
 
 |For this                    |See                                                              |
 |----------------------------|-----------------------------------------------------------------|
@@ -564,12 +600,13 @@ The types differ. The chain is complete. Details: see Part I (Framework) and rol
 |Uncertainty estimation      |Guide to the Expression of Uncertainty in Measurement (GUM, JCGM 100:2008)|
 |Error propagation           |John R. Taylor, An Introduction to Error Analysis                |
 |Physical constants          |CODATA                                                           |
+|Scientific honesty          |Chapter 8 and linked resources                                   |
 
 University examination rules take priority over this handbook where they apply.
 
 -----
 
-## Chapter 9: Changes
+## Chapter 10: Changes
 
 Anyone can propose a change. Submit to an organiser in writing.
 
@@ -584,12 +621,218 @@ Changes do not apply until published with a new version number.
 
 -----
 
-# Appendix: Document Metadata
+# Appendix A: Grading Scheme
+
+## Grade Scale
+
+|Grade|Meaning        |
+|-----|---------------|
+|1.0  |sehr gut (excellent)|
+|1.3  |               |
+|1.7  |               |
+|2.0  |gut (good)     |
+|2.3  |               |
+|2.7  |               |
+|3.0  |befriedigend (satisfactory)|
+|3.3  |               |
+|3.7  |               |
+|4.0  |bestanden (passed)|
+|5.0  |nicht bestanden (failed)|
+
+## Overall Grade Calculation
+
+The overall grade is the weighted average of all partial grades from labs and seminars.
+
+**To pass:** The overall grade must be 4.0 or better.
+
+**Failure conditions:**
+
+- More than one report graded 5.0 → entire course failed
+- More than two failed entrance procedures → entire course failed
+
+## Course-Specific Weights
+
+### FP-1 (B.Sc., 7 ECTS) — Seven lab experiments
+
+|Component                              |Weight|
+|---------------------------------------|------|
+|5 experiments (short reports)          |1.0 each|
+|2 experiments (detailed reports)       |1.5 each|
+
+### FP-2 (M.Sc., 8 ECTS) — Three labs + seminar
+
+|Component                              |Weight|
+|---------------------------------------|------|
+|Two one-week labs (scientific reports) |1.0 each|
+|One two-week lab (scientific report)   |1.0  |
+|Seminar presentation                   |2.0  |
+
+### FP-EDU (M.Ed., 5 ECTS) — Three labs + special + seminar
+
+|Component                              |Weight|
+|---------------------------------------|------|
+|2 experiments (short reports)          |1.0 each|
+|1 experiment (detailed report)         |1.5  |
+|Lab Special                            |1.0  |
+|Seminar presentation                   |1.0  |
+
+## Entrance Procedure Note
+
+If a student's preparation is insufficient, the entrance procedure (15-minute conversation) must be repeated. In such cases, the final grade for that experiment cannot be better than 2.0.
+
+-----
+
+# Appendix B: Feedback and Grading Template
+
+This template is mandatory for all graded work. All four quality markers require ratings. Written feedback is required in each section.
+
+---
+
+**Experiment:** ______________________ **Date:** ______________
+
+**Student(s):** ______________________
+
+**Tutor:** ______________________ **Organiser (if present):** ______________________
+
+---
+
+## Part 1: Learning Phase Feedback
+
+*This section documents teaching and learning during preparation and lab work. It is formative feedback, not part of the final grade.*
+
+### Preparation
+
+**Understanding of methods** — Knowledge of purpose, methodology, and theoretical background.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Quality of preparation** — Familiarity with literature and safety procedures.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Written feedback on preparation** (mandatory):
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+### Lab Work
+
+**Execution of procedures** — Adherence to protocols, accuracy in conducting the experiment.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Quality of lab notes** — Clarity, thoroughness, and organisation.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Data management** — Accuracy in data collection and handling.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Written feedback on lab work** (mandatory):
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+## Part 2: Assessment Phase Grading
+
+*This section determines the final grade. It assesses the written report and oral presentation.*
+
+### Oral Presentation (15 minutes)
+
+**Clarity and communication** — Effective presentation of key results.
+
+| | Excellent | Good | Satisfactory | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Written feedback on oral presentation** (mandatory):
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+### Written Report
+
+**Data analysis and interpretation** — Depth, accuracy, insight.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Scientific writing quality** — Clarity, conciseness, structure.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Integration of theory and experiment** — Linking results to concepts.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**References and citations** — Appropriateness and accuracy.
+
+| | Excellent | Good | Basic | Insufficient |
+|--|:-:|:-:|:-:|:-:|
+| Rating | ☐ | ☐ | ☐ | ☐ |
+
+**Written feedback on report** (mandatory):
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+## Final Grade
+
+| | |
+|--|--|
+| **Grade awarded:** | ________ |
+| **Grade justification** (mandatory — must explain how the grade follows from the above): |
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+**Tutor signature:** ______________________ **Date:** ______________
+
+**Student signature (confirms receipt of feedback):** ______________________ **Date:** ______________
+
+---
+
+*Copy: One for student, one for tutor records, one for course archive.*
+
+-----
+
+# Appendix C: Document Metadata
 
 |Field       |Value                       |
 |------------|----------------------------|
-|Version     |1.0 – R                     |
-|Status      |Draft                       |
+|Version     |1.0–R                       |
+|Status      |Craft                       |
 |Created     |2026-01-15                  |
 |Structure   |Framework + Essay + Handbook|
 
