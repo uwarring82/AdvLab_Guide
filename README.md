@@ -34,11 +34,20 @@ This separation is deliberate. Mixing why/how/who creates ambiguity that disadva
 
 | If you are... | Start with |
 |---------------|------------|
+| New to the lab | Welcome Introduction (separate document) |
 | In a hurry | Quick Reference (protections, deadlines, escalation paths) |
 | Student | Part III, Chapters 2, 3, 6, 8 |
 | Tutor | Part III, Chapters 2, 3, 4, 6, 8, Appendix B |
 | Organiser | Everything |
 | Anyone wanting context | Part II (Essay) |
+
+## Document Set
+
+| Document | Purpose | Length |
+|----------|---------|--------|
+| Welcome Introduction | Lower activation; what to expect | ~10 min read |
+| Unified Documentation | Full rules, principles, procedures | Reference document |
+| README | Orientation to the document set | This file |
 
 ## Appendices
 
@@ -57,7 +66,7 @@ This separation is deliberate. Mixing why/how/who creates ambiguity that disadva
 
 ## Version
 
-1.0 — release candidate
+1.0 — Initial unified release
 
 ## Changes
 
