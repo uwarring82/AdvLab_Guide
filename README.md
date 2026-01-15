@@ -1,204 +1,51 @@
 # Advanced Physics Laboratory — Document Guide
 
-**Advanced Lab Classes, Physikalisches Institut, Universität Freiburg**
+# Advanced Physics Laboratory Documentation
 
-This repository contains the documents that govern how the Advanced Physics Laboratory works.
+## Structure
 
----
+One document, three layers:
 
-## What Is This?
+|Part         |Purpose                 |Enforceability      |
+|-------------|------------------------|--------------------|
+|I. Framework |Invariant principles    |Cannot be overridden|
+|II. Essay    |Role commitments        |Spirit, not letter  |
+|III. Handbook|Procedures and deadlines|Enforceable         |
 
-Three documents work together to run the laboratory fairly and transparently:
+This separation is deliberate. Mixing why/how/who creates ambiguity that harms students.
 
-| Document | What It Does | Can It Be Enforced? |
-|----------|--------------|---------------------|
-| **Invariant Framework** | Sets boundaries that cannot be crossed | Yes — always applies |
-| **Unified Essay** | Describes what each role commits to | No — intentions only |
-| **Unified Handbook** | Gives procedures and deadlines | Yes — can be enforced |
+## Key Design Decisions
 
-These documents form a hierarchy. Documents lower in the list cannot contradict documents higher in the list.
+**Two-phase model:** Learning (prep + lab) and assessment (reports only). Grades come from reports. The lab is for learning—tutors teach, mistakes are expected.
 
-```
-Invariant Framework (boundaries)
-         ↓
-Unified Essay (commitments)
-         ↓
-Unified Handbook (procedures)
-         ↓
-Experiment Guides (specific instructions)
-```
+**Tutors are learners:** They have more experience than students but are still learning. This is acknowledged, not hidden.
 
----
+**Complete accountability chain:** Students → Tutors → Organisers → Dean of Studies. Everyone is accountable to someone. Visibility creates accountability.
 
-## The Three Documents
+**Modernization in progress:** Lab instructions vary in format. Legacy and new coexist. Forcing uniformity would compromise quality.
 
-### Invariant Framework
+## Reading Guide
 
-This document defines six principles that always apply. They cannot be changed by other documents.
+|If you are…           |Start with                   |
+|----------------------|-----------------------------|
+|Student               |Part III, Chapters 2, 3, 6   |
+|Tutor                 |Part III, Chapters 2, 3, 4, 6|
+|Organiser             |Everything                   |
+|Anyone wanting context|Part II (Essay)              |
 
-The six principles are:
+## Principles (Part I Summary)
 
-1. **Known Criteria** — You can only be assessed on criteria you knew about beforehand.
-2. **Proportional Authority** — You can only be held responsible for things you had control over.
-3. **Traceable Decisions** — Every decision that affects you must have a named person and a stated reason.
-4. **Separation of Layers** — Why we do things, how we do things, and who decides are kept separate.
-5. **Symmetric Visibility** — If a rule applies to you, you can see it. Everyone can see everyone's obligations.
-6. **Correctable Error** — One mistake does not end your participation if you acknowledge it and correct it.
+1. **Known Criteria** — judge only on criteria visible beforehand
+1. **Proportional Authority** — responsible only for what you control
+1. **Traceable Decisions** — every decision has a name and reason
+1. **Separation of Layers** — why/how/who kept distinct
+1. **Symmetric Visibility** — all rules visible to all roles
+1. **Correctable Error** — one mistake does not end participation
 
-This document changes rarely. It is meant to last for many years. It does not inspire, instruct, or persuade. It defines what must hold.
+## Version
 
-### Unified Essay
+1.0 — release candidate
 
-This document describes what each group commits to:
+## Changes
 
-- **Organisers** commit to fairness, clear expectations, and supporting tutors.
-- **Tutors** commit to being present, giving honest feedback, and using authority carefully.
-- **Students** commit to preparing, taking responsibility, and engaging with feedback.
-
-The essay cannot be enforced. You cannot use it in a dispute. It exists so everyone can see what others have promised.
-
-### Unified Handbook
-
-This document contains the practical rules:
-
-- Safety training requirements (valid for 12 months)
-- The 15-minute presentation you give before starting an experiment
-- How long tutors have to give feedback (14 days for reports)
-- What to do if something goes wrong (escalation paths)
-- How to estimate and report uncertainties
-- Templates for notebooks and reports
-
-These rules can be enforced. If the handbook says tutors must respond within 14 days, you can hold them to that.
-
----
-
-## Core Values
-
-Three values guide everything in these documents:
-
-- **Respect** — For people, for the work, and for limits.
-- **Trust** — Built through transparency, not assumed because of a title.
-- **Responsibility** — Matched to what you can actually control.
-
----
-
-## Key Design Choices
-
-### Everyone Can See Everything
-
-All sections are visible to all roles.
-
-Students can read what tutors are expected to do. Tutors can read what organisers commit to. This is not surveillance. It lets everyone verify that expectations are fair.
-
-Seeing something does not mean it applies to you. Each section only binds the role it addresses.
-
-### Separate Layers
-
-The documents are split by purpose:
-
-- **Why we do things** → Unified Essay
-- **How to do things** → Unified Handbook
-- **What cannot be violated** → Invariant Framework
-
-This stops procedures from being treated as principles. It also stops inspirational language from being used as a weapon.
-
-### Private Information Stays Private
-
-Personal details like schedules, grades, and contact information are not in these documents. They live on ILIAS, behind a login. Public documents contain no private data.
-
----
-
-## Files in This Repository
-
-```
-AdvLab_Guide/
-├── main.tex           # The main file that combines everything
-├── framework.tex      # Invariant Framework
-├── essay.tex          # Unified Essay
-├── handbook.tex       # Unified Handbook
-└── README.md          # This file
-```
-
-Future additions may include:
-
-- Experiment-specific guides
-- Standalone templates
-- Diagrams
-
----
-
-## How to Compile
-
-### What You Need
-
-A LaTeX installation. TeX Live 2023 or later is recommended.
-
-### On Your Computer
-
-Run these commands in the repository folder:
-
-```bash
-pdflatex main.tex
-pdflatex main.tex
-```
-
-Run it twice so that cross-references work correctly.
-
-### On Overleaf
-
-1. Import this repository from GitHub.
-2. Set `main.tex` as the main document.
-3. Compile.
-
----
-
-## Current Versions
-
-| Document | Version | Status |
-|----------|---------|--------|
-| Invariant Framework | 0.1 | Approved |
-| Unified Essay | 0.3 | Approved |
-| Unified Handbook | 0.2.2 | Under review |
-
----
-
-## Who Can Change What
-
-| Document | Who Can Propose Changes | What Review Is Needed |
-|----------|-------------------------|----------------------|
-| Invariant Framework | Anyone | Two organisers must review. Changes must not break the principles. |
-| Unified Essay | Organisers | Must check that changes do not contradict the Framework. |
-| Unified Handbook (most sections) | Organisers | Must check that changes do not contradict the Framework. |
-| Unified Handbook (common procedures and escalation) | Requires broader review | More people must agree before changes take effect. |
-
-All changes must preserve the separation between the three documents. Procedures stay in the Handbook. Commitments stay in the Essay. Principles stay in the Framework.
-
----
-
-## How to Contribute
-
-You are welcome to suggest changes.
-
-Before making big changes, open an issue to discuss your idea.
-
-When proposing changes, keep in mind:
-
-- The Framework should stay minimal and stable.
-- The Essay should stay aspirational. It should not contain enforceable rules.
-- The Handbook should stay practical. It should not contain philosophy.
-
----
-
-## Licence
-
-- Text and templates: MIT Licence (you can reuse and modify with attribution)
-- Tables and figures: Creative Commons Attribution 4.0 (you can share and adapt with attribution)
-
----
-
-## Contact
-Advanced Lab Classes
-Physikalisches Institut  
-Universität Freiburg
-
-For questions about specific courses, check ILIAS.
+Propose changes in writing to an organiser. Framework changes require two organisers. Changes take effect only when published with a new version number.
