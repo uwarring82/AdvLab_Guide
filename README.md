@@ -1,6 +1,6 @@
 # Advanced Physics Laboratory — Document Guide
 
-**Ulrich Warring, Physikalisches Institut, Universität Freiburg**
+**Advanced Lab Classes, Physikalisches Institut, Universität Freiburg**
 
 This repository contains the documents that govern how the Advanced Physics Laboratory works.
 
@@ -197,7 +197,7 @@ When proposing changes, keep in mind:
 ---
 
 ## Contact
-
+Advanced Lab Classes
 Physikalisches Institut  
 Universität Freiburg
 
