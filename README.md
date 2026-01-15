@@ -1,5 +1,5 @@
 # Advanced Physics Laboratory Documentation
-Ulrich Warring, Physikalisches Institute, University of Freiburg, Germany
+Ulrich Warring, Physikalisches Institut, University of Freiburg, Germany
 
 
 ## Structure
