@@ -1,8 +1,36 @@
-# Advanced Master Laboratory
+# Advanced Physics Laboratory
 
 ## Unified Documentation
 
-Version 1.0 (release candidate)
+Version 1.0–RC
+
+-----
+
+## Foreword
+
+This document governs the Advanced Physics Laboratory. It replaces scattered rules, unwritten expectations, and inherited customs with a single, visible structure.
+
+**Three parts, three purposes:**
+
+| Part | What it does | In plain language |
+|------|--------------|-------------------|
+| I. Framework | States principles that cannot be overridden | The promises we make to you |
+| II. Essay | Describes what each role commits to in spirit | What we are trying to do |
+| III. Handbook | Contains enforceable rules with deadlines | The rulebook—if it's not here, it cannot be used against you |
+
+**Why this structure?**
+
+Mixing principles, intentions, and procedures creates ambiguity. Ambiguity disadvantages whoever has less power—usually students. Separating them protects everyone.
+
+**About this version:**
+
+This laboratory is undergoing slow, deliberate modernisation. This document reflects where we are, not where we hope to be. Some experiment instructions use legacy formats. Some accountability mechanisms are newer than others. We state what is true now and revise as things change.
+
+**How to read this:**
+
+- If you need to know what you must do → Part III (Handbook)
+- If you need to know what cannot be violated → Part I (Framework)
+- If you want to understand why → Part II (Essay)
 
 -----
 
@@ -10,7 +38,7 @@ Version 1.0 (release candidate)
 
 ## What This Document Is
 
-This section states six principles that always apply in the laboratory. No other section of this document can override them.
+This section lists six principles that always apply in the laboratory. No other part of this document may contradict them.
 
 -----
 
@@ -18,54 +46,54 @@ This section states six principles that always apply in the laboratory. No other
 
 ### 1. Known Criteria
 
-You can only be judged on criteria you knew about before you did the work.
+You can only be assessed using criteria you knew about before you did the work.
 
-If the criteria were not accessible to you beforehand, any decision based on them is invalid.
+If the criteria were not accessible to you beforehand, any decision based on them cannot be enforced.
 
 ### 2. Proportional Authority
 
-You can only be held responsible for things you had control over.
+You can only be held responsible for things you could reasonably influence.
 
-If you had no authority to change something, you cannot be blamed for it.
+If you had no realistic way to change something, you cannot be held responsible for it.
 
 ### 3. Traceable Decisions
 
-Every decision that affects your standing must have:
+Every decision that affects your status in the course must have:
 
 - A named person who made it
 - A stated reason
 
-Decisions without both are invalid.
+If either is missing, the decision cannot be enforced.
 
 ### 4. Separation of Layers
 
 Three things are kept separate:
 
-- Why we do things (meaning)
+- Why we do things (purpose)
 - How we do things (procedure)
 - Who decides (authority)
 
-No document or decision may mix these in a way that hides which one is being used.
+No document or decision may mix these in a way that makes it unclear which one is being used.
 
 ### 5. Symmetric Visibility
 
 Every rule that applies to you must be visible to you.
 
-Every rule that applies to others must be visible to you too.
+The rules that define how decisions are made must also be visible to you.
 
-If you cannot see a rule, it cannot be enforced against you.
+If you cannot access a rule that is used against you, it cannot be enforced against you.
 
 ### 6. Correctable Error
 
 One mistake does not end your participation.
 
-If you acknowledge an error and follow a documented correction path, you cannot be permanently excluded for that error alone.
+If you acknowledge an error and follow a documented correction path, you cannot be excluded from the course for that error alone.
 
 -----
 
 ## Accountability Structure
 
-This section states how accountability works. Making it visible creates it.
+This section explains who is accountable to whom. Making it visible makes it easier to use.
 
 ### The Chain
 
@@ -77,17 +105,17 @@ Everyone in the laboratory is accountable to someone. The chain is complete.
 
 ### How Accountability Differs by Role
 
-|Role     |Accountable to   |Type of consequence                              |Speed    |Visibility|
-|---------|-----------------|-------------------------------------------------|---------|----------|
-|Students |Tutors           |Grade consequences: marks, failure, exclusion    |Immediate|High      |
-|Tutors   |Organisers       |Employment consequences: documentation, removal  |Slower   |Lower     |
-|Organisers|Dean of Studies |Institutional consequences: review, intervention |Slowest  |Lowest    |
+|Role      |Accountable to   |Type of consequence                             |Speed    |Visibility|
+|----------|-----------------|------------------------------------------------|---------|----------|
+|Students  |Tutors           |Grade consequences: marks, failure, exclusion   |Immediate|High      |
+|Tutors    |Organisers       |Role consequences: formal note, removal from role|Slower   |Lower     |
+|Organisers|Dean of Studies  |Institutional consequences: review, intervention|Slowest  |Lowest    |
 
 The types of consequences differ. That is honest. But accountability exists at every level.
 
 ### What This Means
 
-Visibility creates accountability. If you can escalate and others know you can, behaviour changes. See Part III, Chapter 6 for escalation procedures.
+When escalation is possible and the process is known, problems are more likely to be addressed early. If the first step does not resolve an issue, there is a higher level you can contact. See Part III, Chapter 6 for escalation procedures.
 
 -----
 
@@ -116,7 +144,7 @@ This is a place where we do physics together.
 The laboratory has two phases with different purposes:
 
 - **Learning phase** (preparation and lab work): This is not a test. You are here to learn. Mistakes are expected. Tutors teach. Questions are welcome.
-- **Assessment phase** (written and oral reports): This is the test. Your reports are graded. The learning phase prepares you for this.
+- **Assessment phase** (written and oral reports): This is where assessment happens. Your reports are graded. The learning phase prepares you for this.
 
 You will work with real instruments. You will face real uncertainty. Some days will be frustrating. Results will not always cooperate.
 
@@ -144,7 +172,7 @@ We commit to:
 
 ## What Tutors Commit To
 
-We accompany students through the learning phase. We do not do the work for them. We do not leave them alone with it.
+We accompany students through the learning phase. We do not do the work for them. We do not leave students alone with it.
 
 We are teachers, and we are still learning. We have more experience than students, but we do not have all the answers. This is honest.
 
@@ -180,7 +208,7 @@ We engage with the work seriously. Not because we are told to, but because serio
 - Engaging with feedback, even when it is hard to hear
 - Meeting deadlines or communicating in advance
 
-We are not here to perform compliance. We are here to learn physics. The reports show what we have learned.
+We are not here to tick boxes. We are here to learn physics. The reports show what we have learned.
 
 **Accountability:** Students are accountable to tutors. The escalation paths in Part III apply to everyone.
 
@@ -188,7 +216,7 @@ We are not here to perform compliance. We are here to learn physics. The reports
 
 # Part III: Handbook
 
-This section contains enforceable rules. Every rule has a specific action, deadline, and consequence. If something is not here, it cannot be enforced.
+This section contains enforceable rules. Every rule has a specific action, deadline, and consequence. If something is not written here, it cannot be enforced against you.
 
 -----
 
@@ -204,13 +232,13 @@ This section contains enforceable rules. Every rule has a specific action, deadl
 
 ## Chapter 1: Where Information Lives
 
-|Information            |Location           |
-|-----------------------|-------------------|
-|Rules and procedures   |This section       |
-|Principles             |Part I (Framework) |
-|Commitments            |Part II (Essay)    |
-|Experiment instructions|experiments/ folder|
-|Schedules, contacts, grades, safety records|ILIAS|
+|Information            |Location                                  |
+|-----------------------|------------------------------------------|
+|Rules and procedures   |This section                              |
+|Principles             |Part I (Framework)                        |
+|Commitments            |Part II (Essay)                           |
+|Experiment instructions|experiments folder (in the course materials)|
+|Schedules, contacts, grades, safety records|ILIAS (the university course platform)|
 
 **Note on experiment instructions:** Lab instructions vary in structure. This laboratory is undergoing slow, deliberate modernization. Legacy and new formats coexist and both are valid. Consistency will emerge gradually; forcing uniformity would compromise quality.
 
@@ -224,7 +252,7 @@ These rules apply to everyone.
 
 **Rule:** Everyone who enters the laboratory must hold valid safety training.
 
-**Deadline:** Training must be valid on the day you enter. Training expires 12 months after completion.
+**Deadline:** Training must be valid on the day you enter. Training is valid for 12 months after completion.
 
 **Consequence of failure:**
 
@@ -251,7 +279,7 @@ These always apply:
 2. **Report problems immediately.** If something breaks, sparks, leaks, or behaves unexpectedly, tell someone at once.
 3. **Never work alone with hazardous equipment.** Check the experiment guide for when a second person is required.
 
-**Consequence of violation:** Immediate removal from the laboratory for that session. Repeated violations result in exclusion from the course (students) or removal from the role (tutors).
+**Consequence of violation:** Immediate removal from the laboratory for safety reasons. Repeated violations result in exclusion from the course (students) or removal from the role (tutors).
 
 -----
 
@@ -273,7 +301,7 @@ If you arrive unprepared, your tutor will teach you—but your limited lab time 
 
 ### 3.2 The 15-Minute Conversation
 
-Before measurements, you have a 15-minute conversation with your tutor. You are expected to lead the conversation. **This is part of the learning phase—not graded.**
+Before measurements, you have a 15-minute conversation with your tutor. **This is part of the learning phase—not graded.**
 
 **What you should be able to discuss:**
 
@@ -294,11 +322,11 @@ You must:
 
 ### 3.4 After the Lab Session
 
-|Deliverable     |Default deadline              |
-|----------------|------------------------------|
-|Lab notebook    |End of session                |
-|Written report  |One week after last lab day   |
-|Oral report     |Accompanies written submission|
+|Deliverable     |Default deadline                              |
+|----------------|----------------------------------------------|
+|Lab notebook    |End of session                                |
+|Written report  |One week after your final lab session for that experiment|
+|Oral report     |Accompanies written submission                |
 
 **The oral report:** When you submit your written report, you give a 15-minute oral presentation of your main findings. Tutors attend; organisers may attend. This is part of the assessment phase.
 
@@ -354,7 +382,7 @@ Equipment issues discovered early can be resolved. Issues discovered during stud
 
 |Deliverable                  |Your deadline                                    |Consequence of missing deadline           |
 |-----------------------------|-------------------------------------------------|------------------------------------------|
-|Pre-lab conversation feedback|Immediate (before measurements)                  |Student cannot proceed; document the delay|
+|Pre-lab conversation outcome |Immediate (before measurements)                  |Measurements start later; document reason |
 |Notebook check               |Same session or next session                     |Documented                                |
 |Written report feedback      |14 calendar days after submission                |Student may escalate; documented          |
 |Oral report feedback         |Verbal: immediate. Written (if requested): 7 days|Documented                                |
@@ -366,7 +394,7 @@ Equipment issues discovered early can be resolved. Issues discovered during stud
 
 **The oral report:** You attend the student's 15-minute oral presentation when they submit their written report. Factor the oral presentation into the final report grade.
 
-**Deliberation:** You may consult with organisers on performance level and final grade. This is normal, not a sign of uncertainty.
+**Deliberation:** You may consult with organisers on grade level and final grade. This is normal, not a sign of uncertainty.
 
 **Feedback:** Give clear, careful feedback that explains the grade. Critical feedback is expected—it helps students learn. Be honest and constructive.
 
@@ -384,8 +412,8 @@ Equipment issues discovered early can be resolved. Issues discovered during stud
 |Invent new assessment criteria after work is submitted|Violates Framework Principle 1      |
 |Grant extensions beyond course policy                 |Refer to organiser                   |
 |Exclude a student from the laboratory                 |Requires organiser decision          |
-|Waive safety requirements                             |Never permitted                      |
-|Supervise with expired safety training                |Never permitted                      |
+|Waive safety requirements                             |Not permitted                        |
+|Supervise with expired safety training                |Not permitted                        |
 
 ### 4.8 Consequences
 
@@ -424,7 +452,7 @@ The rules in Chapter 2 apply to you.
 |Action                                            |Deadline                                                         |Consequence of failure                                 |
 |--------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|
 |Respond to escalations                            |Acknowledge within 2 working days; resolve within 10 working days|Student or tutor may escalate to dean; documented      |
-|Monitor tutor feedback compliance                 |Ongoing                                                          |Tutors may miss deadlines without consequence          |
+|Monitor whether tutors meet feedback deadlines    |Ongoing                                                          |Tutors may miss deadlines without consequence          |
 |Keep equipment functional or marked out of service|Ongoing                                                          |Students cannot complete experiments; documented       |
 
 **Grading support:** You may attend oral reports and deliberate with tutors on performance levels and final grades.
@@ -445,9 +473,11 @@ If you need more than 10 working days, tell the affected parties and give a new 
 
 |Action                                     |Why                                  |
 |-------------------------------------------|-------------------------------------|
-|Overrule a tutor's grade without discussion|Undermines tutor authority           |
+|Change a grade without discussion with tutor|Undermines tutor authority          |
 |Ignore an escalation                       |Violates this handbook               |
 |Fail to document decisions                 |Violates Framework Principle 3       |
+
+A grade may be changed only after discussion with the tutor and with written reasons.
 
 ### 5.6 Consequences
 
@@ -464,7 +494,7 @@ If you need more than 10 working days, tell the affected parties and give a new 
 
 ## Chapter 6: Escalation
 
-Escalation is how you move a problem to someone with more authority. The accountability chain is defined in Part I (Framework).
+Escalation means asking a person with responsibility at the next level to help resolve a problem. The accountability chain is defined in Part I (Framework).
 
 ### 6.1 Escalation Paths
 
@@ -486,10 +516,10 @@ Escalation is how you move a problem to someone with more authority. The account
 1. Try to resolve with your tutor first (unless the problem is the tutor).
 2. If unresolved within 7 days, email the organiser (address on ILIAS).
 3. Include: what happened, what you tried, what you want.
-4. Keep copies of all communication.
+4. Keep copies of emails and messages, so nothing is lost.
 5. If the organiser does not respond within deadlines, or if the problem is the organiser, email the dean of studies.
 
-You will not be punished for escalating a real problem.
+Escalating a problem in good faith must not lead to disadvantages.
 
 ### 6.3 How to Escalate (Tutors)
 
@@ -527,15 +557,15 @@ The types differ. The chain is complete. Details: see Part I (Framework) and rol
 
 ## Chapter 8: References
 
-|For this                    |See                                   |
-|----------------------------|--------------------------------------|
-|Principles                  |Part I (Framework)                    |
-|Commitments                 |Part II (Essay)                       |
-|Uncertainty estimation      |GUM (JCGM 100:2008)                   |
-|Error propagation           |Taylor, Introduction to Error Analysis|
-|Physical constants          |CODATA                                |
+|For this                    |See                                                              |
+|----------------------------|-----------------------------------------------------------------|
+|Principles                  |Part I (Framework)                                               |
+|Commitments                 |Part II (Essay)                                                  |
+|Uncertainty estimation      |Guide to the Expression of Uncertainty in Measurement (GUM, JCGM 100:2008)|
+|Error propagation           |John R. Taylor, An Introduction to Error Analysis                |
+|Physical constants          |CODATA                                                           |
 
-University examination regulations override this handbook where they apply.
+University examination rules take priority over this handbook where they apply.
 
 -----
 
@@ -558,7 +588,7 @@ Changes do not apply until published with a new version number.
 
 |Field       |Value                       |
 |------------|----------------------------|
-|Version     |1.0                         |
+|Version     |1.0 – R                     |
 |Status      |Draft                       |
 |Created     |2026-01-15                  |
 |Structure   |Framework + Essay + Handbook|
