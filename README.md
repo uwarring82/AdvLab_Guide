@@ -66,7 +66,7 @@ This separation is deliberate. Mixing why/how/who creates ambiguity that disadva
 
 ## Version
 
-1.0 — Initial unified release
+1.0 — release candidate
 
 ## Changes
 
