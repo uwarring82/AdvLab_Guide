@@ -2,7 +2,7 @@
 
 ## Unified Documentation
 
-Version 1.0-RC
+Version 1.0
 
 -----
 
@@ -28,9 +28,41 @@ This laboratory is undergoing slow, deliberate modernisation. This document refl
 
 **How to read this:**
 
+- If you need deadlines and escalation paths quickly → Quick Reference (next page)
 - If you need to know what you must do → Part III (Handbook)
 - If you need to know what cannot be violated → Part I (Framework)
 - If you want to understand why → Part II (Essay)
+
+**Legal note:** University and faculty examination regulations, and university integrity regulations, take precedence over this document. This document fills in local practice within that framework.
+
+-----
+
+## Quick Reference
+
+**Key deadlines:**
+
+| What | When |
+|------|------|
+| Safety training valid | Before entering lab (renew every 12 months) |
+| Written report due | One week after final lab session for that experiment |
+| Oral report | Accompanies written submission |
+| Tutor feedback on report | Within 14 calendar days |
+| Escalation acknowledgement | Within 2 working days |
+| Escalation resolution | Within 10 working days |
+
+**If something goes wrong:**
+
+| Situation | First step | If unresolved |
+|-----------|------------|---------------|
+| Feedback not received | Ask tutor | Email organiser |
+| Disagree with grade | Ask tutor for explanation | Email organiser |
+| Unclear expectations | Ask tutor | Email organiser |
+| Equipment broken | Tell tutor | Tutor tells organiser |
+| Safety concern | Tell tutor or organiser immediately | Organiser handles |
+| Problem with tutor | Email organiser | Email dean of studies |
+| Problem with organiser | Email dean of studies | — |
+
+**Canonical version:** The current version of this document is published on ILIAS. If you have a printed or offline copy, check ILIAS for updates.
 
 -----
 
@@ -122,6 +154,8 @@ When escalation is possible and the process is known, problems are more likely t
 ## Scope
 
 This section states principles only. Procedures belong in Part III (Handbook). Commitments belong in Part II (Essay).
+
+**Legal hierarchy:** University examination regulations, faculty regulations, and the University of Freiburg's regulations on safeguarding academic integrity take precedence over this document where conflicts arise. This document fills in local practice within that framework.
 
 -----
 
@@ -623,6 +657,8 @@ Changes do not apply until published with a new version number.
 
 # Appendix A: Grading Scheme
 
+**Consistency with official regulations:** The grading weights and failure conditions below are consistent with, and constrained by, the official module handbooks for the respective degree programmes (B.Sc. Physics, M.Sc. Physics, M.Sc. Applied Physics, M.Ed. Physics). Where any conflict arises, the official module handbook and Prüfungsordnung take precedence.
+
 ## Grade Scale
 
 |Grade|Meaning        |
@@ -675,6 +711,14 @@ The overall grade is the weighted average of all partial grades from labs and se
 |1 experiment (detailed report)         |1.5  |
 |Lab Special                            |1.0  |
 |Seminar presentation                   |1.0  |
+
+## Entrance Procedure Note
+
+The entrance procedure (15-minute conversation) is part of the learning phase. If preparation is insufficient, the tutor teaches and the conversation may be repeated.
+
+**Grade implications:** If the entrance procedure must be repeated due to insufficient preparation, this is documented. Repeated difficulties with preparation across multiple experiments may be considered when assessing overall engagement, but a single repeated entrance does not automatically cap your grade. The goal is learning, not punishment.
+
+**Hard limit:** If more than two entrance procedures are failed across all experiments, the entire course is failed. This threshold exists because the preparation phase is essential for safe and productive lab work.
 
 -----
 
@@ -825,12 +869,16 @@ _______________________________________________________________________________
 
 # Appendix C: Document Metadata
 
-|Field       |Value                       |
-|------------|----------------------------|
-|Version     |1.0–R                       |
-|Status      |Craft                       |
-|Created     |2026-01-15                  |
-|Structure   |Framework + Essay + Handbook|
+|Field            |Value                       |
+|-----------------|----------------------------|
+|Version          |1.0                         |
+|Status           |Draft                       |
+|Created          |2026-01-15                  |
+|Structure        |Framework + Essay + Handbook|
+|Canonical location|ILIAS (course materials)   |
+|Change log       |ILIAS (document history)    |
+
+**Version control:** The authoritative version of this document is always the one published on ILIAS. Printed copies, PDFs, or offline versions may be outdated. When in doubt, check ILIAS.
 
 -----
 
