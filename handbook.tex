@@ -1,0 +1,655 @@
+% ============================================================================
+% UNIFIED HANDBOOK
+% Tier 2 — Operational Procedures
+% Version 0.2.2
+% ============================================================================
+
+\chapter{Unified Handbook}
+\label{ch:handbook}
+
+\begin{tier2box}[title=Document Status]
+\textbf{Version:} 0.2.2 — Draft\\
+\textbf{Tier:} 2 (local designation: Toolkit \& Navigation)\\[0.3cm]
+\textbf{Status: Procedural, Enforceable}\\[0.2cm]
+This handbook defines operational procedures and enforceable expectations.\\
+It does not define principles (see Invariant Framework) or intentions (see Essay).\\
+Where boundaries are in question, the Invariant Framework governs.\\[0.3cm]
+\textbf{Endorsement:} Operational document with binding force within stated scope.\\
+Compatibility with Invariant Framework v0.1: verification pending; required before adoption.\\
+All sections visible to all roles; visibility does not imply equal obligation.
+\end{tier2box}
+
+% ============================================================================
+\section{How to Use This Handbook}
+\label{sec:hb-howto}
+
+This handbook is divided by role. Each section is visible to everyone, but binding only on the role it addresses.
+
+\begin{center}
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{If you are a...} & \textbf{Your primary section is...} & \textbf{Also read...} \\
+\midrule
+Student & Section~\ref{sec:hb-students} & Sections~\ref{sec:hb-common},~\ref{sec:hb-escalation} \\
+Tutor & Section~\ref{sec:hb-tutors} & Sections~\ref{sec:hb-common},~\ref{sec:hb-students},~\ref{sec:hb-escalation} \\
+Organiser & Section~\ref{sec:hb-organisers} & All sections \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{Why is everything visible?}
+
+So that no one is bound by expectations they cannot see, and so that trust can be verified. A student can read what tutors are expected to do. A tutor can read what organisers commit to. This is not surveillance—it is transparency.
+
+\subsection*{Key Terms}
+
+\begin{center}
+\begin{tabular}{@{}L{3.5cm}L{10cm}@{}}
+\toprule
+\textbf{Term} & \textbf{Meaning} \\
+\midrule
+Tier 0 & The Invariant Framework — principles that cannot be changed by this handbook \\
+Tier 1 & The Unified Essay — aspirational commitments, not enforceable \\
+Tier 2 & This handbook — procedures that can be enforced \\
+Visibility & Everyone can read a section; only the addressed role is bound by it \\
+Compatibility check & Verification that a document does not contradict the Invariant Framework \\
+Guardian veto & The right to block changes that would violate clarity, ethics, or Invariant Framework principles \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{What this handbook does:}
+\begin{itemize}
+    \item Defines procedures that can be enforced
+    \item Specifies timelines, responsibilities, and escalation paths
+    \item Provides templates and checklists for practical work
+\end{itemize}
+
+\subsection*{What this handbook does not do:}
+\begin{itemize}
+    \item Define the principles of the laboratory (see Invariant Framework)
+    \item Explain why any of this matters (see Essay)
+    \item Override formal university examination regulations (see Section~\ref{sec:hb-references})
+    \item Contain personal or private information (see below)
+\end{itemize}
+
+\subsection*{Where personal and private information lives}
+
+All personalised information—including contact details, lab schedules, group assignments, and grading records—is stored exclusively on \textbf{ILIAS}. This ensures that private information remains behind authentication and is not distributed in public documents.
+
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Information type} & \textbf{Location} \\
+\midrule
+Procedures and templates & This handbook \\
+Principles and boundaries & Invariant Framework \\
+Intentions and commitments & Unified Essay \\
+Experiment-specific instructions & \texttt{experiments/<topic>/} \\
+Contact details, schedules, assignments & ILIAS (authenticated) \\
+Grading records and criteria weights & ILIAS (authenticated) \\
+Safety training modules and records & ILIAS (authenticated) \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% ============================================================================
+\section{Common Procedures}
+\label{sec:hb-common}
+
+These procedures apply to all roles. They are minimal and operational.
+
+\subsection{Safety Training Requirement}
+\label{sec:hb-safety-req}
+
+\begin{tier2box}[title=Universal Requirement]
+\textbf{Everyone who works in the laboratory must hold valid safety training.}
+
+This applies to students, tutors, and organisers without exception. Safety training certificates are valid for \textbf{12 months} from the date of completion. You are responsible for renewing your training before it expires.
+
+If your safety training has expired, you may not enter the laboratory until it is renewed.
+\end{tier2box}
+
+\subsection{Documentation}
+
+All consequential actions, decisions, and communications should be documented in a form that can be retrieved later. Verbal agreements are valid but should be confirmed in writing when they affect assessment, scheduling, or responsibilities.
+
+\subsection{Timeliness}
+
+Deadlines stated in this handbook or in experiment guides are binding unless explicitly modified in writing by an organiser. Requests for extensions must be made before the deadline, not after.
+
+\subsection{Communication Channels}
+
+Official communications use the channels specified for each course (typically ILIAS and university email). Information communicated only through informal channels (verbal, personal messaging) does not override official documentation.
+
+\subsection{Good Faith}
+
+All parties are expected to act in good faith. In this handbook, good faith means:
+
+\begin{itemize}
+    \item Communicating honestly about problems, limitations, and mistakes
+    \item Interpreting ambiguous situations reasonably rather than exploiting loopholes
+    \item Attempting one direct resolution step before escalating (where it is safe and appropriate to do so)
+\end{itemize}
+
+Good faith is demonstrated through behaviour, not declared as an intention.
+
+% ============================================================================
+\section{For Students}
+\label{sec:hb-students}
+
+This section defines your operational responsibilities and provides practical tools for laboratory work.
+
+% ----------------------------------------------------------------------------
+\subsection{The 10-Minute Start}
+
+\begin{statusbox}
+\textbf{If you have 10 minutes before your first lab:}
+\begin{enumerate}
+    \item Read Section~\ref{sec:hb-prep-checklist} (Preparation Checklist)
+    \item Print the Quick Reference Card (Section~\ref{sec:hb-quickref})
+\end{enumerate}
+That's enough to survive Day~1. Come back for the rest when you need it.
+\end{statusbox}
+
+% ----------------------------------------------------------------------------
+\subsection{Safety}
+\label{sec:hb-safety}
+
+Laboratory safety protects you, your colleagues, and the equipment that future students will use.
+
+\subsubsection{General Safety Habits}
+
+\textbf{Three habits that apply everywhere:}
+
+\begin{enumerate}
+    \item \textbf{Know before you touch.} If you don't understand a piece of equipment, ask before using it.
+    \item \textbf{Report problems immediately.} If something breaks, sparks, leaks, or behaves unexpectedly, tell a tutor or organiser at once.
+    \item \textbf{Never work alone with hazardous equipment.} Some experiments require a second person present.
+\end{enumerate}
+
+\subsubsection{Mandatory Training}
+
+Before entering the laboratory, you must complete the required safety training modules on \textbf{ILIAS}. These typically include:
+
+\begin{itemize}
+    \item General laboratory safety
+    \item Electrical safety
+    \item Laser safety (for optical experiments)
+    \item Radiation protection (for experiments with radioactive sources)
+    \item Cryogenic safety (for low-temperature experiments)
+\end{itemize}
+
+\textbf{Safety training is valid for 12 months.} If your training expires during the semester, you must renew it before your next lab session.
+
+\textbf{Your participation in experiments may be refused if training records are incomplete or expired.}
+
+\subsubsection{Personal Protective Equipment}
+
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Hazard} & \textbf{Protection} \\
+\midrule
+Lasers (Class 3B, 4) & Laser safety goggles matched to wavelength \\
+Chemicals & Lab coat, gloves, safety glasses \\
+Cryogenics & Cryogenic gloves, face shield, closed shoes \\
+High voltage & Insulated tools, no jewellery, buddy system \\
+Radioactive sources & Dosimeter, distance, shielding, time limits \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% ----------------------------------------------------------------------------
+\subsection{Checklists}
+
+\subsubsection{Preparation Checklist (Before Lab)}
+\label{sec:hb-prep-checklist}
+
+\textbf{Administrative preparation:}
+\begin{checklist}
+    \item Safety training valid and not expiring before lab date (check ILIAS)
+    \item Lab schedule and room confirmed on ILIAS
+    \item Experiment guide read (\texttt{experiments/<topic>/})
+\end{checklist}
+
+\textbf{Conceptual preparation:}
+\begin{checklist}
+    \item Theory understood well enough to explain the research question
+    \item Method concepts understood well enough to explain the measurement approach
+    \item \textbf{Ready to give a 15-minute presentation to your tutor} (see below)
+\end{checklist}
+
+\textbf{Practical preparation:}
+\begin{checklist}
+    \item Safety hazards identified; questions noted for tutor
+    \item Notebook page prepared using the template
+    \item Success/failure signs written
+    \item Rule for invalid runs written
+    \item Relevant equations and expected order of magnitude noted
+\end{checklist}
+
+\subsubsection{Pre-Lab Presentation (Before First Measurements)}
+\label{sec:hb-prelab}
+
+\begin{tier2box}[title=Required Before Technical Work]
+Before you begin technical work on any experiment, you will give a short presentation to your tutor.
+
+\textbf{Duration:} Approximately 15 minutes (10 minutes presentation, 5 minutes discussion)
+\end{tier2box}
+
+\textbf{Content:}
+
+\begin{center}
+\begin{tabular}{@{}L{4cm}L{9cm}@{}}
+\toprule
+\textbf{Element} & \textbf{What to cover} \\
+\midrule
+Research question & What physical relationship or quantity are you investigating? \\
+Why it matters & What is the scientific context? \\
+Method concept & How does the measurement technique work in principle? \\
+Expected outcome & What result do you expect? What order of magnitude? \\
+Key uncertainties & What are the main sources of uncertainty you anticipate? \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\textbf{What this is not:} Not a test of memorisation; not graded separately.
+
+\textbf{What this is:} A chance to surface misunderstandings early—a dialogue, not a monologue.
+
+If your tutor identifies significant gaps in understanding, they may ask you to revisit the material before proceeding. This is not a penalty; it is an investment in the quality of your work.
+
+\subsubsection{Lab Work Checklist (During Experiment)}
+
+\textbf{Setup checks:}
+\begin{checklist}
+    \item Equipment identified (model or lab label recorded)
+    \item Connections secure
+    \item Settings documented
+    \item Room conditions noted
+\end{checklist}
+
+\textbf{Measurement checks:}
+\begin{checklist}
+    \item Signal within expected range?
+    \item Time base or scale bar recorded?
+    \item Unexpected drift investigated?
+\end{checklist}
+
+\textbf{Stop rules:}
+\begin{itemize}
+    \item If something looks wrong: \textbf{Stop. Write it down. Ask your tutor.}
+    \item If you cannot explain what the next adjustment is supposed to change: \textbf{Stop. Think first.}
+\end{itemize}
+
+\subsubsection{Data Analysis Checklist (After Lab)}
+
+\begin{checklist}
+    \item Raw data backed up (separate from working copy)
+    \item Statistical uncertainty calculated
+    \item Systematic uncertainties estimated and listed
+    \item Uncertainties propagated through calculations
+    \item Result compared to expected value
+    \item Discrepancies investigated (not ignored)
+\end{checklist}
+
+% ----------------------------------------------------------------------------
+\subsection{Understanding Uncertainties}
+\label{sec:hb-uncertainties}
+
+Every measurement has uncertainty. Reporting a result without uncertainty is like giving directions without distances.
+
+\subsubsection{Two Kinds of Uncertainty}
+
+\begin{center}
+\begin{tabular}{@{}L{2.5cm}L{5cm}L{5.5cm}@{}}
+\toprule
+\textbf{Type} & \textbf{What it is} & \textbf{How to reduce it} \\
+\midrule
+Statistical & Random scatter in repeated measurements & Take more measurements; average reduces scatter as $1/\sqrt{N}$ \\
+Systematic & Consistent bias in one direction & Identify the source; calibrate; compare with independent method \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsubsection{Estimating Statistical Uncertainty}
+
+For $N$ repeated measurements:
+
+\begin{enumerate}
+    \item Calculate the \textbf{mean}: $\bar{x} = \frac{1}{N} \sum_{i=1}^{N} x_i$
+    \item Calculate the \textbf{standard deviation}: $s = \sqrt{\frac{\sum_{i=1}^{N}(x_i - \bar{x})^2}{N-1}}$
+    \item Calculate the \textbf{standard error}: $\sigma_{\bar{x}} = \frac{s}{\sqrt{N}}$
+\end{enumerate}
+
+\textbf{Example:} Five measurements of a time interval: 4.2, 4.5, 4.3, 4.1, 4.4\,ms.
+\begin{itemize}
+    \item Mean: 4.3\,ms
+    \item Standard deviation: $\approx 0.16$\,ms
+    \item Standard error: $\approx 0.07$\,ms
+    \item Report: $(4.30 \pm 0.07)$\,ms
+\end{itemize}
+
+\subsubsection{Combining Uncertainties}
+
+For independent uncertainties:
+
+\textbf{Addition/subtraction:}
+\begin{equation}
+\sigma_z = \sqrt{\sigma_x^2 + \sigma_y^2}
+\end{equation}
+
+\textbf{Multiplication/division:}
+\begin{equation}
+\frac{\sigma_z}{z} = \sqrt{\left(\frac{\sigma_x}{x}\right)^2 + \left(\frac{\sigma_y}{y}\right)^2}
+\end{equation}
+
+\subsubsection{Reporting Uncertainties}
+
+Always state: the value, the uncertainty, the units, and what the uncertainty represents.
+
+\textbf{Good:} $(4.30 \pm 0.07)$\,ms (standard error, $N = 5$)
+
+\textbf{Bad:} 4.3\,ms
+
+\textbf{Also bad:} $4.302847 \pm 0.0712654$\,ms (false precision)
+
+% ----------------------------------------------------------------------------
+\subsection{Quick Reference Card}
+\label{sec:hb-quickref}
+
+\begin{quickrefbox}
+\textbf{BEFORE LAB}\\
+$\checkmark$ Safety training valid (12-month expiry)\\
+$\checkmark$ Experiment guide read\\
+$\checkmark$ Success/failure signs written\\
+$\checkmark$ Ready to present method concepts to tutor\\[0.3cm]
+\textbf{DURING LAB}\\
+$\checkmark$ Check for saturation, drift, loose cables\\
+$\checkmark$ Record settings, timestamps, anomalies\\
+$\checkmark$ Stop if you can't explain the next step\\
+$\checkmark$ Ask tutor if uncertain\\[0.3cm]
+\textbf{AFTER LAB}\\
+$\checkmark$ Back up raw data before editing\\
+$\checkmark$ Statistical + systematic uncertainties\\
+$\checkmark$ Propagate through calculations\\
+$\checkmark$ Label axes, show error bars\\[0.3cm]
+\textbf{DATA EXCLUSION}\\
+Point to a pre-written sign, not post-hoc judgement
+\end{quickrefbox}
+
+% ----------------------------------------------------------------------------
+\subsection{Your Rights and Recourse}
+
+As a student, you have the right to:
+
+\begin{itemize}
+    \item \textbf{Know the criteria} by which you will be assessed before you submit work
+    \item \textbf{Receive feedback} within the timeframes specified in Section~\ref{sec:hb-tutor-feedback}
+    \item \textbf{Escalate concerns} through the paths defined in Section~\ref{sec:hb-escalation}
+    \item \textbf{Be treated with respect} even when your work requires correction
+\end{itemize}
+
+% ============================================================================
+\section{For Tutors}
+\label{sec:hb-tutors}
+
+This section defines your operational responsibilities as a tutor. Students can read this section—that is intentional.
+
+% ----------------------------------------------------------------------------
+\subsection{Safety Training}
+
+The safety training requirements in Sections~\ref{sec:hb-safety-req} and~\ref{sec:hb-safety} apply to you as well.
+
+\textbf{You must hold valid safety training to supervise laboratory work.} Your training certificates expire after 12 months. Verify your training status on ILIAS before the semester begins.
+
+If your safety training expires, you may not supervise laboratory sessions until it is renewed.
+
+% ----------------------------------------------------------------------------
+\subsection{Feedback and Grading}
+\label{sec:hb-tutor-feedback}
+
+\subsubsection{Feedback Timelines}
+
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Deliverable} & \textbf{Feedback deadline} \\
+\midrule
+Pre-lab presentation & Immediate (before measurements begin) \\
+Lab notebook check & Same session or next scheduled session \\
+Written report & Within 14 calendar days of submission \\
+Presentation & Verbal immediately; written within 7 days if requested \\
+Resubmission & Within 10 calendar days \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+If you cannot meet a deadline, notify the student and an organiser \textbf{before} the deadline passes.
+
+\subsubsection{Pre-Lab Presentation Conduct}
+
+When a student presents their conceptual preparation:
+
+\begin{itemize}
+    \item Listen for understanding of the research question and method
+    \item Ask clarifying questions—this is a dialogue, not an examination
+    \item Do not proceed to measurements if the student cannot explain what they are measuring and why
+    \item Document any decision to delay measurements
+\end{itemize}
+
+\subsubsection{Grading Consistency}
+
+\begin{itemize}
+    \item Apply the same criteria to all students for the same experiment
+    \item Consult an organiser before finalising uncertain grades
+    \item Do not retroactively change grading criteria
+    \item Store grades on ILIAS only
+\end{itemize}
+
+\textit{These requirements implement Invariant Framework Principle~1 (Known Criteria) and Principle~3 (Traceable Decisions).}
+
+% ----------------------------------------------------------------------------
+\subsection{Authority and Limits}
+
+\subsubsection{What You May Do}
+
+\begin{itemize}
+    \item Assess student work according to published criteria
+    \item Conduct pre-lab presentations and determine readiness to proceed
+    \item Require students to repeat measurements or revise reports
+    \item Report safety violations or academic integrity concerns
+\end{itemize}
+
+\subsubsection{What You May Not Do}
+
+\begin{itemize}
+    \item Invent new assessment criteria not communicated in advance
+    \item Grant extensions beyond course policy
+    \item Exclude a student from the laboratory
+    \item Waive safety requirements
+    \item Supervise if your own safety training has expired
+\end{itemize}
+
+\textit{These limits implement Invariant Framework Principle~2 (Proportional Authority).}
+
+% ----------------------------------------------------------------------------
+\subsection{When to Escalate}
+
+Escalate to an organiser when:
+
+\begin{itemize}
+    \item A student disputes a grade and you cannot resolve it
+    \item You observe a safety violation or potential academic integrity issue
+    \item A student's behaviour is disruptive
+    \item A student repeatedly fails the pre-lab presentation
+\end{itemize}
+
+\textbf{How to escalate:} Email the course organiser with a factual summary. Do not delay.
+
+% ============================================================================
+\section{For Organisers}
+\label{sec:hb-organisers}
+
+This section defines your operational responsibilities as an organiser. Tutors and students can read this section—that is intentional.
+
+% ----------------------------------------------------------------------------
+\subsection{Infrastructure and Continuity}
+
+\subsubsection{Pre-Semester Responsibilities}
+
+\begin{itemize}
+    \item Ensure all experiment guides are current
+    \item Verify safety training modules are available on ILIAS
+    \item \textbf{Verify that all tutors hold valid safety training}
+    \item Confirm equipment is functional and calibrated
+    \item Brief tutors on any changes
+    \item Publish assessment criteria before students begin
+    \item Ensure ILIAS contains current contact details and schedules
+\end{itemize}
+
+\subsubsection{During-Semester Responsibilities}
+
+\begin{itemize}
+    \item Maintain equipment or clearly mark out-of-service items
+    \item \textbf{Monitor tutor safety training expiry dates}
+    \item Respond to escalations within 5 working days
+    \item Keep ILIAS information current
+\end{itemize}
+
+\subsubsection{Documentation}
+
+\begin{itemize}
+    \item Keep records of significant decisions
+    \item Document exceptions granted
+    \item Maintain equipment issue logs
+    \item \textbf{Maintain records of safety training status for all personnel}
+\end{itemize}
+
+\textit{These requirements implement Invariant Framework Principle~3 (Traceable Decisions).}
+
+% ----------------------------------------------------------------------------
+\subsection{Escalation Resolution}
+
+When a matter is escalated:
+
+\begin{enumerate}
+    \item \textbf{Acknowledge} receipt within 2 working days
+    \item \textbf{Gather information} from all relevant parties
+    \item \textbf{Decide} based on documented criteria
+    \item \textbf{Communicate} the decision in writing
+    \item \textbf{Document} the decision and its basis
+\end{enumerate}
+
+Most escalations should be resolved within 10 working days.
+
+% ----------------------------------------------------------------------------
+\subsection{Amendment Authority}
+
+Organisers may amend Sections~\ref{sec:hb-students},~\ref{sec:hb-tutors}, and~\ref{sec:hb-organisers} subject to:
+
+\begin{itemize}
+    \item Compatibility check required before adoption
+    \item Guardian may veto on lock-compliance grounds
+    \item Changes take effect only when published with updated version
+    \item Students and tutors must be notified
+\end{itemize}
+
+Organisers may \textbf{not} amend Section~\ref{sec:hb-common} or Section~\ref{sec:hb-escalation} without full review.
+
+% ============================================================================
+\section{Escalation Paths}
+\label{sec:hb-escalation}
+
+This section defines how concerns move through the system. It is binding on all roles.
+
+% ----------------------------------------------------------------------------
+\subsection{Principles of Escalation}
+
+\begin{itemize}
+    \item Escalation is not punishment—it is a mechanism for resolution
+    \item Escalation should be timely—do not let problems fester
+    \item Escalation should be documented
+    \item Escalation preserves relationships—the goal is resolution, not blame
+\end{itemize}
+
+% ----------------------------------------------------------------------------
+\subsection{Escalation Paths by Issue Type}
+
+\begin{center}
+\begin{tabular}{@{}L{3cm}L{2.5cm}L{2.5cm}L{3.5cm}@{}}
+\toprule
+\textbf{Issue} & \textbf{First contact} & \textbf{If unresolved} & \textbf{Final authority} \\
+\midrule
+Feedback not received & Tutor & Organiser & Organiser decision \\
+Grade dispute & Tutor & Organiser & Organiser (documented) \\
+Equipment failure & Tutor & Organiser & Organiser resolution \\
+Safety concern & Tutor/Organiser & Organiser & Safety officer \\
+Tutor conduct & Organiser & Institution & Institutional authority \\
+Student conduct & Tutor$\to$Organiser & Institution & Institutional authority \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% ----------------------------------------------------------------------------
+\subsection{Response Commitments}
+
+\begin{center}
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{Escalation level} & \textbf{Acknowledgement} & \textbf{Resolution target} \\
+\midrule
+Student $\to$ Tutor & Same/next session & 7 days \\
+Student $\to$ Organiser & 2 working days & 10 working days \\
+Tutor $\to$ Organiser & 2 working days & 10 working days \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+% ============================================================================
+\section{Upward References}
+\label{sec:hb-references}
+
+This handbook does not define principles. It points upward to documents that do.
+
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Topic} & \textbf{Reference} \\
+\midrule
+Principles and boundaries & Invariant Framework (Tier 0) \\
+Intentions and commitments & Unified Essay (Tier 1) \\
+Uncertainty fundamentals & GUM (JCGM 100:2008) \\
+Error propagation & Taylor, \textit{Introduction to Error Analysis} \\
+Fitting and statistics & Bevington \& Robinson \\
+Physical constants & CODATA; Particle Data Group \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\begin{statusbox}
+\textbf{Institutional override:} Formal examination regulations of the university and faculty (Prüfungsordnung) override this handbook where applicable. This handbook governs local practice within that institutional envelope.
+\end{statusbox}
+
+% ============================================================================
+\section*{Document Metadata}
+
+\begin{center}
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Field} & \textbf{Value} \\
+\midrule
+Version & 0.2.2 \\
+Status & DRAFT \\
+Tier & 2 (Operational / Enforceable) \\
+Created & 2026-01-15 \\
+Parent Documents & Invariant Framework v0.1, Unified Essay v0.3 \\
+Compatibility Check & Pending; required before adoption \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\subsection*{Amendment Hierarchy}
+
+Amendment authorities for this handbook are subordinate to the Invariant Framework amendment discipline. No section may be amended in ways that conflict with the Invariant Framework (Tier~0). Compatibility verification is required before adoption. Guardian may veto on lock-compliance grounds.

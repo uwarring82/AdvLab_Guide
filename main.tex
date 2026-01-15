@@ -1,0 +1,359 @@
+% ============================================================================
+% ADVANCED PHYSICS LABORATORY — DOCUMENT ARCHITECTURE
+% ============================================================================
+% Main file with unifying preamble
+% Version: 1.0.0 (Compiled)
+% ============================================================================
+
+\documentclass[11pt,a4paper,twoside]{report}
+
+% ----------------------------------------------------------------------------
+% PACKAGES
+% ----------------------------------------------------------------------------
+
+% Encoding and fonts
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+% Language
+\usepackage[british]{babel}
+
+% Page layout
+\usepackage[
+    top=2.5cm,
+    bottom=2.5cm,
+    left=2.5cm,
+    right=2.5cm,
+    headheight=14pt
+]{geometry}
+
+% Headers and footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textit{\leftmark}}
+\fancyhead[LO]{\textit{\rightmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Typography
+\usepackage{microtype}
+\usepackage{setspace}
+\onehalfspacing
+
+% Colours
+\usepackage[dvipsnames,svgnames,x11names]{xcolor}
+\definecolor{frameworkcolor}{RGB}{0,51,102}      % Deep blue for Tier 0
+\definecolor{essaycolor}{RGB}{102,51,0}          % Warm brown for Tier 1
+\definecolor{handbookcolor}{RGB}{0,102,51}       % Forest green for Tier 2
+\definecolor{linkcolor}{RGB}{0,51,102}
+\definecolor{boxgray}{RGB}{245,245,245}
+
+% Tables
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% Lists
+\usepackage{enumitem}
+\setlist{nosep, leftmargin=*}
+\setlist[itemize]{label=\textbullet}
+
+% Boxes and frames
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+% Graphics
+\usepackage{graphicx}
+
+% Mathematics (for uncertainty formulas)
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Code and verbatim
+\usepackage{listings}
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    backgroundcolor=\color{boxgray},
+    xleftmargin=0.5cm,
+    xrightmargin=0.5cm
+}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    citecolor=linkcolor,
+    pdftitle={Advanced Physics Laboratory — Document Architecture},
+    pdfauthor={Physikalisches Institut, Universität Freiburg},
+    pdfsubject={Laboratory Course Documentation},
+    pdfkeywords={physics, laboratory, experimental, uncertainty, RTR}
+}
+
+% Cross-referencing
+\usepackage[capitalise,noabbrev]{cleveref}
+
+% ----------------------------------------------------------------------------
+% CUSTOM ENVIRONMENTS
+% ----------------------------------------------------------------------------
+
+% Status box for document headers
+\newtcolorbox{statusbox}[1][]{
+    colback=boxgray,
+    colframe=gray,
+    fonttitle=\bfseries,
+    boxrule=0.5pt,
+    arc=2pt,
+    left=6pt,
+    right=6pt,
+    top=6pt,
+    bottom=6pt,
+    #1
+}
+
+% Tier-specific section boxes
+\newtcolorbox{tier0box}[1][]{
+    colback=frameworkcolor!5,
+    colframe=frameworkcolor,
+    fonttitle=\bfseries\color{frameworkcolor},
+    boxrule=1pt,
+    arc=3pt,
+    breakable,
+    #1
+}
+
+\newtcolorbox{tier1box}[1][]{
+    colback=essaycolor!5,
+    colframe=essaycolor,
+    fonttitle=\bfseries\color{essaycolor},
+    boxrule=1pt,
+    arc=3pt,
+    breakable,
+    #1
+}
+
+\newtcolorbox{tier2box}[1][]{
+    colback=handbookcolor!5,
+    colframe=handbookcolor,
+    fonttitle=\bfseries\color{handbookcolor},
+    boxrule=1pt,
+    arc=3pt,
+    breakable,
+    #1
+}
+
+% Principle box
+\newtcolorbox{principlebox}[1][]{
+    colback=white,
+    colframe=frameworkcolor,
+    fonttitle=\bfseries,
+    boxrule=0.5pt,
+    arc=2pt,
+    left=10pt,
+    right=10pt,
+    top=6pt,
+    bottom=6pt,
+    #1
+}
+
+% Checklist environment
+\newlist{checklist}{itemize}{1}
+\setlist[checklist]{label=$\square$, leftmargin=*, nosep}
+
+% Quick reference card box
+\newtcolorbox{quickrefbox}{
+    colback=boxgray,
+    colframe=black,
+    boxrule=1pt,
+    arc=0pt,
+    left=8pt,
+    right=8pt,
+    top=8pt,
+    bottom=8pt,
+    fontupper=\ttfamily\small
+}
+
+% ----------------------------------------------------------------------------
+% CUSTOM COMMANDS
+% ----------------------------------------------------------------------------
+
+% Document tier markers
+\newcommand{\tiermark}[2]{%
+    \noindent\textbf{Tier #1:} \textit{#2}\par\medskip
+}
+
+% Principle formatting
+\newcommand{\principle}[2]{%
+    \begin{principlebox}[title=Principle #1 — #2]
+}
+
+% Role section headers
+\newcommand{\rolesection}[1]{%
+    \subsection*{#1}
+    \addcontentsline{toc}{subsection}{#1}
+}
+
+% Metadata table
+\newcommand{\metadatarow}[2]{\textbf{#1} & #2 \\}
+
+% ----------------------------------------------------------------------------
+% TITLE PAGE INFORMATION
+% ----------------------------------------------------------------------------
+
+\title{%
+    \vspace{-2cm}
+    {\Huge\bfseries Advanced Physics Laboratory}\\[0.5cm]
+    {\Large Document Architecture}\\[1cm]
+    {\large Invariant Framework · Unified Essay · Unified Handbook}
+}
+
+\author{%
+    Physikalisches Institut\\
+    Universität Freiburg
+}
+
+\date{%
+    Version 0.1\\[0.3cm]
+    January 2026
+}
+
+% ============================================================================
+% DOCUMENT BODY
+% ============================================================================
+
+\begin{document}
+
+% ----------------------------------------------------------------------------
+% FRONT MATTER
+% ----------------------------------------------------------------------------
+
+\maketitle
+\thispagestyle{empty}
+
+\clearpage
+
+% Document overview
+\chapter*{Document Overview}
+\addcontentsline{toc}{chapter}{Document Overview}
+
+This compilation contains the three core documents that govern the Advanced Physics Laboratory:
+
+\begin{description}[style=nextline, leftmargin=2cm]
+    \item[\textcolor{frameworkcolor}{Part I: Invariant Framework}] 
+    \textit{Tier 0 — Constitutional}\\
+    The non-negotiable boundary conditions. Principles that cannot be changed by downstream documents. Defines what must always hold.
+    
+    \item[\textcolor{essaycolor}{Part II: Unified Essay}]
+    \textit{Tier 1 — Aspirational, Non-Binding}\\
+    Shared intentions and commitments. Makes the meaning of the laboratory visible. Cannot be enforced, but can be referenced.
+    
+    \item[\textcolor{handbookcolor}{Part III: Unified Handbook}]
+    \textit{Tier 2 — Operational, Enforceable}\\
+    Procedures, timelines, templates, and escalation paths. Can be enforced. May be amended by organisers with appropriate review.
+\end{description}
+
+\bigskip
+
+\begin{statusbox}
+\textbf{Reading Order}
+
+\begin{itemize}
+    \item If you need to \textbf{do something}: start with Part III (Handbook)
+    \item If you need to \textbf{understand why}: read Part II (Essay)
+    \item If you need to \textbf{know what cannot be violated}: read Part I (Framework)
+\end{itemize}
+\end{statusbox}
+
+\bigskip
+
+\noindent\textbf{Document Hierarchy}
+
+No downstream document may contradict an upstream document:
+
+\begin{center}
+\begin{tikzpicture}[node distance=1.5cm, auto]
+    % This requires \usepackage{tikz} — simplified version below
+\end{tikzpicture}
+\end{center}
+
+\begin{center}
+    \textcolor{frameworkcolor}{\textbf{Framework (Tier 0)}}\\
+    $\downarrow$\\
+    \textcolor{essaycolor}{\textbf{Essay (Tier 1)}}\\
+    $\downarrow$\\
+    \textcolor{handbookcolor}{\textbf{Handbook (Tier 2)}}\\
+    $\downarrow$\\
+    \textit{Experiment Guides}
+\end{center}
+
+\clearpage
+
+% Table of contents
+\tableofcontents
+\clearpage
+
+% ----------------------------------------------------------------------------
+% PART I: INVARIANT FRAMEWORK
+% ----------------------------------------------------------------------------
+
+\part{\textcolor{frameworkcolor}{Invariant Framework}}
+\label{part:framework}
+
+\input{framework}
+
+% ----------------------------------------------------------------------------
+% PART II: UNIFIED ESSAY
+% ----------------------------------------------------------------------------
+
+\part{\textcolor{essaycolor}{Unified Essay}}
+\label{part:essay}
+
+\input{essay}
+
+% ----------------------------------------------------------------------------
+% PART III: UNIFIED HANDBOOK
+% ----------------------------------------------------------------------------
+
+\part{\textcolor{handbookcolor}{Unified Handbook}}
+\label{part:handbook}
+
+\input{handbook}
+
+% ----------------------------------------------------------------------------
+% BACK MATTER
+% ----------------------------------------------------------------------------
+
+\appendix
+
+\chapter{Version History}
+
+\section*{Document Versions}
+
+\begin{longtable}{@{}llp{8cm}@{}}
+\toprule
+\textbf{Document} & \textbf{Version} & \textbf{Status} \\
+\midrule
+\endhead
+Invariant Framework & 0.1 & DRAFT \\
+Unified Essay & 0.3 & DRAFT \\
+Unified Handbook & 0.2.2 & DRAFT \\
+\midrule
+Compiled Document & 0.1.0 & DRAFT – Initial Compilation \\
+\bottomrule
+\end{longtable}
+
+\section*{Compilation Notes}
+
+This document was compiled on \today. Individual component documents may be updated independently. Always verify you have the current version by checking the repository or ILIAS.
+
+
+\end{document}
