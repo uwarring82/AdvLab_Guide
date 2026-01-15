@@ -676,10 +676,6 @@ The overall grade is the weighted average of all partial grades from labs and se
 |Lab Special                            |1.0  |
 |Seminar presentation                   |1.0  |
 
-## Entrance Procedure Note
-
-If a student's preparation is insufficient, the entrance procedure (15-minute conversation) must be repeated. In such cases, the final grade for that experiment cannot be better than 2.0.
-
 -----
 
 # Appendix B: Feedback and Grading Template
