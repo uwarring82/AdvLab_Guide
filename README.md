@@ -1,6 +1,6 @@
-# Advanced Physics Laboratory — Document Guide
-
 # Advanced Physics Laboratory Documentation
+Ulrich Warring, Physikalisches Institute, University of Freiburg, Germany
+
 
 ## Structure
 
