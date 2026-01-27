@@ -1,917 +1,906 @@
-# Advanced Physics Laboratory
+# Advanced Laboratory Courses — Rulebook
 
-## Unified Documentation
+**Applies to:** Master Laboratory (FP-2) and Fortgeschrittenenpraktikum Lehramt (FP-EDU)  
+**Version:** 0.2 (Draft)  
+**Status:** For review
 
-Version 1.0
+---
 
------
+## One-Page Summary
 
-## Foreword
+### What This Is
 
-This document governs the Advanced Physics Laboratory. It replaces scattered rules, unwritten expectations, and inherited customs with a single, visible structure.
+Advanced laboratory courses where you engage with physics as a scientist: making choices, recognising the unexpected, and reasoning through problems without pre-written solutions.
 
-**Three parts, three purposes:**
+### The Two Phases
 
-| Part | What it does | In plain language |
-|------|--------------|-------------------|
-| I. Framework | States principles that cannot be overridden | The promises we make to you |
-| II. Essay | Describes what each role commits to in spirit | What we are trying to do |
-| III. Handbook | Contains enforceable rules with deadlines | The rulebook—if it's not here, it cannot be used against you |
+| Phase | Purpose | What Counts |
+|-------|---------|-------------|
+| **Learning Phase** | Build understanding through experiment and discussion | Formative feedback only — no grade impact |
+| **Exam Phase** | Demonstrate understanding through reports and seminar | Written reports + oral seminar presentation |
 
-**Why this structure?**
+### Each Experiment at a Glance
 
-Mixing principles, intentions, and procedures creates ambiguity. Ambiguity disadvantages whoever has less power—usually students. Separating them protects everyone.
+| When | What | Duration |
+|------|------|----------|
+| Before lab | Safety training, preparation, entrance conversation | — |
+| Day 1 | Principles presentation + discussion | ~30 min per team |
+| During lab | Measurements, analysis, honest discourse | Variable |
+| Last day | Findings presentation + discussion | ~30 min per team |
+| After lab | Written report (except FP-2 two-week) | 7 days (lab days excluded) |
 
-**About this version:**
+### Seminar Session Structure (Exam Phase)
 
-This laboratory is undergoing slow, deliberate modernisation. This document reflects where we are, not where we hope to be. Some experiment instructions use legacy formats. Some accountability mechanisms are newer than others. We state what is true now and revise as things change.
+| Element | Duration |
+|---------|----------|
+| Uninterrupted presentation | ~30 minutes |
+| Honest discussion | ~15 minutes |
+| Final exam questions (organisers and tutors) | ~15 minutes |
+| **Total** | **60 minutes** |
 
-**How to read this:**
+### Written Report Expectations
 
-- If you're new to the lab → Read the **Welcome Introduction** first (separate document, ~10 min)
-- If you need deadlines and escalation paths quickly → Quick Reference (next page)
-- If you need to know what you must do → Part III (Handbook)
-- If you need to know what cannot be violated → Part I (Framework)
-- If you want to understand why → Part II (Essay)
+A full scientific report must demonstrate:
 
-**Legal note:** University and faculty examination regulations, and university integrity regulations, take precedence over this document. This document fills in local practice within that framework.
+| Element | Expectation |
+|---------|-------------|
+| **Structure** | Introduction, method, results, discussion, conclusion |
+| **Data** | Clear presentation, appropriate visualisation, uncertainties stated |
+| **Analysis** | Transparent assumptions, appropriate methods, honest about limitations |
+| **Interpretation** | Connected to physics principles, alternative explanations acknowledged |
+| **References** | All sources acknowledged; own words used |
 
------
+**FP-EDU short reports:** Same principles apply, but scope is reduced. Focus on key findings, essential analysis, and clear communication. Quality over length.
 
-## Quick Reference
+### Key Rules
 
-**Your protections (Part I principles):**
+- **Students:** Prepare thoroughly. Present honestly. Ask when uncertain. Meet deadlines or communicate early.
+- **Tutors:** Observe by default. Intervene only for safety, clear factual errors, or process issues. State your reason. Give timely feedback.
+- **Organisers:** Publish all criteria before they apply. Respond to escalations within deadlines. No retroactive rule changes.
 
-| Principle | What it means for you |
-|-----------|----------------------|
-| Known Criteria | You can only be assessed on criteria you knew beforehand |
-| Proportional Authority | You're only responsible for what you could influence |
-| Traceable Decisions | Every decision affecting you must have a name and reason |
-| Separation of Layers | Rules can't hide whether they're about purpose, procedure, or authority |
-| Symmetric Visibility | If you can't see a rule, it can't be used against you |
-| Correctable Error | One mistake doesn't end your participation |
+### What Makes This Work
 
-**Key deadlines:**
+- All criteria are known before you begin
+- Every decision affecting you has a name and a reason
+- Mistakes are correctable through defined paths
+- Divergence is legitimate — not every discussion needs consensus
+- Escalation paths exist and cannot lead to disadvantage
 
-| What | When |
-|------|------|
-| Safety training valid | Before entering lab (renew every 12 months) |
-| Written report due | One week after final lab session for that experiment |
-| Oral report | Accompanies written submission |
-| Tutor feedback on report | Within 14 calendar days |
-| Escalation acknowledgement | Within 2 working days |
-| Escalation resolution | Within 10 working days |
+### Course Differences
 
-**If something goes wrong:**
+| Element | FP-2 (Master) | FP-EDU (Education) |
+|---------|---------------|---------------------|
+| Credit value | 8 ECTS | 5 ECTS |
+| Experiments | 2 × one-week (reports) + 1 × two-week (no report) | 2 × short report + 1 × full report |
+| Two-week results | Presented in seminar | — |
+| Special component | — | Labor-Spezial (didactic reflection) |
+| Seminar | Presentation of two-week results | Exam phase of Labor-Spezial |
+| Didactic reflection | — | Required in both learning and exam phases |
 
-| Situation | First step | If unresolved |
-|-----------|------------|---------------|
-| Feedback not received | Ask tutor | Email organiser |
-| Disagree with grade | Ask tutor for explanation | Email organiser |
-| Unclear expectations | Ask tutor | Email organiser |
-| Equipment broken | Tell tutor | Tutor tells organiser |
-| Safety concern | Tell tutor or organiser immediately | Organiser handles |
-| Problem with tutor | Email organiser | Email dean of studies |
-| Problem with organiser | Email dean of studies | — |
+---
 
-**Canonical version:** The current version of this document is published on ILIAS. If you have a printed or offline copy, check ILIAS for updates.
+## Part I: Course Structure
 
------
+### Overview
 
-# Part I: Invariant Framework
+The advanced laboratory is not about executing procedures. It is about understanding physics deeply enough to make decisions, recognise surprises, and reason through problems that have no pre-written solutions.
 
-## What This Document Is
+This requires trust — trust that your questions will be taken seriously, that mistakes are opportunities for learning, and that the system is fair. We earn that trust through structure, not promises.
 
-This section lists six principles that always apply in the laboratory. No other part of this document may contradict them.
+**The following rules apply:**
 
------
+1. Each course consists of laboratory experiments plus a seminar component.
+2. The learning phase and exam phase are clearly separated.
+3. Assessment criteria are published before work begins and cannot change after submission.
+4. All participants — students, tutors, organisers — are bound by these rules.
 
-## The Six Principles
+### FP-2 (Master Laboratory)
 
-### 1. Known Criteria
+| Component | Weight | Notes |
+|-----------|--------|-------|
+| One-week experiment 1 (report) | 1.0 | Written report required |
+| One-week experiment 2 (report) | 1.0 | Written report required |
+| Two-week experiment | — | No report; results presented in seminar |
+| Seminar presentation | 2.0 | Presents two-week experiment results |
 
-You can only be assessed using criteria you knew about before you did the work.
+**Credit value:** 8 ECTS  
+**To pass:** Overall grade ≤ 4.0
 
-If the criteria were not accessible to you beforehand, any decision based on them cannot be enforced.
+**Note:** The two-week experiment does not require a written report. Instead, students present their results in the seminar session, which forms the primary assessment for this experiment.
 
-### 2. Proportional Authority
+### FP-EDU (Fortgeschrittenenpraktikum Lehramt)
 
-You can only be held responsible for things you could reasonably influence.
+| Component | Weight | Notes |
+|-----------|--------|-------|
+| Experiment 1 (short report) | 1.0 | Written report required |
+| Experiment 2 (short report) | 1.0 | Written report required |
+| Experiment 3 (full report) | 1.5 | Written report required |
+| Labor-Spezial + Seminar | 1.5 | Seminar is exam phase of Labor-Spezial |
 
-If you had no realistic way to change something, you cannot be held responsible for it.
+**Credit value:** 5 ECTS  
+**To pass:** Overall grade ≤ 4.0
 
-### 3. Traceable Decisions
+**Note:** The seminar presentation forms the exam phase of the Labor-Spezial. Both the learning phase (practical work, didactic exploration) and the exam phase (seminar presentation) must include didactic reflection.
 
-Every decision that affects your status in the course must have:
+---
 
-- A named person who made it
-- A stated reason
+## Part II: The Two Phases
 
-If either is missing, the decision cannot be enforced.
+### Learning Phase
 
-### 4. Separation of Layers
+The learning phase is where understanding is built. It includes preparation, the entrance conversation, laboratory work, and the daily presentations. During this phase, tutors support your learning — they do not assess your performance for grades.
 
-Three things are kept separate:
+You should feel safe to ask questions, make mistakes, and change your mind. That is what learning looks like.
 
-- Why we do things (purpose)
-- How we do things (procedure)
-- Who decides (authority)
+**The following rules apply:**
 
-No document or decision may mix these in a way that makes it unclear which one is being used.
+1. The learning phase covers all activities from preparation through the final day of laboratory work.
+2. Feedback during the learning phase is formative — it does not affect your grade.
+3. The entrance conversation is part of the learning phase and is not graded.
+4. Daily presentations (principles and findings) are part of the learning phase and are not graded.
+5. Tutors may provide guidance, correction, and feedback throughout the learning phase.
+6. Errors identified during the learning phase can be corrected without grade consequence.
 
-### 5. Symmetric Visibility
+**FP-EDU:** The learning phase of the Labor-Spezial includes practical work and didactic exploration. Didactic reflection is required during this phase — it is not something added only at the end.
 
-Every rule that applies to you must be visible to you.
+### Exam Phase
 
-The rules that define how decisions are made must also be visible to you.
+The exam phase is where you demonstrate what you have learned. It consists of written reports (where applicable) and the oral seminar presentation. These are assessed against published criteria.
 
-If you cannot access a rule that is used against you, it cannot be enforced against you.
+**The following rules apply:**
 
-### 6. Correctable Error
+1. The exam phase begins after laboratory work ends.
+2. Written reports are assessed against criteria published before the experiment began.
+3. The seminar presentation is assessed against criteria published at the start of the course.
+4. No new criteria may be introduced after submission.
+5. Every grade includes written justification from a named tutor.
+6. Grades may be questioned through defined escalation paths.
 
-One mistake does not end your participation.
+**FP-2:** The two-week experiment has no written report. The seminar presentation serves as the exam phase for this experiment.
 
-If you acknowledge an error and follow a documented correction path, you cannot be excluded from the course for that error alone.
+**FP-EDU:** The seminar presentation forms the exam phase of the Labor-Spezial. Didactic reflection is required in the seminar — it must be integrated into the presentation, not treated as an afterthought.
 
------
+---
 
-## Accountability Structure
+## Part III: Before the Laboratory
 
-This section explains who is accountable to whom. Making it visible makes it easier to use.
+### Preparation
 
-### The Chain
+Good laboratory work begins before you enter the room. Preparation is not optional — it is the foundation for everything that follows.
 
-```
-Students → Tutors → Organisers → Dean of Studies
-```
+**The following rules apply:**
 
-Everyone in the laboratory is accountable to someone. The chain is complete.
+1. Complete all required safety training before your first laboratory session.
+   - General laboratory safety: before first entry
+   - Electrical safety: before first entry
+   - Experiment-specific modules (laser, radiation, cryogenics): before that experiment
+2. Read the experiment guide thoroughly before arriving.
+3. Prepare for the entrance conversation by understanding:
+   - What you are measuring and why it matters
+   - How the technique works (concept, not buttons)
+   - What you expect and what would surprise you
+   - Main sources of uncertainty
 
-### How Accountability Differs by Role
+### Entrance Conversation
 
-|Role      |Accountable to   |Type of consequence                             |Speed    |Visibility|
-|----------|-----------------|------------------------------------------------|---------|----------|
-|Students  |Tutors           |Grade consequences: marks, failure, exclusion   |Immediate|High      |
-|Tutors    |Organisers       |Role consequences: formal note, removal from role|Slower   |Lower     |
-|Organisers|Dean of Studies  |Institutional consequences: review, intervention|Slowest  |Lowest    |
+The entrance conversation is a 15-minute discussion with your tutor before measurements begin. It verifies that you are prepared to use laboratory time effectively. It is part of the learning phase — not graded.
 
-The types of consequences differ. That is honest. But accountability exists at every level.
+**The following rules apply:**
 
-### What This Means
+1. The entrance conversation takes place before measurements begin.
+2. Tutors assess whether understanding is sufficient to proceed.
+3. Possible outcomes:
+   - **Passed:** Understanding demonstrated — proceed to measurements.
+   - **Repeated:** Gaps identified, tutor clarified, understanding then demonstrated — proceed, documented, no grade impact.
+   - **Failed:** Understanding not achieved — return to prepare; reschedule required; counts toward limit.
+4. More than 2 failed entrance conversations across all experiments results in course failure.
+5. The outcome is communicated immediately.
 
-When escalation is possible and the process is known, problems are more likely to be addressed early. If the first step does not resolve an issue, there is a higher level you can contact. See Part III, Chapter 6 for escalation procedures.
+---
 
------
+## Part IV: During the Laboratory
 
-## Scope
+### Daily Presentations
 
-This section states principles only. Procedures belong in Part III (Handbook). Commitments belong in Part II (Essay).
+Each experiment includes structured presentations that frame the work and consolidate learning. These presentations are part of the learning phase — they help you and your peers think clearly, but they are not graded.
 
-**Legal hierarchy:** University examination regulations, faculty regulations, and the University of Freiburg's regulations on safeguarding academic integrity take precedence over this document where conflicts arise. This document fills in local practice within that framework.
+**The following rules apply:**
 
------
+**Day 1 — Principles Presentation:**
+1. Each team presents the key principles underlying the experiment (~30 minutes total including discussion).
+2. The purpose is to establish shared understanding before measurements begin.
+3. Tutors and students discuss openly following the presentation.
 
-## How This Section Changes
+**Last Day — Findings Presentation:**
+1. Each team presents their key findings and reasoning (~30 minutes total including discussion).
+2. The purpose is to consolidate understanding and surface remaining questions.
+3. Tutors and students discuss openly following the presentation.
 
-Anyone can propose a change in writing. Changes require review by two organisers, confirmation the change adds no procedures or duties, and a version number. Changes do not apply to past events. Frequent changes indicate a problem elsewhere.
+**Time allocation guidance:**
+- Two-member teams: ~15 minutes presentation + ~15 minutes discussion
+- Three-member teams: ~10 minutes per student + ~10 minutes shared discussion
 
------
+**General presentation rules:**
+1. Presentations should be concise, focused, and honest about uncertainties.
+2. Discussion should be genuine inquiry — not performance.
+3. Tutors participate as discussants, not examiners.
+4. Divergent views are legitimate and may be recorded without forced resolution.
 
-# Part II: Essay
+### Laboratory Work
 
-This section describes what each role commits to in spirit. It cannot be enforced. For enforceable rules, see Part III (Handbook).
+The laboratory is where you engage with physics directly. You make choices, observe consequences, and reason through what you find.
 
------
+**The following rules apply:**
 
-## Why This Laboratory Exists
+1. Record equipment identifiers, settings, and timestamps in your notebook.
+2. Note anomalies immediately — do not wait until analysis.
+3. Stop and ask if uncertain about your next action.
+4. Never work alone with hazardous equipment (check experiment guide for requirements).
 
-This is a place where we do physics together.
+### Honest Discourse
 
-The laboratory has two phases with different purposes:
+Learning happens through honest articulation — saying what you actually think, not what you imagine is expected. This requires an environment where questions are welcomed and mistakes are treated as information.
 
-- **Learning phase** (preparation and lab work): This is not a test. You are here to learn. Mistakes are expected. Tutors teach. Questions are welcome.
-- **Assessment phase** (written and oral reports): This is where assessment happens. Your reports are graded. The learning phase prepares you for this.
+**The following rules apply:**
 
-You will work with real instruments. You will face real uncertainty. Some days will be frustrating. Results will not always cooperate.
+1. Students lead discussions about physics and method.
+2. Tutors observe by default during student-led discussions.
+3. Tutors may intervene only under specific triggers:
+   - **Safety (T1):** A physical safety risk is emerging — intervene immediately.
+   - **Factual (T2):** A clear factual error with high confidence would block learning — intervene if confident (>90%), otherwise note for feedback.
+   - **Process (T3):** Feedback on how discussion is conducted (participation, time, clarity) — not on scientific content.
+4. When tutors intervene, they state their reason briefly.
+5. All interventions are logged.
+6. Divergence is legitimate — discussions may end without consensus.
 
-This is not failure. This is physics.
+### Exploration
 
-We believe that learning to work carefully under uncertainty is valuable. But careful work requires trust. Trust requires transparency.
+Some questions have no established answer. Some methods have not been tried. Exploration is encouraged — but disciplined.
 
------
+**The following rules apply:**
 
-## What Organisers Commit To
+1. Exploration requires a declared scope: what you are investigating, what is in bounds, what is out of bounds.
+2. Claims must be tethered: you should be able to say what would show you wrong.
+3. Untethered speculation is marked as such — not punished, but noted.
+4. Exploration produces candidates, not conclusions. Conclusions require deliberation.
+5. A return horizon must be specified: when will you report back?
+6. If the return horizon passes without report, the matter is flagged.
 
-We create and maintain the conditions for serious work.
+### FP-EDU: Didactic Exploration
 
-We commit to:
+For Education students, didactic exploration is an integral part of the learning phase — not an optional extra.
 
-- Making expectations visible before they apply
-- Keeping things consistent across lab courses
-- Taking care of instruments, spaces, and people
-- Admitting when something is our fault
-- Supporting tutors so they can support students
+**The following rules apply:**
 
-**Accountability:** Organisers are accountable to the dean of studies. You have the right to escalate.
+1. Didactic questions (e.g., "How could this be adapted for school?") should be explored alongside physics questions.
+2. Didactic exploration should be marked as such in logs.
+3. Didactic claims are tethered to: pedagogical literature, curriculum requirements, practical feasibility.
+4. Didactic exploration during laboratory work informs the Labor-Spezial and seminar presentation.
+5. Didactic reflection is required in the learning phase — it cannot be deferred entirely to the exam phase.
 
------
+---
 
-## What Tutors Commit To
+## Part V: After the Laboratory
 
-We accompany students through the learning phase. We do not do the work for them. We do not leave students alone with it.
+### Written Reports
 
-We are teachers, and we are still learning. We have more experience than students, but we do not have all the answers. This is honest.
+The written report is your opportunity to demonstrate understanding. It is part of the exam phase and is assessed against published criteria.
 
-We commit to:
+**The following rules apply:**
 
-- Being present and prepared to teach
-- Answering honestly, even when the answer is "I don't know"
-- Using authority carefully
-- Giving feedback that helps, not feedback that impresses or discourages
-- Asking for help when something is beyond us
-- Learning from our own teaching
+1. Reports are due 7 calendar days after your final laboratory session for that experiment.
+2. Laboratory days do not count toward this deadline. For consecutive experiments, the deadline shifts accordingly.
+3. Late submission (≤3 days): grade penalty (0.3 reduction).
+4. Late submission (>3 days): report may not be accepted without prior arrangement.
+5. A report graded 5.0 receives one resubmission opportunity with feedback.
+6. More than one report graded 5.0 results in course failure.
 
-We are not examiners during the lab. We are not obstacles. We are here because we once stood where students stand now, and we remember what helped us learn.
+**FP-2 exception:** The two-week experiment does not require a written report. Results are presented in the seminar instead.
 
-**Accountability:** Tutors are accountable to organisers. You have the right to escalate.
+### Full Report Format
 
------
+A full scientific report demonstrates your understanding through clear, honest, and well-structured communication.
 
-## What Students Commit To
+| Element | Expectation |
+|---------|-------------|
+| **Introduction** | Context, motivation, and clear statement of objectives |
+| **Method** | What you did and why; sufficient detail for replication |
+| **Results** | Clear data presentation with appropriate visualisation and uncertainties |
+| **Discussion** | Interpretation connected to physics principles; limitations acknowledged; alternative explanations considered |
+| **Conclusion** | Key findings summarised; open questions identified |
+| **References** | All sources acknowledged; own words used throughout |
 
-We engage with the work seriously. Not because we are told to, but because serious engagement is the only way this becomes valuable.
+**Quality markers:**
+- Transparent assumptions explicitly stated
+- Uncertainty analysis appropriate to the measurement
+- Honest treatment of anomalies and unexpected results
+- Logical flow from evidence to interpretation
 
-**In the learning phase**, we commit to:
+### FP-EDU: Short Reports
 
-- Arriving prepared to learn (not already knowing everything)
-- Taking responsibility for our learning, including our mistakes
-- Respecting shared resources: instruments, time, attention
-- Asking when we do not understand—this is expected, not weakness
+Short reports follow the same principles as full reports but with reduced scope.
 
-**In the assessment phase**, we commit to:
+**Key differences:**
+- Focus on essential findings and core analysis
+- Briefer introduction and method sections
+- Emphasis on quality of reasoning over comprehensiveness
 
-- Producing reports that reflect our genuine understanding
-- Engaging with feedback, even when it is hard to hear
-- Meeting deadlines or communicating in advance
+**What remains unchanged:**
+- Data must include uncertainties
+- Analysis must be transparent
+- Sources must be acknowledged
+- Honest treatment of limitations
 
-We are not here to tick boxes. We are here to learn physics. The reports show what we have learned.
+### FP-EDU: Labor-Spezial
 
-**Accountability:** Students are accountable to tutors. The escalation paths in Part III apply to everyone.
+The Labor-Spezial is specific to the Education programme. It connects experimental practice with didactic reflection across both phases.
 
------
+**Learning phase (not graded):**
+1. Practical work: a focused investigation or extension of an experimental aspect.
+2. Didactic exploration: reflecting on how the experiment might be adapted for learners.
+3. Documentation of both components.
 
-# Part III: Handbook
+**Exam phase (graded via seminar):**
+1. The seminar presentation forms the exam phase of the Labor-Spezial.
+2. The presentation must include explicit didactic reflection.
+3. Assessment criteria:
+   - Quality of physics understanding
+   - Depth and integration of didactic reflection
+   - Realism of adaptation proposals
+   - Presentation quality and discussion engagement
 
-This section contains enforceable rules. Every rule has a specific action, deadline, and consequence. If something is not written here, it cannot be enforced against you.
+**Note:** Didactic reflection is required in both phases. A presentation that treats didactic content as an afterthought does not meet the requirements.
 
------
+---
 
-## Navigation
+## Part VI: Seminar
 
-|Role     |Key chapters              |
-|---------|--------------------------|
-|Student  |2, 3, 6, 7, 8             |
-|Tutor    |2, 3, 4, 6, 7, 8, Appendix B|
-|Organiser|All                       |
+### Purpose
 
------
+The seminar is where you present your work to a broader audience: fellow students, tutors, and organisers. It is part of the exam phase.
 
-## Chapter 1: Where Information Lives
+A good seminar presentation is not a summary — it is an argument. It should be coherent, causally connected, and invite active discussion.
 
-|Information            |Location                                  |
-|-----------------------|------------------------------------------|
-|Rules and procedures   |This section                              |
-|Principles             |Part I (Framework)                        |
-|Commitments            |Part II (Essay)                           |
-|Experiment instructions|experiments folder (in the course materials)|
-|Schedules, contacts, grades, safety records|ILIAS (the university course platform)|
+### Session Structure
 
-**Note on experiment instructions:** Lab instructions vary in structure. This laboratory is undergoing slow, deliberate modernization. Legacy and new formats coexist and both are valid. Consistency will emerge gradually; forcing uniformity would compromise quality.
+Each seminar session lasts 60 minutes and follows this structure:
 
------
+| Element | Duration | Description |
+|---------|----------|-------------|
+| Uninterrupted presentation | ~30 minutes | Student presents without interruption |
+| Honest discussion | ~15 minutes | Open discussion with all participants |
+| Final exam questions | ~15 minutes | Focused questions from organisers and tutors |
+| **Total** | **60 minutes** | |
 
-## Chapter 2: Safety
+### Presentation Requirements
 
-These rules apply to everyone.
+**The following rules apply:**
 
-### 2.1 Training Requirement
+1. The presentation must be coherent: a clear logical thread from beginning to end.
+2. The presentation must be causally connected: claims should follow from evidence and reasoning.
+3. The presentation must invite discussion: genuine questions, acknowledged uncertainties, openness to challenge.
+4. Presentations are assessed against published criteria.
 
-**Rule:** Everyone who enters the laboratory must hold valid safety training.
+**Content should demonstrate:**
+- Understanding of the physics (not just the procedure)
+- Honest treatment of uncertainties and limitations
+- Connection between theory and experimental findings
+- Ability to respond to questions thoughtfully
 
-**Deadline:** Training must be valid on the day you enter. Training is valid for 12 months after completion.
+### Discussion Phase
 
-**Consequence of failure:**
+The 15-minute discussion phase is genuine inquiry — not examination.
 
-- You may not enter the laboratory.
-- For students: missed lab time counts against you.
-- For tutors: you may not supervise until training is renewed.
-- For organisers: you may not be present in the laboratory until training is renewed.
+**Guidelines:**
+- All participants (fellow students, tutors, organisers) may ask questions.
+- Questions should probe understanding and explore implications.
+- Presenters should engage honestly — "I don't know" is acceptable.
+- Divergent interpretations may be surfaced and discussed.
 
-### 2.2 Required Training Modules
+### Exam Questions Phase
 
-Before entering the laboratory, complete these modules on ILIAS:
+The final 15-minute phase consists of focused questions from organisers and tutors.
 
-- General laboratory safety
-- Electrical safety
-- Laser safety (if your experiment uses lasers)
-- Radiation protection (if your experiment uses radioactive sources)
-- Cryogenic safety (if your experiment uses cryogenics)
+**Guidelines:**
+- Questions assess depth of understanding.
+- Questions may probe areas not covered in the presentation.
+- This phase contributes to the assessment.
 
-### 2.3 Three Safety Rules
+### FP-2 (Master Laboratory)
 
-These always apply:
+| Element | Specification |
+|---------|---------------|
+| Content | Results from the two-week experiment |
+| Duration | 60 minutes (30 + 15 + 15) |
+| Weight | 2.0 (double weight in overall grade) |
+| Audience | Fellow students, tutors, organisers |
+
+**Note:** Since the two-week experiment has no written report, the seminar presentation is the primary assessment for this experiment.
+
+### FP-EDU (Fortgeschrittenenpraktikum Lehramt)
+
+| Element | Specification |
+|---------|---------------|
+| Content | Labor-Spezial results + didactic reflection |
+| Duration | 60 minutes (30 + 15 + 15) |
+| Weight | 1.5 (together with Labor-Spezial learning phase) |
+| Audience | Fellow students, tutors, organisers |
+| Special requirement | Must include didactic reflection throughout |
+
+**Didactic component:** The seminar presentation forms the exam phase of the Labor-Spezial. Didactic reflection must be woven into the presentation — it should be integral, not an appendix. The presentation should address: How could this physics be communicated to learners? What are the key conceptual challenges? What adaptations would you propose, and why?
+
+---
+
+## Part VII: Rules for Students
+
+### Your Role
+
+You are here to engage seriously with physics — not because you are told to, but because serious engagement is the only way this becomes valuable. You are also here to learn how to communicate physics clearly and honestly.
+
+**The following commitments apply:**
+
+**Preparation:**
+- Complete safety training before entering the laboratory.
+- Read experiment guides thoroughly.
+- Prepare for entrance conversations.
+
+**During laboratory work:**
+- Say when you do not understand — even when it feels exposing.
+- Articulate your actual reasoning, not what you think is expected.
+- Accept that divergence is legitimate.
+- Propose ideas even when uncertain.
+- State what would falsify your proposals, or acknowledge you cannot yet.
+- Accept boundary markings as navigation, not judgment.
+
+**Assessment:**
+- Produce reports that reflect your genuine understanding.
+- Meet deadlines or communicate in advance.
+- Engage with feedback, even when difficult.
+- Prepare seminar presentations that are coherent, causally connected, and invite discussion.
+
+**FP-EDU additional commitments:**
+- Engage in didactic reflection throughout — not just at the end.
+- Explore how experiments might be adapted for learners.
+- Integrate didactic content into your seminar presentation.
+- Use the Labor-Spezial to connect practice and pedagogy meaningfully.
+
+### What You Can Expect
+
+You can expect the system to be fair — not because we promise it, but because the structure enforces it.
+
+**The following protections apply:**
+
+1. All assessment criteria are published before work begins.
+2. The same criteria apply to all students for the same experiment.
+3. Every grade includes written justification from a named tutor.
+4. No criteria changes after submission.
+5. Errors identified early can be corrected through defined paths.
+6. Escalation paths exist and using them in good faith cannot lead to disadvantage.
+7. Feedback is provided within stated deadlines.
+
+### Deadlines Summary
+
+| Deliverable | Deadline |
+|-------------|----------|
+| Safety training | Before first laboratory entry |
+| Entrance conversation | Before measurements begin |
+| Lab notebook | End of each session |
+| Written report (where required) | 7 calendar days after final session (lab days excluded) |
+| Seminar presentation | Per seminar schedule |
+| Labor-Spezial learning phase (FP-EDU) | Per separate agreement |
+
+### Consequences
+
+| Situation | Consequence |
+|-----------|-------------|
+| Late report (≤3 days) | Grade penalty (0.3 reduction) |
+| Late report (>3 days) | May not be accepted without prior arrangement |
+| Report graded 5.0 | Resubmission opportunity with feedback |
+| Second report graded 5.0 | Course failure |
+| More than 2 failed entrance conversations | Course failure |
+| Safety violation (first, minor) | Removal from session, retraining, documented |
+| Safety violation (repeated or serious) | Course exclusion |
+| Academic integrity violation | Institutional process; likely course failure |
+
+---
+
+## Part VIII: Rules for Tutors
+
+### Your Role
+
+You accompany students through both learning and assessment. You do not do the work for them. You do not leave them alone with it. You remember that you once stood where they stand now.
+
+**The following commitments apply:**
+
+**Before the course:**
+- Verify your own safety training is current (before semester start).
+- Test equipment for your assigned experiments (2 weeks before course).
+- Take your own measurements and verify the analysis works (2 weeks before course).
+- Read the course documentation (before first session).
+
+**During laboratory work:**
+- Be present and prepared.
+- Monitor safety at all times.
+- Be available for questions.
+- Observe by default during student-led discussions.
+- Intervene only under T1/T2/T3 triggers.
+- When you intervene, state your reason.
+- Log all interventions.
+
+**In honest discourse:**
+- Listen before you speak.
+- Ask clarifying questions before correcting.
+- Accept that your expertise is a resource, not a conclusion.
+
+**In exploration:**
+- Hold the tether, not the direction.
+- Ask "What would falsify this?" rather than "This is wrong."
+- Protect the return path so no one gets lost.
+
+**During seminar:**
+- Participate in discussion phase as a genuine discussant.
+- Prepare focused exam questions for the final phase.
+- Assess against published criteria.
+
+### Intervention Protocol
+
+When you need to intervene during student-led activity:
+
+1. Signal your intention (raise hand or agreed gesture).
+2. State: "Intervening under [T1/T2/T3]: [brief reason]."
+3. Make your intervention (maximum 2 minutes unless T1 safety).
+4. Log the intervention before the session ends.
+
+**If uncertain whether to intervene:**
+- Default: do not intervene; note for feedback phase.
+- Exception: T1 (safety) — intervene immediately, justify later.
+
+### Feedback Deadlines
+
+| Feedback type | Deadline |
+|---------------|----------|
+| Entrance conversation outcome | Immediate |
+| Notebook check | Same or next session |
+| Written report feedback | 14 calendar days |
+| Oral feedback | Immediate (verbal); 7 days if written requested |
+| Resubmission feedback | 10 calendar days |
+| Seminar feedback | 7 calendar days |
+
+**If you cannot meet a deadline:** Notify the student and the organiser before the deadline; state the new deadline.
+
+### Grading Process
+
+1. Assess written reports against the published criteria.
+2. Assess seminar presentations against published criteria (content, discussion engagement, exam question responses).
+3. Consult the organiser if the grade is unusual or you are uncertain.
+4. Provide written feedback explaining the grade.
+5. Enter grade and feedback in ILIAS.
+
+### Grading Constraints
+
+| Rule | Rationale |
+|------|-----------|
+| Same criteria for all students on the same experiment | Fairness |
+| No criteria changes after submission | No retroactive standards |
+| Document any grade outside the typical range | Traceability |
+| Store grades only in ILIAS | Accessibility |
+
+### What Tutors May Not Do
+
+| Prohibited | Reason |
+|------------|--------|
+| Invent new criteria after submission | Violates fairness |
+| Grant extensions beyond policy | Refer to organiser |
+| Exclude a student from the laboratory | Requires organiser decision |
+| Waive safety requirements | Not permitted |
+| Supervise with expired training | Not permitted |
+| Intervene without stating reason (in structured discussions) | Accountability |
+
+---
+
+## Part IX: Rules for Organisers
+
+### Your Role
+
+You create and maintain the conditions for serious work. You ensure tutors are prepared and supported. You respond when things go wrong.
+
+**The following commitments apply:**
+
+- Publish all criteria before they apply.
+- Ensure tutors are prepared and supported.
+- Respond to escalations within stated deadlines.
+- Admit when something is your fault.
+- Do not change rules retroactively.
+
+### Responsibilities
+
+| Area | Responsibility |
+|------|----------------|
+| Criteria | Publish all assessment criteria before work begins |
+| Tutors | Ensure training, preparation, and ongoing support |
+| Equipment | Ensure functionality; resolve reported issues |
+| Seminar | Schedule sessions; participate in discussion and exam phases |
+| Escalations | Acknowledge within 2 working days; resolve within 10 working days |
+| Auditing | Spot-check criteria application, intervention logs, grade justifications |
+| Patterns | Identify and address systematic issues (tutor behaviour, equipment, procedures) |
+
+### Escalation Response
+
+| Escalation type | Acknowledgement | Resolution |
+|-----------------|-----------------|------------|
+| From student | 2 working days | 10 working days |
+| From tutor | 2 working days | 10 working days |
+| To Dean | Per institutional policy | Per institutional policy |
+
+If resolution requires longer: notify parties before deadline; state new timeline.
+
+### What Organisers May Not Do
+
+| Prohibited | Reason |
+|------------|--------|
+| Change criteria after submission | No retroactive standards |
+| Ignore escalations | Accountability |
+| Override documented procedures without justification | Traceability |
+| Disadvantage students for good-faith escalation | Protection |
+
+---
+
+## Part X: Safety
+
+### Core Principle
+
+Safety is not negotiable. It overrides all other considerations — learning objectives, schedules, convenience. When safety conflicts with anything else, safety wins.
+
+**The following rules always apply:**
 
 1. **Know before you touch.** If you do not understand equipment, ask before using it.
 2. **Report problems immediately.** If something breaks, sparks, leaks, or behaves unexpectedly, tell someone at once.
 3. **Never work alone with hazardous equipment.** Check the experiment guide for when a second person is required.
 
-**Consequence of violation:** Immediate removal from the laboratory for safety reasons. Repeated violations result in exclusion from the course (students) or removal from the role (tutors).
+### Training Requirements
 
------
+| Requirement | Deadline | Consequence of failure |
+|-------------|----------|------------------------|
+| General laboratory safety | Before first entry | No laboratory access |
+| Electrical safety | Before first entry | No laboratory access |
+| Experiment-specific modules | Before that experiment | No access to that experiment |
+| Renewal | Every 12 months | Access suspended until renewed |
 
-## Chapter 3: For Students
+### Consequences of Violation
 
-### 3.1 Before Each Lab Session
+| Violation | Consequence |
+|-----------|-------------|
+| First minor violation | Immediate removal from session; retraining; documented |
+| Repeated or serious violation | Course exclusion; possible institutional process |
 
-**This is preparation for learning, not for a test.**
+### Emergency Stop
 
-You should:
+Any participant may halt activity at any time by invoking a safety concern. This:
 
-|Action                                      |Why                                              |
-|--------------------------------------------|-------------------------------------------------|
-|Complete safety training                    |Required to enter laboratory                     |
-|Read the experiment guide                   |So your tutor can teach effectively              |
-|Prepare for the 15-minute conversation      |So your lab time is productive                   |
+1. Immediately stops all laboratory activity.
+2. Activates standard safety protocols.
+3. Requires logging the reason.
+4. Requires scheduling follow-up within 5 working days.
 
-If you arrive unprepared, your tutor will teach you—but your limited lab time may not be enough to complete the experiment well. Preparation protects your own learning.
+No one may be disadvantaged for invoking a safety stop in good faith.
 
-### 3.2 The 15-Minute Conversation
+---
 
-Before measurements, you have a 15-minute conversation with your tutor. **This is part of the learning phase—not graded.**
+## Part XI: Escalation
 
-**What you should be able to discuss:**
+### Principle
 
-- What you are measuring and why it matters
-- How the technique works (concept, not buttons)
-- What you expect and what would surprise you
-- Main sources of uncertainty
+Problems should be resolved at the lowest appropriate level — but escalation paths exist for when that fails. Using them in good faith cannot lead to disadvantage.
 
-**What happens:** If you demonstrate understanding, you proceed. If you have gaps, your tutor teaches—that is their job. If significant preparation is missing, you may need to prepare further before proceeding.
+### Student Escalation Path
 
-### 3.3 During the Lab Session
+| Step | Action |
+|------|--------|
+| 1 | Try to resolve with tutor (unless the problem is the tutor) |
+| 2 | If unresolved within 7 days: email organiser |
+| 3 | Include: what happened, what you tried, what you want |
+| 4 | Keep copies of all communications |
+| 5 | If organiser does not respond within deadlines, or problem is organiser: email Dean of Studies |
 
-You must:
+### Tutor Escalation Path
 
-- Record equipment identifiers, settings, and timestamps
-- Note anomalies immediately (not later from memory)
-- Stop and ask if you cannot explain what your next action will change
+| Step | Action |
+|------|--------|
+| 1 | Try to resolve within your authority |
+| 2 | If you cannot: email organiser |
+| 3 | Include: what happened, what you did, what decision you need |
+| 4 | If organiser does not respond: escalate to Dean |
 
-### 3.4 After the Lab Session
+### Response Deadlines
 
-|Deliverable     |Default deadline                              |
-|----------------|----------------------------------------------|
-|Lab notebook    |End of session                                |
-|Written report  |One week after your final lab session for that experiment|
-|Oral report     |Accompanies written submission                |
+| Path | Acknowledgement | Resolution |
+|------|-----------------|------------|
+| Student → Tutor | Same or next session | 7 days |
+| Student → Organiser | 2 working days | 10 working days |
+| Tutor → Organiser | 2 working days | 10 working days |
+| Anyone → Dean | Per institutional policy | Per institutional policy |
 
-**The oral report:** When you submit your written report, you give a 15-minute oral presentation of your main findings. Tutors attend; organisers may attend. This is part of the assessment phase.
+### FP-EDU Additional Path
 
-**How grading works:** Tutors assess the written report and factor in the oral presentation. Tutors and organisers may deliberate on performance level and final grade. You will receive clear, careful feedback that explains your grade.
+For issues specific to the Education programme (e.g., didactic components, programme requirements), the Centre for Teacher Education (Zentrum für Lehrerbildung) may be consulted as an additional resource.
 
-### 3.5 Consequences
+---
 
-**Learning phase** (no grade penalties): Inadequate preparation → tutor teaches. Safety violation → removal from session; repeated → course exclusion.
-
-**Assessment phase** (grade penalties): Late reports → grade penalty. Repeated → may fail course. Academic integrity violation → institutional process.
-
------
-
-## Chapter 4: For Tutors
-
-### 4.1 Safety Training
-
-The rules in Chapter 2 apply to you.
-
-**Additional rule:** You may not supervise if your safety training has expired.
-
-### 4.2 Before Course Start
-
-Before each lab course, you must:
-
-- Test equipment for each experiment you will supervise
-- Take measurements and analyse data to verify proper function
-- Confirm you understand the experiment well enough to teach it
-- Report problems to team members and organisers immediately
-
-Equipment issues discovered early can be resolved. Issues discovered during student sessions waste everyone's time. Organisers assist with purchasing new equipment and consumables.
-
-### 4.3 Attendance and Preparation
-
-|Requirement                          |Consequence of failure                                                                                      |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------|
-|Be present for all scheduled sessions|Notify organiser as early as possible; organiser arranges cover. Repeated unexcused absences are documented.|
-|Be prepared to teach the experiment  |Unprepared sessions are documented. Students deserve a tutor who can help them learn.                       |
-
-**You are still learning too.** Being prepared means understanding the experiment well enough to teach it, not knowing everything. If you encounter limits, acknowledge them honestly and seek help.
-
-### 4.4 The 15-Minute Conversation
-
-**Your role:** You are teaching, not examining.
-
-- Listen for understanding, not memorisation
-- Ask questions—this is a conversation
-- If students have gaps, teach. That is your job.
-- If a student is significantly unprepared, you may ask them to prepare further. Document this and the reason.
-- If you encounter something you cannot explain, say so honestly and find help together
-
-### 4.5 Feedback Deadlines
-
-|Deliverable                  |Your deadline                                    |Consequence of missing deadline           |
-|-----------------------------|-------------------------------------------------|------------------------------------------|
-|Pre-lab conversation outcome |Immediate (before measurements)                  |Measurements start later; document reason |
-|Notebook check               |Same session or next session                     |Documented                                |
-|Written report feedback      |14 calendar days after submission                |Student may escalate; documented          |
-|Oral report feedback         |Verbal: immediate. Written (if requested): 7 days|Documented                                |
-|Resubmission feedback        |10 calendar days after resubmission              |Student may escalate; documented          |
-
-**If you cannot meet a deadline:** Notify the student and an organiser before the deadline. State when you will deliver.
-
-### 4.6 Grading
-
-**The oral report:** You attend the student's 15-minute oral presentation when they submit their written report. Factor the oral presentation into the final report grade.
-
-**Deliberation:** You may consult with organisers on grade level and final grade. This is normal, not a sign of uncertainty.
-
-**Feedback:** Give clear, careful feedback that explains the grade. Critical feedback is expected—it helps students learn. Be honest and constructive.
-
-|Requirement                                                     |Consequence of failure                  |
-|----------------------------------------------------------------|----------------------------------------|
-|Apply the same criteria to all students for the same experiment |Organiser review; may require re-grading|
-|Do not change criteria after work is submitted                  |Decision may be overturned              |
-|Document any grade that differs significantly from typical range|Organiser review                        |
-|Store grades only on ILIAS                                      |Security review                         |
-
-### 4.7 What You May Not Do
-
-|Action                                                |Why                                  |
-|------------------------------------------------------|-------------------------------------|
-|Invent new assessment criteria after work is submitted|Violates Framework Principle 1      |
-|Grant extensions beyond course policy                 |Refer to organiser                   |
-|Exclude a student from the laboratory                 |Requires organiser decision          |
-|Waive safety requirements                             |Not permitted                        |
-|Supervise with expired safety training                |Not permitted                        |
-
-### 4.8 Consequences
-
-|Failure                   |Consequence             |
-|--------------------------|------------------------|
-|Late feedback (once)      |Documented              |
-|Late feedback (repeated)  |Formal discussion       |
-|Late feedback (persistent)|May be removed from role|
-|Grading inconsistency     |May require re-grading  |
-|Safety training lapse     |Cannot supervise        |
-|Safety violation          |May be removed from role|
-
-**Student recourse:** Escalate to organiser (Chapter 6).
-
------
-
-## Chapter 5: For Organisers
-
-### 5.1 Safety Training
-
-The rules in Chapter 2 apply to you.
-
-### 5.2 Before Course Start
-
-|Action                                      |Consequence of failure                                |
-|--------------------------------------------|------------------------------------------------------|
-|Verify all tutors have valid safety training|Tutors cannot supervise; documented                   |
-|Verify equipment is functional              |Experiments cannot run; documented                    |
-|Publish assessment criteria                 |Grades may be challenged under Framework Principle 1  |
-|Update ILIAS with schedules and contacts    |Students cannot prepare; documented                   |
-
-**Equipment support:** Assist tutors with purchasing new equipment and consumables when issues are identified during pre-course testing.
-
-### 5.3 During the Course
-
-|Action                                            |Deadline                                                         |Consequence of failure                                 |
-|--------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|
-|Respond to escalations                            |Acknowledge within 2 working days; resolve within 10 working days|Student or tutor may escalate to dean; documented      |
-|Monitor whether tutors meet feedback deadlines    |Ongoing                                                          |Tutors may miss deadlines without consequence          |
-|Keep equipment functional or marked out of service|Ongoing                                                          |Students cannot complete experiments; documented       |
-
-**Grading support:** You may attend oral reports and deliberate with tutors on performance levels and final grades.
-
-### 5.4 Escalation Resolution
-
-When someone escalates an issue to you:
-
-1. Acknowledge receipt within 2 working days.
-2. Gather information from all parties.
-3. Decide based on documented criteria.
-4. Communicate the decision in writing.
-5. Document the decision and the reason.
-
-If you need more than 10 working days, tell the affected parties and give a new deadline.
-
-### 5.5 What You May Not Do
-
-|Action                                     |Why                                  |
-|-------------------------------------------|-------------------------------------|
-|Change a grade without discussion with tutor|Undermines tutor authority          |
-|Ignore an escalation                       |Violates this handbook               |
-|Fail to document decisions                 |Violates Framework Principle 3       |
-
-A grade may be changed only after discussion with the tutor and with written reasons.
-
-### 5.6 Consequences
-
-|Failure                        |Consequence             |
-|-------------------------------|------------------------|
-|Missing escalation deadline    |May be escalated to dean|
-|Failing to verify tutor training|Documented             |
-|Failing to publish criteria    |Grades may be challenged|
-|Pattern of failures            |Reported to dean        |
-
-**Recourse:** If an organiser fails to respond, escalate to the dean of studies (Chapter 6).
-
------
-
-## Chapter 6: Escalation
-
-Escalation means asking a person with responsibility at the next level to help resolve a problem. The accountability chain is defined in Part I (Framework).
-
-### 6.1 Escalation Paths
-
-|Problem                       |First step             |If unresolved          |Final authority             |
-|------------------------------|-----------------------|-----------------------|----------------------------|
-|Feedback not received         |Ask tutor              |Tell organiser         |Organiser decides           |
-|Disagree with grade           |Ask tutor              |Tell organiser         |Organiser decides           |
-|Unclear expectations          |Ask tutor              |Tell organiser         |Organiser clarifies         |
-|Equipment not working         |Tell tutor             |Tell organiser         |Organiser resolves          |
-|Safety concern                |Tell tutor or organiser|Tell organiser         |Institutional safety officer|
-|Tutor not available           |Tell organiser         |—                      |Organiser resolves          |
-|Problem with tutor conduct    |Tell organiser         |Tell dean of studies   |Institution decides         |
-|Problem with student conduct  |Tutor tells organiser  |Institutional process  |Institution decides         |
-|Problem with organiser conduct|Tell dean of studies   |—                      |Institution decides         |
-|Organiser not responding      |Tell dean of studies   |—                      |Dean decides                |
-
-### 6.2 How to Escalate (Students)
-
-1. Try to resolve with your tutor first (unless the problem is the tutor).
-2. If unresolved within 7 days, email the organiser (address on ILIAS).
-3. Include: what happened, what you tried, what you want.
-4. Keep copies of emails and messages, so nothing is lost.
-5. If the organiser does not respond within deadlines, or if the problem is the organiser, email the dean of studies.
-
-Escalating a problem in good faith must not lead to disadvantages.
-
-### 6.3 How to Escalate (Tutors)
-
-1. Try to resolve within your authority first.
-2. If you cannot, email the organiser.
-3. Include: what happened, what you did, what decision you need.
-4. If the organiser does not respond within deadlines, escalate to the dean of studies.
-
-### 6.4 Response Deadlines
-
-|Escalation           |Acknowledgement         |Resolution              |
-|---------------------|------------------------|------------------------|
-|Student to tutor     |Same or next session    |7 days                  |
-|Student to organiser |2 working days          |10 working days         |
-|Tutor to organiser   |2 working days          |10 working days         |
-|Anyone to dean       |Per institutional policy|Per institutional policy|
-
-If resolution takes longer, the responsible person must say so and give a new deadline.
-
------
-
-## Chapter 7: Consequences Overview
-
-Consequences are detailed in role-specific chapters (3, 4, 5). Summary:
-
-|Role      |Consequence type|Speed    |Accountable to  |
-|----------|----------------|---------|----------------|
-|Students  |Grade           |Immediate|Tutor           |
-|Tutors    |Role            |Slower   |Organiser       |
-|Organisers|Institutional   |Slowest  |Dean of Studies |
-
-The types differ. The chain is complete. Details: see Part I (Framework) and role chapters above.
-
------
-
-## Chapter 8: Scientific Honesty
-
-Scientific honesty is an indispensable prerequisite for all scientific work.
+## Part XII: Scientific Integrity
 
 ### Core Principles
 
 - **Do not fabricate data.** Record what you observe, not what you expect.
 - **Do not falsify data.** Do not alter, omit, or misrepresent results.
 - **Do not plagiarise.** Acknowledge all sources. Use your own words.
-- **Document everything.** Your lab notebook must allow others to verify your work.
-
-### What This Means in Practice
-
-- Record anomalies and unexpected results—they are often the most valuable data.
-- If you make a mistake, cross it out (do not erase) and note what happened.
-- Distinguish clearly between your measurements and values from literature.
-- Cite all sources, including experiment instructions, textbooks, and discussions with others.
+- **Document everything.** Your notebook must allow verification.
 
 ### Institutional Framework
 
-The University of Freiburg's regulations on safeguarding academic integrity apply at all times. Violations are taken seriously and can result in failing the entire course.
+The University of Freiburg's regulations on safeguarding academic integrity apply. Violations are serious and may result in course failure or further consequences.
 
-**Resources:**
+### Resources
 
-- [University of Freiburg: Academic Integrity](https://uni-freiburg.de/research/academic-integrity/)
-- [Institute of Physics: Scientific Honesty](https://www.physik.uni-freiburg.de/redlichkeit-en)
-- [DFG Code of Conduct: Good Research Practice](https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/)
-
-**Contacts for concerns:**
-
-- Teaching matters: Studiendekan (Dean of Studies for Physics)
-- Research matters: Institutsdirektor (Institute Director)
-- Confidential advice: University Representative for Academic Self-Regulation
-
------
-
-## Chapter 9: References
-
-|For this                    |See                                                              |
-|----------------------------|-----------------------------------------------------------------|
-|Principles                  |Part I (Framework)                                               |
-|Commitments                 |Part II (Essay)                                                  |
-|Uncertainty estimation      |Guide to the Expression of Uncertainty in Measurement (GUM, JCGM 100:2008)|
-|Error propagation           |John R. Taylor, An Introduction to Error Analysis                |
-|Physical constants          |CODATA                                                           |
-|Scientific honesty          |Chapter 8 and linked resources                                   |
-
-University examination rules take priority over this handbook where they apply.
-
------
-
-## Chapter 10: Changes
-
-Anyone can propose a change. Submit to an organiser in writing.
-
-|Section                                     |Review needed                                      |
-|--------------------------------------------|---------------------------------------------------|
-|Handbook Chapters 3, 4, 5 (role-specific)   |Organiser approval; must not contradict Framework  |
-|Handbook Chapters 2, 6 (safety, escalation) |Two organisers must agree                          |
-|Essay (Part II)                             |Organiser approval; must not contradict Framework  |
-|Framework (Part I)                          |Two organisers; see Framework change process       |
-
-Changes do not apply until published with a new version number.
-
------
-
-# Appendix A: Grading Scheme
-
-**Consistency with official regulations:** The grading weights and failure conditions below are consistent with, and constrained by, the official module handbooks for the respective degree programmes (B.Sc. Physics, M.Sc. Physics, M.Sc. Applied Physics, M.Ed. Physics). Where any conflict arises, the official module handbook and Prüfungsordnung take precedence.
-
-## Grade Scale
-
-|Grade|Meaning        |
-|-----|---------------|
-|1.0  |sehr gut (excellent)|
-|1.3  |               |
-|1.7  |               |
-|2.0  |gut (good)     |
-|2.3  |               |
-|2.7  |               |
-|3.0  |befriedigend (satisfactory)|
-|3.3  |               |
-|3.7  |               |
-|4.0  |bestanden (passed)|
-|5.0  |nicht bestanden (failed)|
-
-## Overall Grade Calculation
-
-The overall grade is the weighted average of all partial grades from labs and seminars.
-
-**To pass:** The overall grade must be 4.0 or better.
-
-**Failure conditions:**
-
-- More than one report graded 5.0 → entire course failed
-- More than two failed entrance procedures → entire course failed
-
-## Course-Specific Weights
-
-### FP-1 (B.Sc., 7 ECTS) — Seven lab experiments
-
-|Component                              |Weight|
-|---------------------------------------|------|
-|5 experiments (short reports)          |1.0 each|
-|2 experiments (detailed reports)       |1.5 each|
-
-### FP-2 (M.Sc., 8 ECTS) — Three labs + seminar
-
-|Component                              |Weight|
-|---------------------------------------|------|
-|Two one-week labs (scientific reports) |1.0 each|
-|One two-week lab (scientific report)   |1.0  |
-|Seminar presentation                   |2.0  |
-
-### FP-EDU (M.Ed., 5 ECTS) — Three labs + special + seminar
-
-|Component                              |Weight|
-|---------------------------------------|------|
-|2 experiments (short reports)          |1.0 each|
-|1 experiment (detailed report)         |1.5  |
-|Lab Special                            |1.0  |
-|Seminar presentation                   |1.0  |
-
-## Entrance Procedure Note
-
-The entrance procedure (15-minute conversation) is part of the learning phase. If preparation is insufficient, the tutor teaches and the conversation may be repeated.
-
-**Definitions:**
-
-| Status | What happened | Recorded as | Consequence |
-|--------|---------------|-------------|-------------|
-| **Passed** | Student demonstrated sufficient understanding | ☑ Passed | Proceed to measurements |
-| **Repeated** | Gaps identified; tutor taught; student then demonstrated understanding | ☑ Repeated (gaps addressed) | Proceed to measurements; documented but no grade impact |
-| **Failed** | Student could not demonstrate understanding even after teaching; sent home to prepare | ☑ Failed (reschedule required) | Must return another day; counts toward hard limit |
-
-The tutor records the outcome on the feedback form. "Repeated" means the conversation took longer or required teaching, but the student succeeded in the same session. "Failed" means the student was sent home and must reschedule.
-
-**Grade implications:** A single "Repeated" status does not affect your grade. Repeated difficulties across multiple experiments may be noted when assessing overall engagement. The goal is learning, not punishment.
-
-**Hard limit:** If more than two entrance procedures are marked "Failed" across all experiments, the entire course is failed. This threshold exists because the preparation phase is essential for safe and productive lab work.
-
------
-
-# Appendix B: Feedback and Grading Template
-
-This template is mandatory for all graded work. All four quality markers require ratings. Written feedback is required in each section.
+- University of Freiburg: Academic Integrity
+- Institute of Physics: Scientific Honesty
+- DFG Code of Conduct for Good Scientific Practice
 
 ---
 
-**Experiment:** ______________________ **Date:** ______________
+## Appendix A: Presentation Guidelines
 
-**Student(s):** ______________________
+### Daily Presentations (Learning Phase)
 
-**Tutor:** ______________________ **Organiser (if present):** ______________________
+**Day 1 — Principles Presentation (~30 min per team)**
 
----
+Purpose: Establish shared understanding before measurements begin.
 
-## Part 1: Learning Phase Feedback
+Content:
+- What you are measuring and why it matters
+- Key physical principles underlying the technique
+- What you expect to observe
+- Main sources of uncertainty
 
-*This section documents teaching and learning during preparation and lab work. It is formative feedback, not part of the final grade.*
+Style: Concise, visual where helpful, honest about uncertainties.
 
-### Entrance Procedure Outcome
+**Last Day — Findings Presentation (~30 min per team)**
 
-**This checkbox is mandatory.** It determines whether a "failed" entrance counts toward the hard limit (see Appendix A).
+Purpose: Consolidate understanding and surface remaining questions.
 
-| | Passed | Repeated (gaps addressed) | Failed (reschedule required) |
-|--|:-:|:-:|:-:|
-| Outcome | ☐ | ☐ | ☐ |
+Content:
+- What you measured and how
+- Key findings and their uncertainties
+- How findings compare to expectations
+- What remains unresolved or surprising
 
-*Passed: sufficient understanding demonstrated. Repeated: gaps identified, tutor taught, student succeeded same session. Failed: student sent home to prepare, must reschedule.*
+Style: Concise, data-driven, honest about limitations.
 
-### Preparation
+**Time allocation guidance:**
+- Two-member teams: ~15 min presentation + ~15 min discussion
+- Three-member teams: ~10 min per student + ~10 min shared discussion
 
-**Understanding of methods** — Knowledge of purpose, methodology, and theoretical background.
+### Seminar Presentation (Exam Phase)
 
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
+**Structure (60 minutes total):**
 
-**Quality of preparation** — Familiarity with literature and safety procedures.
+| Phase | Duration | What happens |
+|-------|----------|--------------|
+| Presentation | ~30 min | Uninterrupted presentation by student |
+| Discussion | ~15 min | Open discussion with all participants |
+| Exam questions | ~15 min | Focused questions from organisers and tutors |
 
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
+**Presentation requirements:**
+- Coherent: clear logical thread throughout
+- Causally connected: claims follow from evidence and reasoning
+- Inviting discussion: genuine questions posed, uncertainties acknowledged
 
-**Written feedback on preparation** (mandatory):
+**FP-2:** Present results from the two-week experiment.
 
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-### Lab Work
-
-**Execution of procedures** — Adherence to protocols, accuracy in conducting the experiment.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Quality of lab notes** — Clarity, thoroughness, and organisation.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Data management** — Accuracy in data collection and handling.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Written feedback on lab work** (mandatory):
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
+**FP-EDU:** Present Labor-Spezial with integrated didactic reflection throughout.
 
 ---
 
-## Part 2: Assessment Phase Grading
+## Appendix B: Quick Reference — Deadlines
 
-*This section determines the final grade. It assesses the written report and oral presentation.*
-
-### Oral Presentation (15 minutes)
-
-**Clarity and communication** — Effective presentation of key results.
-
-| | Excellent | Good | Satisfactory | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Written feedback on oral presentation** (mandatory):
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-### Written Report
-
-**Data analysis and interpretation** — Depth, accuracy, insight.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Scientific writing quality** — Clarity, conciseness, structure.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Integration of theory and experiment** — Linking results to concepts.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**References and citations** — Appropriateness and accuracy.
-
-| | Excellent | Good | Basic | Insufficient |
-|--|:-:|:-:|:-:|:-:|
-| Rating | ☐ | ☐ | ☐ | ☐ |
-
-**Written feedback on report** (mandatory):
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
+| Item | Deadline |
+|------|----------|
+| Safety training | Before first laboratory entry |
+| Entrance conversation | Before measurements begin |
+| Lab notebook | End of each session |
+| Written report | 7 calendar days after final session (lab days excluded) |
+| Late report (with penalty) | Up to 3 additional days |
+| Seminar presentation | Per published schedule |
+| Labor-Spezial learning phase (FP-EDU) | Per separate agreement |
+| Tutor feedback on reports | 14 calendar days |
+| Tutor feedback on resubmission | 10 calendar days |
+| Tutor feedback on seminar | 7 calendar days |
+| Escalation acknowledgement | 2 working days |
+| Escalation resolution | 10 working days |
 
 ---
 
-## Final Grade
+## Appendix C: Quick Reference — Consequences
 
-| | |
-|--|--|
-| **Grade awarded:** | ________ |
-| **Grade justification** (mandatory — must explain how the grade follows from the above): |
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
----
-
-**Tutor signature:** ______________________ **Date:** ______________
-
-**Student signature (confirms receipt of feedback):** ______________________ **Date:** ______________
+| Situation | Consequence |
+|-----------|-------------|
+| Late report (≤3 days) | Grade penalty (0.3) |
+| Late report (>3 days) | May not be accepted |
+| Report graded 5.0 | Resubmission opportunity |
+| Second report graded 5.0 | Course failure |
+| >2 failed entrance conversations | Course failure |
+| Safety violation (first, minor) | Removal, retraining, documented |
+| Safety violation (repeated/serious) | Course exclusion |
+| Academic integrity violation | Institutional process |
+| Tutor misses feedback deadline | Documented; student may escalate |
+| Tutor undeclared intervention (pattern) | Retraining or role reassignment |
 
 ---
 
-*Copy: One for student, one for tutor records, one for course archive.*
+## Appendix D: Checklist for Students
 
------
+**Before your first experiment:**
+- [ ] Safety training completed (general + electrical)
+- [ ] Experiment guide read thoroughly
+- [ ] Entrance conversation prepared
 
-# Appendix C: Document Metadata
+**Day 1 of each experiment:**
+- [ ] Entrance conversation passed
+- [ ] Principles presentation delivered
+- [ ] Discussion participated in
 
-|Field            |Value                       |
-|-----------------|----------------------------|
-|Version          |1.0                         |
-|Status           |Draft                       |
-|Created          |2026-01-15                  |
-|Structure        |Framework + Essay + Handbook|
-|Canonical location|ILIAS (course materials)   |
-|Change log       |ILIAS (document history)    |
+**During laboratory work:**
+- [ ] Notebook entries timestamped
+- [ ] Anomalies noted immediately
+- [ ] Questions asked when uncertain
 
-**Version control:** The authoritative version of this document is always the one published on ILIAS. Printed copies, PDFs, or offline versions may be outdated. When in doubt, check ILIAS.
+**Last day of each experiment:**
+- [ ] Findings presentation delivered
+- [ ] Discussion participated in
+- [ ] Notebook complete
 
------
+**After laboratory work:**
+- [ ] Report deadline calculated (lab days excluded)
+- [ ] Report submitted on time (where required)
+- [ ] Feedback received and reviewed
 
-**End of Document**
+**Seminar:**
+- [ ] Presentation prepared (coherent, causally connected)
+- [ ] Ready for discussion and exam questions
+
+**FP-EDU additional:**
+- [ ] Didactic reflection integrated throughout learning phase
+- [ ] Labor-Spezial documented
+- [ ] Seminar includes integrated didactic component
+
+---
+
+## Appendix E: Checklist for Tutors
+
+**Before the course:**
+- [ ] Safety training current
+- [ ] Equipment tested
+- [ ] Own measurements taken and analysis verified
+- [ ] Course documentation read
+
+**Each experiment:**
+- [ ] Entrance conversation conducted; outcome recorded
+- [ ] Daily presentations facilitated (Day 1 + last day)
+- [ ] Interventions logged with trigger stated
+- [ ] Notebook checked
+- [ ] Feedback provided within deadlines
+- [ ] Grade entered in ILIAS with justification
+
+**Seminar:**
+- [ ] Participated in discussion phase
+- [ ] Prepared and asked exam questions
+- [ ] Assessed against published criteria
+- [ ] Feedback provided within 7 days
+
+**Ongoing:**
+- [ ] Observe by default; intervene only under T1/T2/T3
+- [ ] Consult organiser for unusual grades or situations
+- [ ] Respond to student questions within reasonable time
+
+---
+
+**End of Rulebook**
