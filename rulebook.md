@@ -25,7 +25,7 @@ Advanced laboratory courses where you engage with physics as a scientist: making
 |------|------|----------|
 | Before lab | Safety training, preparation, entrance conversation | — |
 | Day 1 | Principles presentation + discussion | ~30 min per team |
-| During lab | Measurements, analysis, honest discourse | Variable |
+| During lab | Measurements, analysis, honest discourse | Variable, but typically from Mon-Fri 9-17:30 h |
 | Last day | Findings presentation + discussion | ~30 min per team |
 | After lab | Written report (except FP-2 two-week) | 7 days (lab days excluded) |
 
