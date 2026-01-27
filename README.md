@@ -1,73 +1,91 @@
-# Advanced Physics Laboratory Documentation
+# Advanced Physics Laboratory Courses
 
-## Structure
+Documentation for the Master Laboratory (FP-2) and Teacher Education Laboratory (FP-EDU) at the University of Freiburg, Institute of Physics.
 
-One document, three layers:
+## What This Is
 
-| Part | Purpose | In plain language |
-|------|---------|-------------------|
-| I. Framework | Invariant principles | The promises we make to you |
-| II. Essay | Role commitments | What we are trying to do |
-| III. Handbook | Procedures and deadlines | The rulebook—if it's not here, it cannot be used against you |
+These are advanced laboratory courses where students engage with physics as scientists — making decisions, handling surprises, and solving problems without pre-written answers.
 
-This separation is deliberate. Mixing why/how/who creates ambiguity that disadvantages whoever has less power.
+We're rebuilding the course documentation to make it clearer, fairer, and more honest about how things work.
 
-## Key Design Decisions
+## The Problem We're Solving
 
-**Two-phase model:** Learning (prep + lab) and assessment (reports only). Grades come from written reports and accompanying oral presentations. The lab is for learning—tutors teach, mistakes are expected.
+Traditional laboratory courses often have hidden rules. Students don't always know how they'll be graded. Power imbalances between tutors and students can discourage honest questions. When things go wrong, it's not always clear who is responsible for what.
 
-**Tutors are learners:** They have more experience than students but are still learning. Before each course, tutors test equipment, take measurements, and verify their understanding. This is acknowledged, not hidden.
+This creates anxiety and rewards performance over genuine learning.
 
-**Complete accountability chain:** Students → Tutors → Organisers → Dean of Studies. Everyone is accountable to someone. When escalation is possible and the process is known, problems are more likely to be addressed early.
+## Our Approach
 
-**Modernization in progress:** Lab instructions vary in format. Legacy and new coexist. Forcing uniformity would compromise quality.
+We're designing the courses around three simple ideas:
 
-**Scientific honesty:** Chapter 8 states core principles (no fabrication, no falsification, no plagiarism, document everything) with links to university and DFG guidelines. This is non-negotiable.
+### 1. Fairness You Can Check
 
-**Legal hierarchy explicit:** University and faculty regulations take precedence. This document fills in local practice within that framework.
+- All grading criteria are published before work begins
+- Every grade comes with a written explanation and a name
+- If you make a correctable mistake, there's a defined path to fix it
+- The same rules apply to everyone — including tutors and organisers
 
-**Entrance procedure clarity:** Three distinct outcomes (Passed/Repeated/Failed) with definitions. Only "Failed" (sent home to reschedule) counts toward the hard limit. Mandatory checkbox on feedback form ensures consistent recording.
+### 2. Honest Conversation
 
-**Canonical version on ILIAS:** The authoritative version is always on ILIAS. Check there for updates.
+- Students lead discussions about physics
+- Tutors observe by default and only step in when necessary
+- When tutors intervene, they say why
+- Disagreement is allowed — not everything needs consensus
 
-## Reading Guide
+### 3. Structured Exploration
 
-| If you are... | Start with |
-|---------------|------------|
-| New to the lab | Welcome Introduction (separate document) |
-| In a hurry | Quick Reference (protections, deadlines, escalation paths) |
-| Student | Part III, Chapters 2, 3, 6, 8 |
-| Tutor | Part III, Chapters 2, 3, 4, 6, 8, Appendix B |
-| Organiser | Everything |
-| Anyone wanting context | Part II (Essay) |
+- Creativity is encouraged, but grounded
+- If you're speculating, you should be able to say what would prove you wrong
+- Wild ideas get marked, not punished
+- Exploration produces possibilities; conclusions require discussion
 
-## Document Set
+## What's in This Repository
 
-| Document | Purpose | Length |
-|----------|---------|--------|
-| Welcome Introduction | Lower activation; what to expect | ~10 min read |
-| Unified Documentation | Full rules, principles, procedures | Reference document |
-| README | Orientation to the document set | This file |
+| File | Description |
+|------|-------------|
+| `advanced-laboratory-rulebook.md` | Complete rules for students, tutors, and organisers |
+| `feedback-sheets.docx` | Assessment forms for all course components |
+| `teaser-script.md` | 3:30 introduction video script |
+| `orientation-snippets/` | Short course descriptions for the learning platform |
 
-## Appendices
+## Current Status
 
-- **Appendix A: Grading Scheme** — Grade scale, weights, course-specific calculations, entrance procedure definitions (Passed/Repeated/Failed)
-- **Appendix B: Feedback Template** — Mandatory form for all graded work (entrance outcome checkbox, four quality markers per phase, written feedback required)
-- **Appendix C: Document Metadata**
+**Version:** 0.2 (Draft)  
+**Status:** Under review by tutor team
 
-## Principles (Part I Summary)
+The documentation is being developed iteratively. We're testing ideas, gathering feedback, and refining the language. Nothing is final until it's marked as final.
 
-1. **Known Criteria** — assess only on criteria visible beforehand
-2. **Proportional Authority** — responsible only for what you could reasonably influence
-3. **Traceable Decisions** — every decision has a name and reason
-4. **Separation of Layers** — why/how/who kept distinct
-5. **Symmetric Visibility** — all rules visible to all roles
-6. **Correctable Error** — one mistake does not end participation
+## The Process
 
-## Version
+We're not trying to invent something completely new. We're trying to write down what good teaching already looks like — and then make sure the structure actually delivers it.
 
-1.0 — release candidate
+The steps:
 
-## Changes
+1. **Identify what matters** — fairness, honest discourse, room to explore
+2. **Write it down clearly** — so everyone knows the rules
+3. **Build in accountability** — so the rules actually hold
+4. **Test and refine** — fix what doesn't work
 
-Propose changes in writing to an organiser. Framework changes require two organisers. Changes take effect only when published with a new version number.
+This is ongoing work. The goal is courses where students can focus on physics because they trust the system is fair — and tutors can focus on teaching because they know what's expected of them.
+
+## Guiding Principles
+
+We started with a simple question: what would a laboratory course look like if we took respect, trust, and responsibility seriously?
+
+- **Respect** means treating students as capable of doing real physics, and treating tutors as professionals who need support, not just instructions.
+- **Trust** means being transparent about how things work, so people can rely on the system.
+- **Responsibility** means everyone — students, tutors, organisers — is accountable for their part.
+
+The documentation tries to turn these ideas into concrete rules and procedures.
+
+## Contributing
+
+This is primarily an internal project, but the approach may be useful to others designing laboratory courses. If you have questions or suggestions, feel free to open an issue.
+
+## License
+
+Documentation is shared for reference. Please contact us before adapting for your own institution.
+
+---
+
+*University of Freiburg, Institute of Physics*
