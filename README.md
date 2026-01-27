@@ -44,14 +44,15 @@ We're designing the courses around three simple ideas:
 | File | Description |
 |------|-------------|
 | `advanced-laboratory-rulebook.md` | Complete rules for students, tutors, and organisers |
-| `feedback-sheets.docx` | Assessment forms for all course components |
-| `teaser-script.md` | 3:30 introduction video script |
-| `orientation-snippets/` | Short course descriptions for the learning platform |
+| `feedback-sheets.docx` | Assessment forms for all course components (also as PDF) |
+| `Welcome letter.md` | Letter to all participants |
+
+and more.
 
 ## Current Status
 
 **Version:** 0.2 (Draft)  
-**Status:** Under review by tutor team
+**Status:** Under review 
 
 The documentation is being developed iteratively. We're testing ideas, gathering feedback, and refining the language. Nothing is final until it's marked as final.
 
