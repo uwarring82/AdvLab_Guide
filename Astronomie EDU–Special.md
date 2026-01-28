@@ -1,7 +1,7 @@
 # Astronomie-Laborwoche im Fortgeschrittenenpraktikum Lehramt (FP-EDU)
 
 **Universität Freiburg · Physikalisches Institut**  
-**Version 0.62 · Entwurf zur Diskussion**
+**Version 0.62 · RC**
 
 -----
 
@@ -258,6 +258,7 @@ Das Abschlussseminar ist der **einzige bewertete Teil** der Veranstaltung. Es fi
 
 **Was wir nicht erwarten:**
 
+- Historische Erzählung Ihrer Erfahrungen
 - Perfekte Ergebnisse oder fehlerfreie Messungen
 - Vollständige Abdeckung aller vier Module
 - Auswendig gelernte Fakten oder Zahlenwerte
@@ -297,6 +298,7 @@ Die Prüfungsfragen werden an beide Teammitglieder gestellt.
 
 - Prüfende Person (Organisator oder Organisatorin)
 - Tutoren, die Sie während der Woche begleitet haben (geben Kontext, bewerten nicht)
+- Interessierte Studenten und Gasthörer
 
 ### Bewertung
 
@@ -320,7 +322,7 @@ Sprechen Sie umgehend mit den Organisatoren. Die verbleibende Person hält in de
 ## Bekanntgabe Ihrer Note
 
 - **Mündlich:** Direkt im Anschluss an das Abschlussseminar erhalten Sie eine erste Rückmeldung.
-- **Schriftlich:** Die endgültige Note mit kurzer Begründung erhalten Sie innerhalb von [Frist einfügen].
+- **Schriftlich:** Die endgültige Note mit kurzer Begründung erhalten Sie innerhalb von 7 Tagen per E-Mail.
 
 -----
 
@@ -341,11 +343,11 @@ Sprechen Sie umgehend mit den Organisatoren. Die verbleibende Person hält in de
 
 ## Einstiegsliteratur und Ressourcen
 
-### Gedruckte Bücher
+### Bücher
 
-Verschiedene Bücher zum Schwerpunkt Astronomie stehen bei **Andreas Härtel** und können **nach Absprache** ausgeliehen werden.
+Verschiedene gedruckte Bücher zum Schwerpunkt Astronomie stehen bei **Andreas Härtel** und können **nach Absprache** ausgeliehen werden.
 
-Eine Liste weiterer empfohlener Bücher finden Sie online unter: [Link wird später eingefügt]
+Eine Liste weiterer empfohlener Bücher finden Sie online auf ILIAS.
 
 ### Frei zugängliche Online-Ressourcen
 
@@ -379,7 +381,7 @@ Der internationale Leitfaden zur Angabe von Messunsicherheiten (Guide to the Exp
 
 Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 
-[Kontaktdaten einfügen]
+fp@physik.uni-freiburg.de
 
 -----
 
