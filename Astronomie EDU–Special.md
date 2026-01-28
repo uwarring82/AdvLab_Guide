@@ -1,7 +1,7 @@
 # Astronomie-Laborwoche im Fortgeschrittenenpraktikum Lehramt (FP-EDU)
 
 **Universität Freiburg · Physikalisches Institut**  
-**Version 0.6 · Entwurf zur Diskussion**
+**Version 0.62 · Entwurf zur Diskussion**
 
 -----
 
@@ -64,7 +64,7 @@ Diese Laborwoche orientiert sich am Prinzip **Respect – Trust – Responsibili
 
 ### Wer sind die Tutoren?
 
-Tutoren sind fortgeschrittene Studierende — keine allwissenden Experten. Auch sie lernen: an Ihren Fragen und an der gemeinsamen Arbeit. Die Organisatoren (Lehrende) stehen bereit, um das Lernen aller Beteiligten zu unterstützen.
+Tutoren sind fortgeschrittene Studierende / Doktoranden anderer Fachgebiete — keine allwissenden Experten. Auch sie lernen: an Ihren Fragen und an der gemeinsamen Arbeit. Die Organisatoren (Lehrende) stehen abrufbereit und kommen unregelmäsßig dazu, um das Lernen aller Beteiligten zu unterstützen.
 
 Tutoren bewerten Sie nicht. Sie begleiten Ihren Lernprozess und können ihre Beobachtungen im Abschlussseminar einbringen, um den Prüfenden einen Eindruck von Ihrem Lernweg zu geben.
 
@@ -94,47 +94,23 @@ Die Vorbesprechung findet **eine Woche vor der Laborwoche** statt. Die Teilnahme
 ### 1. Organisatorisches
 
 - Zeitplan und Ablauf der Woche
-- Sicherheitsunterweisung
+- kurze Sicherheitsunterweisung
 - Gruppeneinteilung und Zugang zu den Instrumenten
 - Ihre Fragen zur Logistik
 
-### 2. Modulwahl und Planungsskizze
+### 2. Modulwahl und Planungsskizze (ca. 15 Minuten pro Team)
 
-Sie wählen als Team **mindestens ein Modul** (A, B, C oder D), auf das Sie Ihren Fokus legen möchten. Zusätzlich beschreiben Sie **relativ abstrakt**, was Sie während der Laborwoche vorhaben:
+Sie wählen als Team **mindestens ein Modul** (A, B, C oder D), auf das Sie Ihren Fokus legen möchten. Sie erklären Ihre Motivation am Whiteboard und zusätzlich beschreiben Sie **relativ abstrakt**, was Sie während der Laborwoche vorhaben:
 
 - Welche Fragestellung interessiert Sie?
 - Welche Beobachtungen oder Messungen planen Sie?
 - Wie wollen Sie vorgehen?
 
-Diese Planungsskizze ist bewusst vorläufig — sie dient als Ausgangspunkt für Ihre Erkenntnisreise und wird in den Stand-Up-Treffen regelmäßig reflektiert.
-
-### 3. Eingangspräsentation (15 Minuten pro Team)
-
-Die Laborwoche wird in **Teams** (Zweiergruppen) absolviert. Jedes Team hält gemeinsam eine Eingangspräsentation von insgesamt 15 Minuten.
-
-**Modulbezug:** Die Präsentation muss sich inhaltlich auf **eines der vier Module** (A, B, C oder D) beziehen.
-
-**Zusammenarbeit:** Beide Teammitglieder sollen bei der Vorbereitung zusammenarbeiten. Die Präsentation wird sinnvoll zwischen beiden aufgeteilt.
-
-**Redezeit-Aufteilung:** Jede Person spricht mindestens 6 Minuten. Eine Aufteilung von etwa 7:8 Minuten ist ideal; Abweichungen bis 6:9 Minuten sind akzeptabel.
+Diese Planungsskizze ist bewusst vorläufig — sie dient als Ausgangspunkt für Ihre Erkenntnisreise und wird in den Stand-Up-Treffen regelmäßig reflektiert. 
 
 Dies ist keine Prüfung, sondern ein Startpunkt. Die Qualität der Präsentation wird nicht benotet — entscheidend ist, dass Sie sich erkennbar mit dem Thema auseinandergesetzt haben.
 
-#### Beispielskizze: Eingangspräsentation zu Modul B
-
-- Was ist ein Hertzsprung-Russell-Diagramm und wie wird es aufgebaut?
-- Welche physikalischen Größen werden auf den Achsen dargestellt?
-- Was unterscheidet einen offenen Sternhaufen von einem Kugelsternhaufen?
-- Wie hängt der Turn-off-Punkt mit dem Alter eines Haufens zusammen?
-- Welche Beobachtungsdaten braucht man, um ein HR-Diagramm zu erstellen?
-
-*Diese Liste dient der Orientierung. Sie sind frei, andere Schwerpunkte zu setzen, solange der Bezug zum gewählten Modul erkennbar bleibt.*
-
-#### Bei Ausfall eines Teammitglieds
-
-Sollte ein Teammitglied kurzfristig ausfallen (z. B. durch Krankheit), sprechen Sie bitte umgehend mit den Organisatoren. In der Regel wird die verbleibende Person einen reduzierten Umfang präsentieren.
-
-### 4. Klärung von Erwartungen
+### 3. Klärung von Erwartungen
 
 - Offene Fragen zum Ablauf
 - Besprechung der Bewertungskriterien
