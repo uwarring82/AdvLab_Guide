@@ -40,7 +40,7 @@ Each experiment has three mandatory hurdles. All must be passed to complete the 
 ## Before the Laboratory
 
 ### For Both Students and Tutors
-- **Review the relevant physics** for each experiment. Most content draws on BSc introductory and advanced lecture material.
+**Review the relevant physics** for each experiment. Most content draws on BSc introductory and advanced lecture material.
 
 ### For Students
 1. **Complete safety training** before first entry: laser and radiation safety.
