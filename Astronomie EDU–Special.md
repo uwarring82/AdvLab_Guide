@@ -70,19 +70,19 @@ Tutoren bewerten Sie nicht. Sie begleiten Ihren Lernprozess und können ihre Beo
 
 -----
 
-## Ablauf im Überblick
+## Ablauf von Hürden im Überblick
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  VORBESPRECHUNG (eine Woche vor der Laborwoche)                     │
-│  Organisatorisches · Eingangspräsentation · Modulwahl · Planungsskizze │
-├─────────────────────────────────────────────────────────────────────┤
-│  LABORWOCHE (Lernveranstaltung — nicht benotet)                     │
-│  Module A–D · Laborbuch · begleitendes Feedback · Stand-Up-Treffen  │
-├─────────────────────────────────────────────────────────────────────┤
-│  ABSCHLUSSSEMINAR (Prüfung — benotet)                               │
-│  Vortrag · Diskussion · Prüfungsfragen                              │
-└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│  VORBESPRECHUNG (eine Woche vor der Laborwoche)                         │
+│  Organisatorisches · Eingangspräsentation · Modulwahl · Planungsskizze  │
+├─────────────────────────────────────────────────────────────────────────┤
+│  LABORWOCHE (Lernveranstaltung — nicht benotet)                         │
+│  Stand-Up-Treffen · Module A–D · Laborbuch · begleitendes Feedback      │
+├─────────────────────────────────────────────────────────────────────────┤
+│  ABSCHLUSSSEMINAR (Prüfung — benotet)                                   │
+│  Vortrag · Diskussion · Prüfungsfragen                                  │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 -----
