@@ -18,12 +18,7 @@ Die Laborwoche folgt dem roten Faden **„Von der Planung zum Sternalter"**:
 Planung → Instrument → Messgröße → Diagramm/Spektrum → astrophysikalische Aussage
 ```
 
-Zwei sich ergänzende Zugänge führen durch die Woche:
-
-| Methode | Darstellung | Was wir daraus lernen |
-|---------|-------------|----------------------|
-| Photometrie (Helligkeitsmessung) | HR-Diagramm | Alter und Entwicklung von Sternen |
-| Spektroskopie (Lichtzerlegung) | Linienspektrum | Physikalische und chemische Eigenschaften der Sternatmosphären |
+Nehmen Sie gerne im Vorfeld mit uns Kontakt auf.
 
 -----
 
