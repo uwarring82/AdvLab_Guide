@@ -1,22 +1,7 @@
 # Astronomie-Laborwoche im Fortgeschrittenenpraktikum Lehramt (FP-EDU)
 
 **Universität Freiburg · Physikalisches Institut**  
-**Version 0.4 · Entwurf zur Diskussion**
-
------
-
-## Begriffserklärungen
-
-|Abkürzung / Begriff|Bedeutung                                                                                                               |
-|-------------------|------------------------------------------------------------------------------------------------------------------------|
-|**FP-EDU**         |Fortgeschrittenenpraktikum für Lehramtsstudierende (Education)                                                          |
-|**HR-Diagramm**    |Hertzsprung-Russell-Diagramm — eine grafische Darstellung, die Sterne nach Helligkeit und Temperatur (bzw. Farbe) ordnet|
-|**Photometrie**    |Messung der Helligkeit von Himmelsobjekten                                                                              |
-|**Spektroskopie**  |Zerlegung von Licht in seine Farbanteile (Spektrum) zur Analyse                                                         |
-|**Turn-off-Punkt** |Der Punkt im HR-Diagramm, an dem Sterne eines Haufens die Hauptreihe verlassen — ein Indikator für das Alter des Haufens|
-|**Metallizität**   |Der Anteil von Elementen schwerer als Wasserstoff und Helium in einem Stern                                             |
-|**Seeing**         |Die Unschärfe astronomischer Bilder durch Luftunruhe in der Erdatmosphäre                                               |
-|**GUM**            |Guide to the Expression of Uncertainty in Measurement — internationaler Leitfaden zur Angabe von Messunsicherheiten     |
+**Version 0.6 · Entwurf zur Diskussion**
 
 -----
 
@@ -25,18 +10,20 @@
 > *Dieses Labor fragt weniger: Wie präzise können wir messen?  
 > Sondern: Wie entstehen aus Messdaten wissenschaftliche Aussagen — unter realen experimentellen Bedingungen?*
 
-Die Laborwoche folgt dem roten Faden **„Vom Licht zum Sternalter”**:
+Die Laborwoche verfolgt zwei gleichwertige Ziele: Sie verbindet **experimentelle Forschungspraxis** mit der **Entwicklung didaktischer Kompetenz**. Das bewusste Erarbeiten von Methoden, wie physikalische Inhalte im Schulunterricht vermittelt werden können, ist ein explizites Lernziel — nicht nur ein Nebenprodukt.
+
+Die Laborwoche folgt dem roten Faden **„Von der Planung zum Sternalter"**:
 
 ```
-Instrument → Messgröße → Diagramm/Spektrum → astrophysikalische Aussage
+Planung → Instrument → Messgröße → Diagramm/Spektrum → astrophysikalische Aussage
 ```
 
 Zwei sich ergänzende Zugänge führen durch die Woche:
 
-|Methode                         |Darstellung   |Was wir daraus lernen                                         |
-|--------------------------------|--------------|--------------------------------------------------------------|
-|Photometrie (Helligkeitsmessung)|HR-Diagramm   |Alter und Entwicklung von Sternen                             |
-|Spektroskopie (Lichtzerlegung)  |Linienspektrum|Physikalische und chemische Eigenschaften der Sternatmosphären|
+| Methode | Darstellung | Was wir daraus lernen |
+|---------|-------------|----------------------|
+| Photometrie (Helligkeitsmessung) | HR-Diagramm | Alter und Entwicklung von Sternen |
+| Spektroskopie (Lichtzerlegung) | Linienspektrum | Physikalische und chemische Eigenschaften der Sternatmosphären |
 
 -----
 
@@ -44,12 +31,16 @@ Zwei sich ergänzende Zugänge führen durch die Woche:
 
 Diese Laborwoche richtet sich an **Lehramtsstudierende**, nicht an Studierende im Master-Studiengang Astrophysik. Das hat praktische Konsequenzen:
 
+### Planung und Durchführung von realistischen Experimenten im Rahmen der Möglichkeiten
+
 **Was wir von Ihnen erwarten:**
 
-- Gedankenketten nachvollziehen und erklären können: Wie kommt man von der Messung zur Aussage?
+- Realistische Experimente planen: Was ist mit den vorhandenen Instrumenten und der verfügbaren Zeit machbar?
+- Gedankenketten nachvollziehen und erklären können: Wie kommt man von der Planung über die Messung zur Aussage?
 - Messunsicherheiten einschätzen: Was begrenzt die Genauigkeit, und was bedeutet das für die Schlussfolgerung?
 - Grenzen der eigenen Daten erkennen: Was kann ich mit meinen Messungen aussagen — und was nicht?
 - Übertragbarkeit auf den Schulunterricht mitdenken: Wie würde ich das Schülerinnen und Schülern erklären?
+- Didaktische Methoden bewusst erarbeiten: Welche Erklärungsansätze funktionieren, welche nicht?
 
 **Was wir nicht erwarten:**
 
@@ -57,7 +48,7 @@ Diese Laborwoche richtet sich an **Lehramtsstudierende**, nicht an Studierende i
 - Detaillierte Berechnungen von Sternatmosphären
 - Hochpräzise Geschwindigkeitsmessungen aus Spektrallinien
 
-Die zentrale Fähigkeit für angehende Lehrkräfte ist nicht die Perfektion der Messung, sondern das **Verstehen und Erklären der Gedankenkette** — vom aufgefangenen Licht bis zur physikalischen Schlussfolgerung.
+Die zentrale Fähigkeit für angehende Lehrkräfte ist nicht die Perfektion der Messung, sondern das **Verstehen und Erklären der Gedankenkette** — von der Planung über das aufgefangene Licht bis zur physikalischen Schlussfolgerung.
 
 -----
 
@@ -65,17 +56,17 @@ Die zentrale Fähigkeit für angehende Lehrkräfte ist nicht die Perfektion der 
 
 Diese Laborwoche orientiert sich am Prinzip **Respect – Trust – Responsibility** (Respekt – Vertrauen – Verantwortung):
 
-|Prinzip          |Was das für die Laborwoche bedeutet                                                                                                        |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|**Respekt**      |Wir begegnen einander als Lernende mit unterschiedlichen Vorkenntnissen. Fragen sind willkommen, Fehler sind Lernmaterial — nicht Versagen.|
-|**Vertrauen**    |Die Laborwoche ist ein Lernraum, kein Prüfungsraum. Wir vertrauen darauf, dass Sie die Zeit nutzen, um zu lernen und zu experimentieren.   |
-|**Verantwortung**|Die Verantwortung für Ihren Lernprozess liegt bei Ihnen: für Ihr Laborbuch, Ihre Fragen, Ihre Vorbereitung auf das Abschlussseminar.       |
+| Prinzip | Was das für die Laborwoche bedeutet |
+|---------|-------------------------------------|
+| **Respekt** | Wir begegnen einander als Lernende mit unterschiedlichen Vorkenntnissen. Fragen sind willkommen, Fehler sind Lernmaterial — nicht Versagen. |
+| **Vertrauen** | Die Laborwoche ist ein Lernraum, kein Prüfungsraum. Wir vertrauen darauf, dass Sie die Zeit nutzen, um zu lernen und zu experimentieren. |
+| **Verantwortung** | Die Verantwortung für Ihren Lernprozess liegt bei Ihnen: für Ihr Laborbuch, Ihre Fragen, Ihre Vorbereitung auf das Abschlussseminar. |
 
 ### Wer sind die Tutoren?
 
 Tutoren sind fortgeschrittene Studierende — keine allwissenden Experten. Auch sie lernen: an Ihren Fragen und an der gemeinsamen Arbeit. Die Organisatoren (Lehrende) stehen bereit, um das Lernen aller Beteiligten zu unterstützen.
 
-**Wichtig:** Tutoren bewerten Sie nicht. Sie begleiten Ihren Lernprozess und können ihre Beobachtungen im Abschlussseminar einbringen, um den Prüfenden einen Eindruck von Ihrem Lernweg zu geben.
+Tutoren bewerten Sie nicht. Sie begleiten Ihren Lernprozess und können ihre Beobachtungen im Abschlussseminar einbringen, um den Prüfenden einen Eindruck von Ihrem Lernweg zu geben.
 
 -----
 
@@ -83,11 +74,11 @@ Tutoren sind fortgeschrittene Studierende — keine allwissenden Experten. Auch 
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  VORBESPRECHUNG                                                     │
-│  Organisatorisches · Eingangspräsentation · Klärung von Erwartungen │
+│  VORBESPRECHUNG (eine Woche vor der Laborwoche)                     │
+│  Organisatorisches · Eingangspräsentation · Modulwahl · Planungsskizze │
 ├─────────────────────────────────────────────────────────────────────┤
 │  LABORWOCHE (Lernveranstaltung — nicht benotet)                     │
-│  Module A–C · Laborbuch · begleitendes Feedback · Stand-Up-Treffen  │
+│  Module A–D · Laborbuch · begleitendes Feedback · Stand-Up-Treffen  │
 ├─────────────────────────────────────────────────────────────────────┤
 │  ABSCHLUSSSEMINAR (Prüfung — benotet)                               │
 │  Vortrag · Diskussion · Prüfungsfragen                              │
@@ -98,7 +89,7 @@ Tutoren sind fortgeschrittene Studierende — keine allwissenden Experten. Auch 
 
 ## Vorbesprechung
 
-Die Vorbesprechung findet vor der Laborwoche statt und dient drei Zwecken:
+Die Vorbesprechung findet **eine Woche vor der Laborwoche** statt. Die Teilnahme ist **verpflichtend** — ohne Vorbesprechung ist die Teilnahme an der Laborwoche nicht möglich.
 
 ### 1. Organisatorisches
 
@@ -107,31 +98,29 @@ Die Vorbesprechung findet vor der Laborwoche statt und dient drei Zwecken:
 - Gruppeneinteilung und Zugang zu den Instrumenten
 - Ihre Fragen zur Logistik
 
-### 2. Eingangspräsentation (15 Minuten pro Tandem)
+### 2. Modulwahl und Planungsskizze
 
-Die Laborwoche wird in **Tandems** (Zweiergruppen) absolviert. Jedes Tandem hält gemeinsam eine Eingangspräsentation von insgesamt 15 Minuten.
+Sie wählen als Team **mindestens ein Modul** (A, B, C oder D), auf das Sie Ihren Fokus legen möchten. Zusätzlich beschreiben Sie **relativ abstrakt**, was Sie während der Laborwoche vorhaben:
 
-**Modulbezug:** Die Präsentation muss sich inhaltlich auf **eines der drei Module** (A, B oder C) beziehen. Das gewählte Thema muss erkennbar zu diesem Modul passen.
+- Welche Fragestellung interessiert Sie?
+- Welche Beobachtungen oder Messungen planen Sie?
+- Wie wollen Sie vorgehen?
 
-**Zusammenarbeit:** Beide Tandempartner dürfen — und sollen — bei der Vorbereitung zusammenarbeiten. Die Präsentation wird sinnvoll zwischen beiden aufgeteilt.
+Diese Planungsskizze ist bewusst vorläufig — sie dient als Ausgangspunkt für Ihre Erkenntnisreise und wird in den Stand-Up-Treffen regelmäßig reflektiert.
+
+### 3. Eingangspräsentation (15 Minuten pro Team)
+
+Die Laborwoche wird in **Teams** (Zweiergruppen) absolviert. Jedes Team hält gemeinsam eine Eingangspräsentation von insgesamt 15 Minuten.
+
+**Modulbezug:** Die Präsentation muss sich inhaltlich auf **eines der vier Module** (A, B, C oder D) beziehen.
+
+**Zusammenarbeit:** Beide Teammitglieder sollen bei der Vorbereitung zusammenarbeiten. Die Präsentation wird sinnvoll zwischen beiden aufgeteilt.
 
 **Redezeit-Aufteilung:** Jede Person spricht mindestens 6 Minuten. Eine Aufteilung von etwa 7:8 Minuten ist ideal; Abweichungen bis 6:9 Minuten sind akzeptabel.
 
-**Wozu dient das?**
-
-- Sie zeigen, dass Sie sich vorbereitet haben und lernbereit sind.
-- Wir schaffen eine gemeinsame Grundlage für den Einstieg in die Woche.
-- Wir lernen Ihre unterschiedlichen Vorkenntnisse und Interessen kennen.
-
-**Wichtig:** Dies ist keine Prüfung, sondern ein Startpunkt. Die Qualität der Präsentation wird nicht benotet — entscheidend ist, dass Sie sich erkennbar mit dem Thema auseinandergesetzt haben.
-
-**Die Eingangspräsentation ist formale Zulassungsvoraussetzung für die Teilnahme an der Laborwoche.** Ohne Präsentation ist eine Teilnahme nicht möglich.
-
------
+Dies ist keine Prüfung, sondern ein Startpunkt. Die Qualität der Präsentation wird nicht benotet — entscheidend ist, dass Sie sich erkennbar mit dem Thema auseinandergesetzt haben.
 
 #### Beispielskizze: Eingangspräsentation zu Modul B
-
-Die folgende Skizze zeigt beispielhaft, welche Aspekte in einer Eingangspräsentation zu Modul B (Photometrie und HR-Diagramm) behandelt werden könnten:
 
 - Was ist ein Hertzsprung-Russell-Diagramm und wie wird es aufgebaut?
 - Welche physikalischen Größen werden auf den Achsen dargestellt?
@@ -139,17 +128,13 @@ Die folgende Skizze zeigt beispielhaft, welche Aspekte in einer Eingangspräsent
 - Wie hängt der Turn-off-Punkt mit dem Alter eines Haufens zusammen?
 - Welche Beobachtungsdaten braucht man, um ein HR-Diagramm zu erstellen?
 
-*Diese Liste dient ausschließlich der Orientierung. Sie sind frei, andere Schwerpunkte zu setzen, solange der Bezug zu Modul B erkennbar bleibt. Für Module A und C gelten entsprechende Freiheiten.*
+*Diese Liste dient der Orientierung. Sie sind frei, andere Schwerpunkte zu setzen, solange der Bezug zum gewählten Modul erkennbar bleibt.*
 
------
+#### Bei Ausfall eines Teammitglieds
 
-#### Bei Ausfall eines Tandempartners
+Sollte ein Teammitglied kurzfristig ausfallen (z. B. durch Krankheit), sprechen Sie bitte umgehend mit den Organisatoren. In der Regel wird die verbleibende Person einen reduzierten Umfang präsentieren.
 
-Sollte ein Tandempartner kurzfristig ausfallen (z. B. durch Krankheit), sprechen Sie bitte umgehend mit den Organisatoren. In der Regel wird die verbleibende Person einen reduzierten Umfang präsentieren. Eine Verschiebung ist im Einzelfall möglich.
-
------
-
-### 3. Klärung von Erwartungen
+### 4. Klärung von Erwartungen
 
 - Offene Fragen zum Ablauf
 - Besprechung der Bewertungskriterien
@@ -157,21 +142,21 @@ Sollte ein Tandempartner kurzfristig ausfallen (z. B. durch Krankheit), sprechen
 
 -----
 
-## Laborwoche: Die drei Module
+## Laborwoche: Die vier Module
 
-Die Laborwoche umfasst drei thematische Bereiche. Sie sind als **Angebote** gedacht — wie tief Sie in jeden Bereich einsteigen, hängt davon ab, welchen Schwerpunkt Sie für Ihr Abschlussseminar wählen.
+Die Laborwoche umfasst vier thematische Bereiche. Sie sind als **Angebote** gedacht — wie tief Sie in jeden Bereich einsteigen, hängt davon ab, welchen Schwerpunkt Sie für Ihr Abschlussseminar wählen. Planen Sie in jedem Modul auch **Zeit für didaktische Reflexion** ein.
 
 ### Modul A: Instrumente und Auflösung
 
 **Leitfrage:** *Welche Informationen gehen verloren, wenn die Auflösung begrenzt ist oder die Luft unruhig?*
 
-Was Sie hier tun:
+Was Sie hier tun könnten:
 
-- Sie untersuchen, wie Teleskop- und Spektrometerauflösung die möglichen Erkenntnisse begrenzen.
-- Sie vergleichen Beobachtungen vom Erdboden mit Beobachtungen aus dem Weltraum (z. B. mit dem Hubble Space Telescope und dem James Webb Space Telescope).
-- Sie führen praktische Übungen zur Auflösungsbestimmung durch.
+- Untersuchen, wie Teleskop- und Spektrometerauflösung die möglichen Erkenntnisse begrenzen
+- Beobachtungen vom Erdboden mit Weltraumbeobachtungen vergleichen (z. B. Hubble Space Telescope, James Webb Space Telescope)
+- Praktische Übungen zur Auflösungsbestimmung durchführen
 
-**Warum ist das für Lehrkräfte relevant?** Das Thema „Messgrenzen” und „Idealisierung vs. Realität” lässt sich direkt auf den Physikunterricht übertragen.
+**Schulrelevanz:** Das Thema „Messgrenzen" und „Idealisierung vs. Realität" lässt sich direkt auf den Physikunterricht übertragen.
 
 -----
 
@@ -179,14 +164,14 @@ Was Sie hier tun:
 
 **Leitfrage:** *Warum lässt sich das Alter eines Sternhaufens zuverlässiger bestimmen als das eines einzelnen Sterns?*
 
-Was Sie hier tun:
+Was Sie hier tun könnten:
 
-- Sie nehmen einen offenen Sternhaufen auf (oder arbeiten mit einem bereitgestellten Datensatz).
-- Sie erstellen ein Farb-Helligkeits-Diagramm (HR-Diagramm).
-- Sie identifizieren wichtige Strukturen: die Hauptreihe, den Turn-off-Punkt (wo Sterne die Hauptreihe verlassen), den Riesenast.
-- Sie schätzen das Alter des Haufens ab — qualitativ begründet, nicht numerisch perfektioniert.
+- Einen offenen Sternhaufen aufnehmen (oder mit einem bereitgestellten Datensatz arbeiten)
+- Ein Farb-Helligkeits-Diagramm (HR-Diagramm) erstellen
+- Wichtige Strukturen identifizieren: die Hauptreihe, den Turn-off-Punkt, den Riesenast
+- Das Alter des Haufens qualitativ abschätzen
 
-**Warum ist das für Lehrkräfte relevant?** Das HR-Diagramm ist ein Kernkonzept der Schulastronomie und verbindet Beobachtung mit dem Verständnis von Sternentwicklung.
+**Schulrelevanz:** Das HR-Diagramm ist ein Kernkonzept der Schulastronomie und verbindet Beobachtung mit dem Verständnis von Sternentwicklung.
 
 -----
 
@@ -194,13 +179,29 @@ Was Sie hier tun:
 
 **Leitfrage:** *Warum reicht es nicht aus, nur die Helligkeit eines Sterns zu messen, um ihn zu verstehen?*
 
-Was Sie hier tun:
+Was Sie hier tun könnten:
 
-- Sie identifizieren Spektrallinien (dunkle oder helle Linien im Farbspektrum eines Sterns).
-- Sie lernen die Metallizität als zweiten wichtigen Parameter neben der Temperatur kennen.
-- Sie vergleichen das Sonnenspektrum mit Spektren anderer Sterne.
+- Spektrallinien identifizieren (dunkle oder helle Linien im Farbspektrum eines Sterns)
+- Die Metallizität als zweiten wichtigen Parameter neben der Temperatur kennenlernen
+- Das Sonnenspektrum mit Spektren anderer Sterne vergleichen
 
-**Warum ist das für Lehrkräfte relevant?** Die Fraunhoferlinien (dunkle Linien im Sonnenspektrum) sind ein klassisches Schulthema und verbinden Physik, Chemie und Astronomie.
+**Schulrelevanz:** Die Fraunhoferlinien sind ein klassisches Schulthema und verbinden Physik, Chemie und Astronomie.
+
+-----
+
+### Modul D: Sonnenbeobachtungen
+
+> **⚠️ SICHERHEITSHINWEIS:** Direkte Sonnenbeobachtung ohne geeigneten Filter führt zu **sofortiger und irreversibler Erblindung**. Verwenden Sie ausschließlich die bereitgestellten Sonnenfilter und befolgen Sie die Sicherheitsanweisungen der Tutoren.
+
+**Leitfrage:** *Wie können wir aus dem Sonnenlicht auf die Rotation und Zusammensetzung der Sonne schließen?*
+
+Was Sie hier tun könnten:
+
+- **Sonnenspektrum:** Das Spektrum der Sonne aufnehmen und charakteristische Absorptionslinien identifizieren
+- **Rotationsanalyse:** Die Dopplerverschiebung am Sonnenrand messen und daraus die Rotationsgeschwindigkeit bestimmen
+- **Vergleich mit Satellitendaten:** Ihre Messungen mit Daten der SOHO-Mission (Solar and Heliospheric Observatory) vergleichen
+
+**Schulrelevanz:** Die Sonne ist das nächstgelegene Beobachtungsobjekt und eignet sich besonders für den Schulunterricht — bei korrekter Anwendung von Sicherheitsmaßnahmen.
 
 -----
 
@@ -216,28 +217,30 @@ Diese Reflexion ist **Teil der Lernarbeit**, nicht ein Zusatz am Ende. Sie flie�
 
 ## Stand-Up-Treffen
 
-Während der Laborwoche finden **drei feste Treffen** statt, bei denen Sie Ihren Arbeitsstand vorstellen:
+Während der Laborwoche finden **drei Treffen** statt, bei denen Sie Ihren Arbeitsstand vorstellen. Die folgenden Zeiten sind **Richtlinien** — sie können je nach Nachtbeobachtungen oder anderen Umständen verschoben werden:
 
-|Tag       |Uhrzeit  |
-|----------|---------|
-|Montag    |09:00 Uhr|
-|Dienstag  |15:00 Uhr|
-|Donnerstag|09:00 Uhr|
+| Tag | Uhrzeit (Richtwert) |
+|-----|---------------------|
+| Montag | 09:00 Uhr |
+| Dienstag | 15:00 Uhr |
+| Donnerstag | 09:00 Uhr |
+
+Die Stand-Up-Treffen sind **verpflichtend**. Sie dienen einem zentralen Zweck: Die Planungen aus der Vorbesprechung sollen regelmäßig reflektiert werden — wie haben sich Ihre Vorhaben im Laufe der Erkenntnisreise verändert?
 
 **Ablauf jedes Treffens (insgesamt 30 Minuten):**
 
-|Phase      |Dauer     |Was passiert                                                                                                    |
-|-----------|----------|----------------------------------------------------------------------------------------------------------------|
-|Ihr Bericht|15 Minuten|Sie erläutern am Whiteboard, wo Sie stehen: Was haben Sie gemacht? Was haben Sie verstanden? Wo hängen Sie fest?|
-|Austausch  |15 Minuten|Offene Diskussion mit den Tutoren zu Ihren Fragen und zu den nächsten Schritten                                 |
+| Phase | Dauer | Was passiert |
+|-------|-------|--------------|
+| Ihr Bericht | 15 Minuten | Sie erläutern am Whiteboard: Was haben Sie gemacht? Was haben Sie verstanden? Wo hängen Sie fest? Wie hat sich Ihre Planung verändert? |
+| Austausch | 15 Minuten | Offene Diskussion mit den Tutoren zu Ihren Fragen und nächsten Schritten |
 
-**Wichtig:** Diese Treffen sind **keine Prüfungssituationen**. Es werden keine Leistungsbewertungen vorgenommen und keine Aussagen getroffen, die in die Prüfung einfließen. Die Treffen dienen allein dazu, Ihren Lernprozess zu strukturieren und Fragen frühzeitig zu klären.
+Diese Treffen sind **keine Prüfungssituationen**. Sie dienen der Strukturierung Ihres Lernprozesses.
 
 -----
 
 ## Laborbuch
 
-Sie führen während der Woche ein **Laborbuch**. Das Laborbuch ist Ihr persönliches Lernwerkzeug. Es wird nicht benotet, aber es ist **verpflichtend**.
+Sie führen während der Woche ein **Laborbuch**. Das Laborbuch ist Ihr persönliches Lernwerkzeug. Es wird nicht benotet, aber die Führung ist **verpflichtend**.
 
 **Was gehört ins Laborbuch?**
 
@@ -248,20 +251,18 @@ Sie führen während der Woche ein **Laborbuch**. Das Laborbuch ist Ihr persönl
 
 **Format:** Handschriftlich oder digital — das entscheiden Sie. Wichtig ist, dass Sie selbst damit arbeiten können.
 
-**Wichtig:** Das Laborbuch wird **nicht zur Bewertung herangezogen**. Es dient ausschließlich Ihrer eigenen Strukturierung und als Vorbereitung auf das Abschlussseminar. Niemand wird Ihr Laborbuch benoten oder dessen Inhalt gegen Sie verwenden.
-
 -----
 
 ## Feedback während der Laborwoche
 
 Lernen braucht Rückmeldung. Deshalb begleitet **regelmäßiges Feedback** die gesamte Woche:
 
-|Form           |Wann                             |Wozu                                                              |
-|---------------|---------------------------------|------------------------------------------------------------------|
-|**Mündlich**   |Täglich, informell               |Kurze Rückmeldung zu Ihrer Arbeitsweise und Ihrem Fortschritt     |
-|**Schriftlich**|Mindestens einmal zur Wochenmitte|Strukturierte Rückmeldung zu Ihrem Laborbuch und Ihrem Verständnis|
+| Form | Wann | Wozu |
+|------|------|------|
+| **Mündlich** | Täglich, informell | Kurze Rückmeldung zu Ihrer Arbeitsweise und Ihrem Fortschritt |
+| **Schriftlich** | Mindestens einmal zur Wochenmitte | Strukturierte Rückmeldung zu Ihrem Laborbuch und Ihrem Verständnis |
 
-Dieses Feedback ist **formativ** — das bedeutet: Es dient Ihrem Lernen, nicht Ihrer Bewertung. Formatives Feedback zeigt Ihnen, wo Sie stehen und was Sie verbessern können, ohne dass dies Einfluss auf Ihre Note hat.
+Dieses Feedback ist **formativ** — es dient Ihrem Lernen, nicht Ihrer Bewertung.
 
 -----
 
@@ -269,146 +270,130 @@ Dieses Feedback ist **formativ** — das bedeutet: Es dient Ihrem Lernen, nicht 
 
 Das Abschlussseminar ist der **einzige bewertete Teil** der Veranstaltung. Es findet nach der Laborwoche statt.
 
-### Was zählt als Prüfungsleistung?
+### Was wir erwarten — und was nicht
 
-**Die Prüfungsleistung besteht ausschließlich aus dem Abschlussseminar (Vortrag und Prüfungsfragen). Alle anderen Elemente der Veranstaltung — Eingangspräsentation, Laborwoche, Stand-Up-Treffen, Laborbuch, Feedback — dienen der Vorbereitung und fließen nicht in die Note ein.**
+**Was wir erwarten:**
+
+- Klare Darstellung Ihrer Gedankenkette: von der Planung über die Messung zur Schlussfolgerung
+- Verständnis der Zusammenhänge: Warum haben Sie so gemessen? Was bedeuten Ihre Ergebnisse?
+- Reflexion über Grenzen: Was konnten Sie mit Ihren Daten aussagen — und was nicht?
+- Übertragbarkeit auf den Schulunterricht: Wie würden Sie das Gelernte Schülerinnen und Schülern erklären?
+- Ehrliche Darstellung Ihrer Erkenntnisreise: Wie hat sich Ihre Planung im Laufe der Woche verändert?
+
+**Was wir nicht erwarten:**
+
+- Perfekte Ergebnisse oder fehlerfreie Messungen
+- Vollständige Abdeckung aller vier Module
+- Auswendig gelernte Fakten oder Zahlenwerte
+- Hochkomplexe numerische Auswertungen
 
 ### Ablauf des Abschlussseminars
 
-|Phase             |Dauer              |Was passiert                                          |
-|------------------|-------------------|------------------------------------------------------|
-|**Vortrag**       |30 Minuten (Tandem)|Sie präsentieren gemeinsam Ihren gewählten Schwerpunkt|
-|**Diskussion**    |15 Minuten         |Offene Fragen und fachlicher Austausch                |
-|**Prüfungsfragen**|15 Minuten         |Fragen zu Ihrem Vortrag und zur Laborwoche            |
-
------
+| Phase | Dauer | Was passiert |
+|-------|-------|--------------|
+| **Vortrag** | 30 Minuten (Team) | Sie präsentieren gemeinsam Ihren gewählten Schwerpunkt |
+| **Diskussion** | 15 Minuten | Offene Fragen und fachlicher Austausch (nicht bewertet) |
+| **Prüfungsfragen** | 15 Minuten | Fragen zu Ihrem Vortrag und zur Laborwoche |
 
 ### Zum Vortrag (30 Minuten)
 
-Der Vortrag wird als **Tandem** gehalten. Wie bei der Eingangspräsentation gilt:
+Der Vortrag wird als **Team** gehalten.
 
-**Zusammenarbeit:** Beide Tandempartner dürfen bei der Vorbereitung zusammenarbeiten. Die Präsentation wird sinnvoll zwischen beiden aufgeteilt.
-
-**Modulbezug:** Der Vortrag bezieht sich auf eines der drei Module (A, B oder C) oder auf eine modulübergreifende Fragestellung.
+**Modulbezug:** Der Vortrag bezieht sich auf eines der vier Module (A, B, C oder D) oder auf eine modulübergreifende Fragestellung.
 
 **Redezeit-Aufteilung:** Jede Person spricht mindestens 12 Minuten. Eine Aufteilung von 15:15 Minuten ist ideal; Abweichungen bis 12:18 Minuten sind akzeptabel.
 
-**Hinweis:** Obwohl der Vortrag gemeinsam gehalten wird, erfolgt die Bewertung individuell. Die Prüfenden achten darauf, welchen Beitrag jede Person leistet.
-
------
-
-### Zur Diskussion (15 Minuten)
-
-Die Diskussion dient dem fachlichen Austausch und der gemeinsamen Klärung offener Fragen. Sie ist ausdrücklich **kein Teil der Bewertung**. Was Sie in der Diskussion sagen oder fragen, kann Ihre Note weder verbessern noch verschlechtern.
-
------
+Obwohl der Vortrag gemeinsam gehalten wird, erfolgt die **Bewertung individuell**. Die Prüfenden achten darauf, welchen Beitrag jede Person leistet.
 
 ### Zu den Prüfungsfragen (15 Minuten)
 
-Die Prüfungsfragen zielen nicht auf auswendig gelernte Fakten oder einzelne Zahlenwerte. Stattdessen geht es um **Verständnis, Einordnung und Übertragung** der Konzepte, die Sie im Labor kennengelernt haben.
+Die Prüfungsfragen zielen auf **Verständnis, Einordnung und Übertragung** — nicht auf auswendig gelernte Fakten.
 
-Typische Fragen betreffen das „Warum” einer Aussage, nicht nur das „Was”.
-
-**Beispiele für geeignete Prüfungsfragen:**
+**Beispiele:**
 
 - Welche Annahme ist für diese Schlussfolgerung entscheidend?
 - Welche Messgröße begrenzt hier die Aussagekraft am stärksten?
 - Wie würden Sie dieses Ergebnis einer Schulklasse erklären?
 
-Die Prüfungsfragen werden an beide Tandempartner gestellt. Die Prüfenden achten darauf, dass beide Personen angemessen einbezogen werden.
-
------
+Die Prüfungsfragen werden an beide Teammitglieder gestellt.
 
 ### Wer ist bei der Prüfung anwesend?
 
 - Prüfende Person (Organisator oder Organisatorin)
-- Tutoren, die Sie während der Woche begleitet haben
-
-Die Anwesenheit der Tutoren dient der Kontinuität: Sie kennen Ihren Lernweg und können den Prüfenden einen Eindruck davon vermitteln. **Tutoren bewerten Sie nicht.**
-
------
+- Tutoren, die Sie während der Woche begleitet haben (geben Kontext, bewerten nicht)
 
 ### Bewertung
 
-|Was wird bewertet?                                                    |Gewichtung|
-|----------------------------------------------------------------------|----------|
-|Vortrag (Qualität der Argumentation, Klarheit der Erklärung, Struktur)|60 %      |
-|Prüfungsfragen (physikalisches Verständnis, Fähigkeit zur Reflexion)  |40 %      |
+| Was wird bewertet? | Gewichtung |
+|--------------------|------------|
+| Vortrag (Qualität der Argumentation, Klarheit der Erklärung, Struktur) | 60 % |
+| Prüfungsfragen (physikalisches Verständnis, Fähigkeit zur Reflexion) | 40 % |
 
-**Wichtig:** Die Bewertung erfolgt **individuell**, auch wenn der Vortrag gemeinsam gehalten wird. Jede Person erhält eine eigene Note.
-
------
+Die Bewertung erfolgt **individuell** — jede Person erhält eine eigene Note.
 
 ### Wahl Ihres Schwerpunkts
 
-Sie wählen als Tandem **einen gemeinsamen Schwerpunkt** für Ihren Vortrag:
+Sie wählen als Team **einen gemeinsamen Schwerpunkt** für Ihren Vortrag. Die Wahl treffen Sie spätestens am vorletzten Tag der Laborwoche in Absprache mit Ihren Tutoren.
 
-- Eines der drei Module (A, B oder C) als Hauptthema
-- Oder eine Fragestellung, die mehrere Module verbindet
+### Bei Ausfall eines Teammitglieds
 
-Die Wahl treffen Sie spätestens am vorletzten Tag der Laborwoche in Absprache mit Ihren Tutoren.
-
------
-
-### Bei Ausfall eines Tandempartners
-
-Sollte ein Tandempartner vor oder während des Abschlussseminars ausfallen, gelten dieselben Regelungen wie bei der Eingangspräsentation: Sprechen Sie umgehend mit den Organisatoren. Die verbleibende Person hält in der Regel einen verkürzten Vortrag; Details werden individuell geklärt.
+Sprechen Sie umgehend mit den Organisatoren. Die verbleibende Person hält in der Regel einen verkürzten Vortrag; Details werden individuell geklärt.
 
 -----
 
 ## Bekanntgabe Ihrer Note
 
-Die Bewertung Ihrer Prüfungsleistung wird Ihnen **sowohl mündlich als auch schriftlich** mitgeteilt:
-
-- **Mündlich:** Direkt im Anschluss an das Abschlussseminar erhalten Sie eine erste Rückmeldung zu Stärken und Bereichen, in denen Sie sich weiterentwickeln können.
-- **Schriftlich:** Die endgültige Note mit kurzer Begründung erhalten Sie innerhalb von [Frist einfügen] schriftlich.
+- **Mündlich:** Direkt im Anschluss an das Abschlussseminar erhalten Sie eine erste Rückmeldung.
+- **Schriftlich:** Die endgültige Note mit kurzer Begründung erhalten Sie innerhalb von [Frist einfügen].
 
 -----
 
-## Zusammenfassung: Was wird benotet — und was nicht?
+## Zusammenfassung: Hürden, Lernelemente und Prüfung
 
-|Element                       |Wird es benotet?                             |
-|------------------------------|---------------------------------------------|
-|Eingangspräsentation          |Nein — aber Voraussetzung für die Teilnahme  |
-|Laborwoche (Module A–C)       |Nein — Lernveranstaltung                     |
-|Stand-Up-Treffen              |Nein — Lernstruktur                          |
-|Laborbuch                     |Nein — Pflicht, aber nicht bewertet          |
-|Feedback während der Woche    |Nein — dient dem Lernen                      |
-|Diskussion im Abschlussseminar|Nein — fachlicher Austausch                  |
-|**Vortrag**                   |**Ja — 60 % der Note (individuell bewertet)**|
-|**Prüfungsfragen**            |**Ja — 40 % der Note (individuell bewertet)**|
+| Element | Kategorie | Erläuterung |
+|---------|-----------|-------------|
+| **Vorbesprechung** | Hürde | Verpflichtende Teilnahme in der Woche vor dem Start; ohne Teilnahme keine Zulassung zur Laborwoche |
+| **Stand-Up-Treffen** | Hürde | Drei verpflichtende Treffen während der Laborwoche zur Reflexion des Lernfortschritts |
+| **Laborbuch** | Hürde | Verpflichtende Führung während der gesamten Woche; wird nicht bewertet |
+| Laborwoche (Module A–D) | Lernelement | Lernveranstaltung — nicht benotet |
+| Feedback während der Woche | Lernelement | Dient dem Lernen — nicht benotet |
+| Diskussion im Abschlussseminar | Lernelement | Fachlicher Austausch — nicht benotet |
+| **Vortrag** | **Prüfung** | **60 % der Note (individuell bewertet)** |
+| **Prüfungsfragen** | **Prüfung** | **40 % der Note (individuell bewertet)** |
 
 -----
 
-## Einstiegsliteratur und Ressourcen (frei zugänglich)
+## Einstiegsliteratur und Ressourcen
 
-Die folgenden Materialien stehen kostenlos zur Verfügung und eignen sich zur Vorbereitung und Vertiefung:
+### Gedruckte Bücher
 
-### 1. Für die Datenauswertung: Learn Astropy
+Verschiedene Bücher zum Schwerpunkt Astronomie stehen bei **Andreas Härtel** und können **nach Absprache** ausgeliehen werden.
+
+Eine Liste weiterer empfohlener Bücher finden Sie online unter: [Link wird später eingefügt]
+
+### Frei zugängliche Online-Ressourcen
+
+#### 1. Für die Datenauswertung: Learn Astropy
 
 > **https://learn.astropy.org/**
 
-Eine Sammlung von Anleitungen zur astronomischen Datenanalyse mit der Programmiersprache Python. Sie finden dort Einführungen zu Bilddateien (FITS-Format), Koordinatensystemen, Helligkeitsmessungen und Spektroskopie.
+Anleitungen zur astronomischen Datenanalyse mit Python: Bilddateien (FITS-Format), Koordinatensysteme, Helligkeitsmessungen und Spektroskopie.
 
-**Lizenz:** Freie Software (BSD-3-Clause)
+**Lizenz:** BSD-3-Clause
 
------
-
-### 2. Für fachliche Grundlagen und Didaktik: OpenStax Astronomy
+#### 2. Für fachliche Grundlagen und Didaktik: OpenStax Astronomy
 
 > **https://openstax.org/details/books/astronomy-2e**
 
-Ein vollständiges Lehrbuch für einführende Astronomie, frei zugänglich als PDF und im Browser. Gut verständlich geschrieben, mit Alltagsanalogien und didaktischen Hinweisen. Besonders geeignet, wenn Sie über die Übertragbarkeit auf den Schulunterricht nachdenken.
+Ein vollständiges Lehrbuch für einführende Astronomie, frei zugänglich. Besonders geeignet für Überlegungen zur Übertragbarkeit auf den Schulunterricht.
 
-**Lizenz:** Creative Commons (CC BY 4.0) — Sie dürfen das Material frei verwenden und anpassen, solange Sie die Quelle nennen.
+**Lizenz:** CC BY 4.0
 
------
-
-### 3. Für Messunsicherheiten: GUM (Guide to the Expression of Uncertainty in Measurement)
+#### 3. Für Messunsicherheiten: GUM
 
 > **https://www.bipm.org/en/publications/guides**
 
-Der internationale Leitfaden zur Angabe von Messunsicherheiten, herausgegeben vom Internationalen Büro für Maß und Gewicht (BIPM). Für diese Laborwoche besonders relevant: die Abschnitte zur Fortpflanzung von Unsicherheiten und zur Dokumentation von Messgrößen.
+Der internationale Leitfaden zur Angabe von Messunsicherheiten (Guide to the Expression of Uncertainty in Measurement).
 
 **Lizenz:** Frei zugänglich
 
@@ -422,6 +407,26 @@ Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 
 -----
 
+## Begriffserklärungen
+
+| Begriff | Erklärung |
+|---------|-----------|
+| **Dopplerverschiebung** | Änderung der beobachteten Wellenlänge von Licht, wenn sich Quelle und Beobachter relativ zueinander bewegen. Ermöglicht die Messung von Geschwindigkeiten. |
+| **Formatives Feedback** | Rückmeldung, die dem Lernen dient und nicht in die Bewertung einfließt. |
+| **Fraunhoferlinien** | Dunkle Absorptionslinien im Sonnenspektrum, benannt nach Joseph von Fraunhofer. Sie entstehen, weil bestimmte Elemente in der Sonnenatmosphäre Licht bestimmter Wellenlängen absorbieren. |
+| **GUM** | Guide to the Expression of Uncertainty in Measurement — internationaler Leitfaden zur Angabe von Messunsicherheiten. |
+| **Hauptreihe** | Der Bereich im HR-Diagramm, in dem sich Sterne während des größten Teils ihres Lebens befinden, solange sie Wasserstoff zu Helium fusionieren. |
+| **HR-Diagramm** | Hertzsprung-Russell-Diagramm — eine grafische Darstellung, die Sterne nach Helligkeit (vertikal) und Temperatur bzw. Farbe (horizontal) ordnet. |
+| **Metallizität** | In der Astronomie: Der Anteil von Elementen schwerer als Wasserstoff und Helium in einem Stern. |
+| **Photometrie** | Messung der Helligkeit von Himmelsobjekten. |
+| **Riesenast** | Der Bereich im HR-Diagramm, in dem sich Sterne befinden, nachdem sie die Hauptreihe verlassen haben und sich zu Riesensternen entwickeln. |
+| **Seeing** | Die Unschärfe astronomischer Bilder durch Luftunruhe in der Erdatmosphäre. |
+| **SOHO** | Solar and Heliospheric Observatory — ein Weltraumteleskop zur Sonnenbeobachtung, betrieben von ESA und NASA seit 1995. |
+| **Spektroskopie** | Zerlegung von Licht in seine Wellenlängenanteile (Spektrum) zur Analyse. |
+| **Turn-off-Punkt** | Der Punkt im HR-Diagramm, an dem Sterne eines Haufens die Hauptreihe verlassen — ein Indikator für das Alter des Haufens. |
+
+-----
+
 -----
 
 # Anhang: Checkliste für Tutoren und Organisatoren
@@ -432,12 +437,13 @@ Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 
 ## Vor der Laborwoche
 
-- [ ] Termine für Vorbesprechung festlegen und kommunizieren
-- [ ] Tandem-Einteilung vornehmen und kommunizieren
+- [ ] Termine für Vorbesprechung festlegen (eine Woche vor der Laborwoche)
+- [ ] Team-Einteilung vornehmen und kommunizieren
 - [ ] Eingangspräsentationen organisieren (Zeitfenster, Raum)
-- [ ] Sicherheitsunterweisung vorbereiten
+- [ ] Modulwahl und Planungsskizzen der Teams dokumentieren
+- [ ] Sicherheitsunterweisung vorbereiten (insbesondere Sonnenfilter für Modul D)
 - [ ] Instrumentenzugang klären
-- [ ] Laborbuch-Format kommunizieren (digital oder handschriftlich)
+- [ ] Laborbuch-Format kommunizieren
 
 -----
 
@@ -446,22 +452,23 @@ Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 ### Laborbuchführung begleiten
 
 - [ ] Montag: Kurzer Check — wird das Laborbuch geführt?
-- [ ] Mittwoch: Schriftliches Feedback zur Struktur des Laborbuchs
+- [ ] Mittwoch: Schriftliches Feedback zur Struktur
 - [ ] Freitag: Abschließende Sichtung (keine Bewertung, nur Vollständigkeit)
 
-### Feste Stand-Up-Treffen
+### Stand-Up-Treffen (Zeiten sind Richtlinien)
 
-|Tag       |Uhrzeit  |Verantwortlich|Notizen|
-|----------|---------|--------------|-------|
-|Montag    |09:00 Uhr|[Name]        |       |
-|Dienstag  |15:00 Uhr|[Name]        |       |
-|Donnerstag|09:00 Uhr|[Name]        |       |
+| Tag | Uhrzeit (Richtwert) | Verantwortlich | Notizen |
+|-----|---------------------|----------------|---------|
+| Montag | 09:00 Uhr | [Name] | |
+| Dienstag | 15:00 Uhr | [Name] | |
+| Donnerstag | 09:00 Uhr | [Name] | |
 
 **Ablauf pro Treffen:**
 
 1. Studierende erläutern am Whiteboard den Stand der Dinge (15 Minuten)
-1. Offene Diskussion mit Tutoren (15 Minuten)
-1. Kurze Dokumentation der besprochenen Punkte (für Kontinuität)
+2. Reflexion: Wie hat sich die ursprüngliche Planung verändert?
+3. Offene Diskussion mit Tutoren (15 Minuten)
+4. Kurze Dokumentation der besprochenen Punkte
 
 ### Feedback-Rhythmus
 
@@ -472,11 +479,10 @@ Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 
 ## Vor dem Abschlussseminar
 
-- [ ] Schwerpunktwahl mit Tandems besprechen (spätestens Donnerstag)
+- [ ] Schwerpunktwahl mit Teams besprechen (spätestens Donnerstag)
 - [ ] Prüfungstermine festlegen
 - [ ] Tutoren über Anwesenheit bei der Prüfung informieren
 - [ ] Bewertungskriterien intern abstimmen
-- [ ] Klären: Wie wird die individuelle Bewertung bei Tandem-Vorträgen dokumentiert?
 
 -----
 
@@ -485,15 +491,15 @@ Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 - [ ] Tutoren anwesend (geben Kontext, bewerten nicht)
 - [ ] Zeitstruktur einhalten: 30 Min Vortrag / 15 Min Diskussion / 15 Min Prüfungsfragen
 - [ ] Diskussion explizit als nicht bewertet kennzeichnen
-- [ ] Bei Prüfungsfragen: Beide Tandempartner angemessen einbeziehen
-- [ ] Redezeit-Aufteilung im Vortrag notieren (für individuelle Bewertung)
+- [ ] Beide Teammitglieder angemessen einbeziehen
+- [ ] Redezeit-Aufteilung notieren (für individuelle Bewertung)
 
 -----
 
 ## Nach dem Abschlussseminar
 
 - [ ] Mündliche Rückmeldung direkt im Anschluss geben (individuell)
-- [ ] Schriftliche Bewertung mit Begründung innerhalb von [Frist] versenden (individuell)
+- [ ] Schriftliche Bewertung innerhalb von [Frist] versenden (individuell)
 - [ ] Feedback zur Laborwoche von Studierenden einholen (optional)
 
 -----
@@ -502,26 +508,30 @@ Bei Fragen zur Organisation oder zum Ablauf wenden Sie sich an:
 
 **Zur eigenen Rolle:**
 
-- Ihr seid Mitlernende, nicht Prüfer.
-- Euer Feedback dient dem Lernen, nicht der Bewertung.
-- Eure Beobachtungen können im Abschlussseminar Kontext geben — aber ihr bewertet nicht.
-- Laborbuch-Checks dienen der Unterstützung, nicht der Kontrolle.
-- Eure eigenen Fragen sind willkommen.
+- Ihr seid Mitlernende, nicht Prüfer
+- Euer Feedback dient dem Lernen, nicht der Bewertung
+- Laborbuch-Checks dienen der Unterstützung, nicht der Kontrolle
 
 **Zum Umgang mit Fehlern:**
 
-- Unsichere oder fehlerhafte Aussagen von Studierenden sind Anlass für Nachfragen, nicht für sofortige Korrektur. Im Lernraum darf man falsch liegen.
+- Unsichere oder fehlerhafte Aussagen sind Anlass für Nachfragen, nicht für sofortige Korrektur
 
-**Zur Tandem-Arbeit:**
+**Zur Team-Arbeit:**
 
-- Achtet darauf, dass beide Tandempartner aktiv einbezogen sind.
-- Wenn ein Tandem ungleich arbeitet, sprecht es frühzeitig an — formativ, nicht wertend.
+- Achtet darauf, dass beide Teammitglieder aktiv einbezogen sind
+- Ungleiche Arbeitsverteilung frühzeitig ansprechen — formativ, nicht wertend
+
+**Zu Modul D (Sonnenbeobachtung):**
+
+- Sicherheitsunterweisung ist **obligatorisch** vor jeder Sonnenbeobachtung
+- Niemals ohne Filter beobachten lassen
+- Im Zweifelsfall: Beobachtung abbrechen
 
 -----
 
 ## Rechtlicher Hinweis (intern)
 
-**Änderungen an den Bewertungskriterien nach Beginn der Laborwoche sind nicht zulässig.** Die im Vorfeld kommunizierten Kriterien gelten für alle Teilnehmenden gleichermaßen.
+**Änderungen an den Bewertungskriterien nach Beginn der Laborwoche sind nicht zulässig.**
 
 -----
 
