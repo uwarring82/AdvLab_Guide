@@ -97,7 +97,6 @@ Your lab notes must allow verification and reconstruction of your work.
 
 **Deadline:** 7 calendar days after final session (lab days excluded).
 **Late:** ≤3 days → 0.3 penalty | >3 days → may not be accepted
-**Resubmission:** One opportunity if graded 5.0. Second 5.0 = course failure.
 
 ### Report Requirements
 
@@ -111,7 +110,7 @@ Your lab notes must allow verification and reconstruction of your work.
 
 **Short report principle:** Same rigour, reduced scope. Quality over comprehensiveness.
 
-**Tutor feedback:** 14 days (report) | 10 days (resubmission)
+**Tutor feedback:** 14 days (report)
 
 ---
 
@@ -202,14 +201,13 @@ The seminar presentation integrates experimental findings with didactic reflecti
 
 | Situation | Consequence |
 |-----------|-------------|
+| Safety violation | Removal → retraining → exclusion |
+| >2 failed entrance sessions | Course failure |
 | Late report ≤3 / >3 days | 0.3 penalty / may not be accepted |
 | Late lab notes (seminar exp.) | Seminar may be postponed; late penalty at organiser discretion |
-| Report graded 5.0 | Resubmission opportunity |
+| Report graded 5.0 | None |
 | Second report 5.0 | Course failure |
-| Lab notes + seminar combined 5.0 (FP-2) | Resubmission of lab notes + repeat seminar opportunity |
-| Lab notes + Lab-Special combined 5.0 (FP-EDU) | Resubmission of lab notes + repeat presentation opportunity |
-| >2 failed entrance sessions | Course failure |
-| Safety violation | Removal → retraining → exclusion |
+| Lab notes + seminar combined 5.0 (FP-2 & FP-EDU) | Resubmission of lab notes + repeat seminar opportunity |
 
 ---
 
