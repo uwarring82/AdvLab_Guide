@@ -8,11 +8,11 @@
 
 | | FP-2 (Master) | FP-EDU (Education) |
 |---|---|---|
-| Experiments | 2× one-week with reports (each weight 1.0) + 1× two-week seminar experiment | 2× short reports (each weight 1.0) + 1× full report with Labor-Spezial (weight 1.5) |
-| Seminar Experiment | Final experiment; assessed via lab notes (40%) + seminar presentation (60%); combined weight 2.0 | Final experiment; Labor-Spezial with didactic reflection (weight 1.5) |
+| Experiments | 2x one- or two–week with reports (each weight 1.0) | 2× short reports (each weight 1.0) + 1× full report (weight 1.5) |
+| Seminar Experiment | Final experiment; assessed via lab notes (30%) + seminar presentation (70%); combined weight 2.0 | Final experiment; full report (weight 1.5) + Lab-Special via lab notes (30%) + presentation (70%); combined weight 1.5 |
 | Pass threshold | Overall ≤ 4.0 | Overall ≤ 4.0 |
 
-**Seminar assignment:** The seminar is always held on your final (third) experiment. Organisers aim for balanced distribution across available experiments when assigning student schedules.
+**Seminar assignment:** The seminar is always held on your final experiment. Organisers aim for balanced distribution across available experiments when assigning student schedules.
 
 ---
 
@@ -153,15 +153,32 @@ Lab notes for the seminar experiment must be submitted as a complete, legible do
 
 ---
 
-## Labor-Spezial (Experiment 3) — FP-EDU
+## Lab-Special — FP-EDU
 
-FP-EDU students complete a full report for their third experiment (weight 1.5) and present a Labor-Spezial seminar with integrated didactic reflection.
+FP-EDU students complete a dedictaed experiment and seminar with integrated didactic reflection. To ensure traceability and assess laboratory work, **lab notes must be submitted**.
+
+### Assessment Structure
+
+| Component | Weight | Deadline |
+|-----------|--------|----------|
+| Full Report | 1.5 (separate) | 7 calendar days after final session |
+| Lab Notes | 30% of Labor-Spezial | 3 calendar days before seminar |
+| Labor-Spezial Presentation | 70% of Labor-Spezial | Scheduled date |
+| **Labor-Spezial Combined** | **1.5** (course weight) | |
+
+### Lab Notes Submission Requirements
+
+Lab notes requirements are identical to FP-2 (see above): Completeness, Traceability, Key Results Identified, Anomaly Documentation, Legibility.
 
 ### Didactic Reflection Components
+
+The Labor-Spezial presentation integrates experimental findings with didactic reflection:
 
 - How could this experiment be communicated to learners at different levels?
 - What conceptual difficulties might learners encounter?
 - What adaptations or scaffolding would you propose?
+
+**Assessment:** The presentation is assessed on both scientific rigour (results, uncertainties, methodology) and quality of didactic reasoning.
 
 ---
 
@@ -190,7 +207,8 @@ FP-EDU students complete a full report for their third experiment (weight 1.5) a
 | Late lab notes (seminar exp.) | Seminar may be postponed; late penalty at organiser discretion |
 | Report graded 5.0 | Resubmission opportunity |
 | Second report 5.0 | Course failure |
-| Lab notes + seminar combined 5.0 | Resubmission of lab notes + repeat seminar opportunity |
+| Lab notes + seminar combined 5.0 (FP-2) | Resubmission of lab notes + repeat seminar opportunity |
+| Lab notes + Labor-Spezial combined 5.0 (FP-EDU) | Resubmission of lab notes + repeat presentation opportunity |
 | >2 failed entrance sessions | Course failure |
 | Safety violation | Removal → retraining → exclusion |
 
