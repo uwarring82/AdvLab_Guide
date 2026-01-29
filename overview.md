@@ -8,8 +8,8 @@
 
 | | FP-2 (Master) | FP-EDU (Education) |
 |---|---|---|
-| Experiments | 2× one- or two-week with reports (each weight 1.0) | 2× short reports (each weight 1.0) + 1× full report (weight 1.5) |
-| Seminar Experiment | Final experiment; assessed via lab notes (30%) + seminar presentation (70%); combined weight 2.0 | Final experiment; full report (weight 1.5) + Lab-Special via lab notes (30%) + presentation (70%); combined weight 1.5 |
+| Experiments | 2× one- or two-week with reports (each weight 1.0) | 3x two days and corrspondingly 2× short reports (each weight 1.0) + 1× full report (weight 1.5) |
+| Seminar Experiment | Final experiment; assessed via final lab notes (30%) + seminar presentation (70%); combined weight 2.0 | Lab-Special; assessed via final lab notes (30%) + seminar presentation (70%); combined weight 1.5 |
 | Pass threshold | Overall ≤ 4.0 | Overall ≤ 4.0 |
 
 **Seminar assignment:** The seminar is always held on your final experiment. Organisers aim for balanced distribution across available experiments when assigning student schedules.
