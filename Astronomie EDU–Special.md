@@ -53,7 +53,7 @@ Diese Laborwoche richtet sich an **Lehramtsstudierende**.
 │  SCHRITT 2: LABORWOCHE (Lernphase)                                      │
 │  Stand-Up-Treffen · Module A–D · Laborbuch · begleitendes Feedback      │
 ├─────────────────────────────────────────────────────────────────────────┤
-│  SCHRITT 3: ABSCHLUSSKOLLOQUIUM                                         │
+│  SCHRITT 3: ABSCHLUSS                                         │
 │  Ergebnisse mit Unsicherheiten · Vergleich mit Erwartungen · Reflexion  │
 ├─────────────────────────────────────────────────────────────────────────┤
 │  PRÜFUNG: LAB-SPECIAL SEMINAR                                           │
@@ -166,9 +166,9 @@ Zeiten können je nach Nachtbeobachtungen verschoben werden.
 
 ---
 
-## Schritt 3: Abschlusskolloquium
+## Schritt 3: Abschluss
 
-Das Abschlusskolloquium entspricht dem „Findings Session" der allgemeinen FP-EDU-Regeln.
+Das Abschlussgespräch entspricht dem „Findings Session" der allgemeinen FP-EDU-Regeln.
 
 **Mindestanforderung:** Qualitative Diskussion von:
 - Ergebnissen mit Unsicherheiten
