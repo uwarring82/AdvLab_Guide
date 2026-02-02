@@ -43,7 +43,7 @@ We're designing the courses around three simple ideas:
 
 | File | Description |
 |------|-------------|
-| `advanced-laboratory-rulebook.md` | Complete rules for students, tutors, and organisers |
+| `rulebook.md` | Complete rules for students, tutors, and organisers |
 | `feedback-sheets.docx` | Assessment forms for all course components (also as PDF) |
 | `Welcome letter.md` | Letter to all participants |
 
