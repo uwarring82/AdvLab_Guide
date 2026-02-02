@@ -43,7 +43,7 @@
 2. **Three rules:** Know before you touch. Report problems immediately. Never work alone with hazardous equipment.
 3. Read the experiment guide thoroughly and prepare for entrance session.
 
-**Tutors:** Verify safety training current; test equipment and take own measurements (2 weeks before); read course documentation.
+**Tutors:** Discuss specifc safety features with organisers; test equipment and take own measurements (2 weeks before); read course documentation.
 
 ---
 
