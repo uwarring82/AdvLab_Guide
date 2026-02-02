@@ -51,8 +51,8 @@ and more.
 
 ## Current Status
 
-**Version:** 0.2 (Draft)  
-**Status:** Under review 
+**Version:** 2026-1 (Draft)  
+**Status:** Release candidate 
 
 The documentation is being developed iteratively. We're testing ideas, gathering feedback, and refining the language. Nothing is final until it's marked as final.
 
