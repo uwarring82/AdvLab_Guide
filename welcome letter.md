@@ -31,7 +31,9 @@ We call it the Safe Space, and it's always active. It means you cannot be assess
 
 These aren't aspirations. They're rules. They hold because the structure enforces them.
 
-For tutors, the same accountability applies. You follow protocols. You meet deadlines. You explain your decisions.
+All criteria are published before you begin. Deadlines are clear. Late submissions have defined consequences — not arbitrary ones. If something goes wrong that isn't your fault, escalation pathways exist, and good-faith escalation cannot lead to disadvantage.
+
+For tutors, the same accountability applies. They follow protocols. They meet deadlines. They explain their decisions.
 
 The Safe Space isn't about comfort. It's about fairness. It's the ground we all stand on.
 
@@ -39,7 +41,9 @@ The Safe Space isn't about comfort. It's about fairness. It's the ground we all 
 
 **The practice: honest discourse.**
 
-We call it the Communication Space. When it's active, students lead. Tutors observe by default — and intervene only when necessary: for safety, for clear factual errors that would block learning, or for process issues. When tutors speak, they say why.
+We call it the Communication Space. During the learning phase — the three steps of entrance session, active laboratory work, and findings session — students lead. Tutors observe by default.
+
+Tutors intervene only when necessary: for safety, for clear factual errors that would block learning (and only when they're confident), or for process feedback. When tutors speak, they state their reason. These interventions are logged.
 
 The goal isn't consensus for its own sake. The goal is that when you reach a conclusion, it reflects genuine understanding — not deference, not guessing what the tutor wants.
 
@@ -59,7 +63,17 @@ Exploration produces candidates, not conclusions. Conclusions require deliberati
 
 ---
 
-So that's the design: a foundation of fairness, space for honest discourse, and room to explore with discipline.
+**The structure: three steps, then assessment.**
+
+Each experiment follows the same rhythm. First, the entrance session — you present the physics, we discuss. Then, active laboratory work — you measure, analyse, document in your lab notes. Finally, the findings session — you present what you found, with uncertainties, compared to expectations.
+
+These three steps are your learning phase. Formative feedback throughout, no grades.
+
+Assessment comes after: written reports for standard experiments, or short report plus seminar presentation for your final experiment. The criteria are published. The process is transparent.
+
+---
+
+So that's the design: a foundation of fairness, space for honest discourse, room to explore with discipline, and a clear structure that separates learning from assessment.
 
 For students, this is your opportunity to engage with physics seriously — and to be taken seriously in return.
 
