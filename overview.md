@@ -140,6 +140,19 @@ Lab notes for the seminar experiment must be submitted as a complete, legible do
 
 **Assessment:** Lab notes are assessed on whether they permit independent verification of results and reconstruction of methodology—not on prose style or visual polish.
 
+**Deadline:** 3 calendar days before scheduled seminar.
+
+| Submission | Consequence |
+|------------|-------------|
+| On time | Seminar proceeds |
+| 1–3 days late | 0.3 penalty; seminar proceeds or rescheduled |
+| >3 days late | 0.7 penalty; seminar rescheduled |
+| Not submitted by rescheduled date | Combined grade 5.0 (resubmission pathway applies) |
+
+**Rescheduling:** Next available slot within examination period. No slot available → course incomplete.
+
+**Extensions:** Written request before deadline with documentation (illness, family emergency, comparable). Workload is not grounds for extension.
+
 ### Seminar Presentation (60 minutes)
 
 | Phase | Duration |
