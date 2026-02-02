@@ -202,6 +202,7 @@ Der Vortrag wird als **Team** gehalten (ca. 30 Minuten gesamt). Jede Person spri
 
 ### Was wir nicht erwarten
 
+- Tagbuchähnliche Erzählungen
 - Perfekte Ergebnisse
 - Vollständige Abdeckung aller Module
 - Auswendig gelernte Fakten
