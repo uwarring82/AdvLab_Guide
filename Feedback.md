@@ -58,7 +58,7 @@ All ratings use a 4-level scale:
 
 ---
 
-## Section 1 — Entrance Preparation
+## Step 1 — Entrance Preparation
 
 **Readiness for starting measurements:**
 
@@ -85,13 +85,13 @@ _____________________________________________
 
 ---
 
-## Section 2 — Work in the Lab
+## Step 2 — Work in the Lab
 
 **Ratings (0–3):**
 
 | Criterion | Rating |
 |-----------|--------|
-| Responsible lab behaviour | ___ |
+| Experimental skills, structure of lab work | ___ |
 | Quality of lab notes | ___ |
 | Data handling (saved, labelled, dated) | ___ |
 | In-lab analysis (plots, checks, calibration) | ___ |
@@ -109,7 +109,7 @@ _____________________________________________
 
 ---
 
-## Section 3 — Findings Session
+## Step 3 — Findings Session
 
 **Ratings (0–3):**
 
@@ -130,7 +130,7 @@ _____________________________________________
 
 ---
 
-## Section 4 — Help for Writing the Report
+## Help for Writing the Report
 
 **The report must clearly include:**
 
