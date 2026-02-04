@@ -12,7 +12,7 @@
 | Seminar Experiment | Final experiment; assessed via short report (30%) + seminar presentation (70%); combined weight 2.0 | Lab-Special; assessed via short report (30%) + seminar presentation (70%); combined weight 1.5 |
 | Pass threshold | Overall ≤ 4.0 | Overall ≤ 4.0 |
 
-**Seminar assignment:** The seminar is always held on your final experiment. Organisers aim for balanced distribution across available experiments when assigning student schedules. Seminars will be scheduled by organisers as a suggestion. 
+**Seminar assignment:** The seminar is per deafault held on your final experiment. Organisers aim for balanced distribution across available experiments when assigning student schedules. Seminars will be scheduled by organisers as a suggestion. 
 
 ---
 
