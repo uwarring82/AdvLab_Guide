@@ -24,7 +24,9 @@
 | **2. Active Lab + Lab Notes** | Throughout experiment | Engaged measurement; in-lab analysis; complete lab notes |
 | **3. Findings Session** | ~30-min presentation + 15-min discussion | Present findings with uncertainties; comparison to expectations |
 
-**Limit:** More than 2 failed entrance sessions results in course failure.
+**Limit:** More than 2 failed steps (e.g. entrance sessions) results in course failure. To be clear: A thrid failed step — whether Step 1, 2, or 3, in the same or different experiments — results in immediate course termination.
+
+
 
 ---
 
