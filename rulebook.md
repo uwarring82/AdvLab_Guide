@@ -307,7 +307,7 @@ Submit your report as a single file via ILIAS.
 
 # Appendix C: Checklist for Seminar Presentations
 
-Your seminar presentation should last approximately 40 minutes. If there is more than one presenter, divide this time sensibly among the students. You can create your presentation in PowerPoint, OpenOffice, or (preferably) PDF format. Ensure your presentation is understandable to students who have not conducted your experiment by using clear, precise language. Discuss and refine your presentation's content with your lab assistant or mentor before delivering your seminar. Rehearse your presentation to ensure smooth delivery.
+Your seminar presentation should last approximately 30 minutes. If there is more than one presenter, divide this time sensibly among the students. You can create your presentation in PowerPoint, OpenOffice, or (preferably) PDF format. Ensure your presentation is understandable to students who have not conducted your experiment by using clear, precise language. Discuss and refine your presentation's content with your lab assistant or mentor before delivering your seminar. Rehearse your presentation to ensure smooth delivery.
 
 After your talk, there will be a discussion period lasting 20 minutes. This time serves as an opportunity for further exploration of your topic and for others to ask questions. Your seminar will be evaluated based on the quality of your slides, the delivery of your oral presentation, and the depth of your background knowledge.
 
