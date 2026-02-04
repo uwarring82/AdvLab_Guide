@@ -88,6 +88,10 @@ Your lab notes must allow verification and reconstruction of your work.
 - A 15-min discussion follows.
 - **Minimum requirement:** The presentation must include at least a qualitative discussion of each of the above points (findings with uncertainties, comparison to expectations, unresolved questions). Quantitative treatment where feasible strengthens the presentation.
 
+
+## Note
+A thrid failed step — whether Step 1, 2, or 3, in the same or different experiments — results in immediate course termination.
+
 ---
 
 # Part II: Exam Phase
@@ -103,11 +107,13 @@ All reports—whether full reports, short reports, or seminar short reports—mu
 
 This requirement ensures traceability and permits independent verification.
 
+Note: Consecutive experiments: When multiple experiments occur in consecutive weeks, report deadlines run sequentially from the end of the last experiment — 7 days for the first report, then 7 days for the second, then 7 days for the third.
+
 ---
 
 ## Written Reports (Experiments 1 & 2)
 
-**Deadline:** 7 calendar days after final session (lab days excluded).
+**Deadline:** 7 calendar days after final session.
 **Late submission:** ≤3 days → 0.3 penalty | >3 days → may not be accepted
 
 ### Report Requirements
