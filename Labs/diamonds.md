@@ -61,13 +61,13 @@ The diode laser is a **Class-3b system** (up to 100 mW at 519 nm). Appropriate l
 
 ---
 
-## Reference
+## Reference (on ILIAS)
 
 Detailed experimental instructions are provided in the accompanying document:
 
 📄 **0_Instructions.pdf** — *Diamonds for Sensing Applications, Master Lab*
 
-This document contains the theoretical background, apparatus description, course programme, calibration requirements, and equipment list. Bring a printed or annotated copy to the lab.
+This document contains the theoretical background, apparatus description, course programme, calibration requirements, and equipment list. Bring a printed or annotated copy to the lab. More references are also given. 
 
 ---
 
