@@ -258,8 +258,4 @@ Gedruckte Bücher zum Schwerpunkt Astronomie stehen bei **Andreas Härtel** und 
 
 ---
 
-## Kontakt
-
-fp@physik.uni-freiburg.de
-
 **Für alle weiteren Regeln (Fristen, Konsequenzen, Bewertungskriterien, Eskalation) gelten die allgemeinen AdvLabs-Dokumente.**
