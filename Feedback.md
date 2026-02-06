@@ -14,7 +14,7 @@ We use two types of feedback sheets:
 | **Experiment Learning Sheet (ELS)** | During experiment | Supports learning and report preparation | No |
 | **Assessment Feedback Sheet (AFS)** | After submission | Documents exam assessment | Yes |
 
-Learning feedback and exam feedback are kept separate on purpose. Ready to fill in Forms are available on ILIAS.
+Learning feedback and exam feedback are kept separate on purpose. Ready to fill in forms are available on ILIAS.
 
 ---
 
